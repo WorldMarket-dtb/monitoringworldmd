@@ -1,0 +1,18 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6282363664594",
+  "instanceId": "6282363664594_1960b3e8-1572-4166-9fbb-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-02-24T20:38:53.960Z",
+  "lastSeenAt": "2026-02-24T20:39:14.981Z",
+  "host": {
+    "hostname": "1960b3e8-1572-4166-9fbb-ee2cf8765ef0",
+    "platform": "linux",
+    "node": "20.20.0",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "1960b3e8-1572-4166-9fbb-ee2cf8765ef0"
+    }
+  }
+}
