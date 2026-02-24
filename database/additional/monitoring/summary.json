@@ -7,7 +7,7 @@
       "botNumber": "6282363664594",
       "folder": "session",
       "sessionType": "main",
-      "lastSeenAt": "2026-02-24T20:41:15.782Z",
+      "lastSeenAt": "2026-02-24T20:42:15.783Z",
       "startedAt": "2026-02-24T20:38:53.960Z",
       "host": {
         "hostname": "1960b3e8-1572-4166-9fbb-ee2cf8765ef0",
@@ -23,5 +23,5 @@
   "activeInstanceIds": [
     "6282363664594_1960b3e8-1572-4166-9fbb-"
   ],
-  "updatedAt": "2026-02-24T20:42:00.630Z"
+  "updatedAt": "2026-02-24T20:42:30.567Z"
 }
