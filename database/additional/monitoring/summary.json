@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "activeCount": 0,
-  "activeInstances": [],
-  "activeInstanceIds": [],
-  "updatedAt": "2026-02-25T14:45:06.430Z"
+  "activeCount": 1,
+  "activeInstances": [
+    {
+      "instanceId": "584264392982_96de660f-bba8-446c-a50a-",
+      "botNumber": "584264392982",
+      "folder": "session",
+      "sessionType": "main",
+      "lastSeenAt": "2026-02-25T14:40:40.798Z",
+      "startedAt": "2026-02-25T14:40:17.950Z",
+      "host": {
+        "hostname": "96de660f-bba8-446c-a50a-4aa371cb0de0",
+        "platform": "linux",
+        "node": "20.20.0",
+        "panel": {
+          "pterodactyl": true,
+          "serverIdentifier": "96de660f-bba8-446c-a50a-4aa371cb0de0"
+        }
+      }
+    }
+  ],
+  "activeInstanceIds": [
+    "584264392982_96de660f-bba8-446c-a50a-"
+  ],
+  "updatedAt": "2026-02-25T14:45:26.461Z"
 }
