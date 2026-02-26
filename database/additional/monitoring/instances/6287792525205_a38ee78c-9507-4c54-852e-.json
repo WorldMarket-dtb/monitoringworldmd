@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6287792525205",
+  "ownerName": "CACICUCECE BOT",
+  "ownerNumbers": [
+    "628138798132"
+  ],
+  "instanceId": "6287792525205_a38ee78c-9507-4c54-852e-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-02-26T11:08:39.259Z",
+  "startedAtMs": 1772104119259,
+  "lastSeenAt": "2026-02-26T11:09:39.002Z",
+  "lastSeenAtMs": 1772104179002,
+  "host": {
+    "hostname": "a38ee78c-9507-4c54-852e-d72d3d69c5f2",
+    "platform": "linux",
+    "node": "20.20.0",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "a38ee78c-9507-4c54-852e-d72d3d69c5f2"
+    }
+  }
+}
