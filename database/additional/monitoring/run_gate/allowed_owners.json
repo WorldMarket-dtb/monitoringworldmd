@@ -1,9 +1,12 @@
 {
   "version": 1,
   "enabled": false,
-  "groupJid": "",
-  "allowedOwners": [],
-  "reason": "DISABLED",
-  "checkedAt": "2026-02-27T08:21:39.202Z",
-  "checkedAtMs": 1772180499202
+  "groupJid": "120363408152461243@g.us",
+  "allowedOwners": [
+    "64365067767966",
+    "63531911221440"
+  ],
+  "reason": "OK",
+  "checkedAt": "2026-02-27T08:26:03.534Z",
+  "checkedAtMs": 1772180763534
 }
