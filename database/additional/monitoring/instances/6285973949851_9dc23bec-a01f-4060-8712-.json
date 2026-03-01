@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6285973949851",
+  "ownerName": "RAMZ MARKET",
+  "ownerNumbers": [
+    "6289673301198"
+  ],
+  "instanceId": "6285973949851_9dc23bec-a01f-4060-8712-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-03-01T06:32:28.772Z",
+  "startedAtMs": 1772346748772,
+  "lastSeenAt": "2026-03-01T06:33:14.753Z",
+  "lastSeenAtMs": 1772346794753,
+  "host": {
+    "hostname": "9dc23bec-a01f-4060-8712-4bbd9f8d45d3",
+    "platform": "linux",
+    "node": "20.20.0",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "9dc23bec-a01f-4060-8712-4bbd9f8d45d3"
+    }
+  }
+}
