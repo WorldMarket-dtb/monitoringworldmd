@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6285178442245",
+  "ownerName": "MAR STORE",
+  "ownerNumbers": [
+    "6285141615616"
+  ],
+  "instanceId": "6285178442245_926b0e11-c3da-4b80-b55f-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-03-01T08:53:09.769Z",
+  "startedAtMs": 1772355189769,
+  "lastSeenAt": "2026-03-01T08:53:48.862Z",
+  "lastSeenAtMs": 1772355228862,
+  "host": {
+    "hostname": "926b0e11-c3da-4b80-b55f-ced626e8b9bd",
+    "platform": "linux",
+    "node": "20.20.0",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "926b0e11-c3da-4b80-b55f-ced626e8b9bd"
+    }
+  }
+}
