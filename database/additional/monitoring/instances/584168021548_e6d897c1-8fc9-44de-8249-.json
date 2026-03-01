@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "584168021548",
+  "ownerName": "rifki store",
+  "ownerNumbers": [
+    "6285707667860"
+  ],
+  "instanceId": "584168021548_e6d897c1-8fc9-44de-8249-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-03-01T02:17:50.723Z",
+  "startedAtMs": 1772331470723,
+  "lastSeenAt": "2026-03-01T02:18:49.569Z",
+  "lastSeenAtMs": 1772331529569,
+  "host": {
+    "hostname": "e6d897c1-8fc9-44de-8249-fd7583108cb7",
+    "platform": "linux",
+    "node": "20.20.0",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "e6d897c1-8fc9-44de-8249-fd7583108cb7"
+    }
+  }
+}
