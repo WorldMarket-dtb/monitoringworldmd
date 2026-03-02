@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6289531912712",
+  "ownerName": "Evan Market",
+  "ownerNumbers": [
+    "6289509472693"
+  ],
+  "instanceId": "6289531912712_9f47bd96-3874-4974-a9c4-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-03-02T15:48:30.549Z",
+  "startedAtMs": 1772466510549,
+  "lastSeenAt": "2026-03-02T15:50:34.363Z",
+  "lastSeenAtMs": 1772466634363,
+  "host": {
+    "hostname": "9f47bd96-3874-4974-a9c4-e717868d8b7a",
+    "platform": "linux",
+    "node": "20.20.0",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "9f47bd96-3874-4974-a9c4-e717868d8b7a"
+    }
+  }
+}
