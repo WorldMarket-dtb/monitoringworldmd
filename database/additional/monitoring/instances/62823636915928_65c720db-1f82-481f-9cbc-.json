@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "62823636915928",
+  "ownerName": "World Market",
+  "ownerNumbers": [
+    "62888"
+  ],
+  "instanceId": "62823636915928_65c720db-1f82-481f-9cbc-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-03-02T14:34:13.411Z",
+  "startedAtMs": 1772462053411,
+  "lastSeenAt": "2026-03-02T14:35:44.704Z",
+  "lastSeenAtMs": 1772462144704,
+  "host": {
+    "hostname": "65c720db-1f82-481f-9cbc-33265fcb75b8",
+    "platform": "linux",
+    "node": "20.20.0",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "65c720db-1f82-481f-9cbc-33265fcb75b8"
+    }
+  }
+}
