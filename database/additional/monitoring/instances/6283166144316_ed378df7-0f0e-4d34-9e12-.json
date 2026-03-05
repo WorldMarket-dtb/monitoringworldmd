@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6283166144316",
+  "ownerName": "kitara Store",
+  "ownerNumbers": [
+    "6285187232846"
+  ],
+  "instanceId": "6283166144316_ed378df7-0f0e-4d34-9e12-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-03-05T21:32:43.471Z",
+  "startedAtMs": 1772746363471,
+  "lastSeenAt": "2026-03-05T21:33:28.476Z",
+  "lastSeenAtMs": 1772746408476,
+  "host": {
+    "hostname": "ed378df7-0f0e-4d34-9e12-6ba2e0d58c74",
+    "platform": "linux",
+    "node": "20.20.0",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "ed378df7-0f0e-4d34-9e12-6ba2e0d58c74"
+    }
+  }
+}
