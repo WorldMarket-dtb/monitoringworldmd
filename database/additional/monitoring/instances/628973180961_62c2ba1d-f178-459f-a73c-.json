@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "628973180961",
+  "ownerName": "azka Market",
+  "ownerNumbers": [
+    "6283190194159"
+  ],
+  "instanceId": "628973180961_62c2ba1d-f178-459f-a73c-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-03-05T06:48:31.248Z",
+  "startedAtMs": 1772693311248,
+  "lastSeenAt": "2026-03-05T06:49:24.413Z",
+  "lastSeenAtMs": 1772693364413,
+  "host": {
+    "hostname": "62c2ba1d-f178-459f-a73c-471578b51edc",
+    "platform": "linux",
+    "node": "20.20.0",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "62c2ba1d-f178-459f-a73c-471578b51edc"
+    }
+  }
+}
