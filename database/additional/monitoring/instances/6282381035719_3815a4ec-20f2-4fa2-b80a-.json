@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6282381035719",
+  "ownerName": "Kiaa 404 NFN",
+  "ownerNumbers": [
+    "6283179010335"
+  ],
+  "instanceId": "6282381035719_3815a4ec-20f2-4fa2-b80a-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-03-06T02:34:14.622Z",
+  "startedAtMs": 1772764454622,
+  "lastSeenAt": "2026-03-06T02:35:03.270Z",
+  "lastSeenAtMs": 1772764503270,
+  "host": {
+    "hostname": "3815a4ec-20f2-4fa2-b80a-c3694abfc7d3",
+    "platform": "linux",
+    "node": "20.20.0",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "3815a4ec-20f2-4fa2-b80a-c3694abfc7d3"
+    }
+  }
+}
