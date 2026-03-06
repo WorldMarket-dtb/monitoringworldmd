@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6289531912712",
+  "ownerName": "MARVEN Market",
+  "ownerNumbers": [
+    "6289509472693"
+  ],
+  "instanceId": "6289531912712_f8a21180-0bcb-4490-9c87-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-03-06T17:00:33.943Z",
+  "startedAtMs": 1772816433943,
+  "lastSeenAt": "2026-03-06T17:05:30.125Z",
+  "lastSeenAtMs": 1772816730125,
+  "host": {
+    "hostname": "f8a21180-0bcb-4490-9c87-6b816a1e85dc",
+    "platform": "linux",
+    "node": "20.20.0",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "f8a21180-0bcb-4490-9c87-6b816a1e85dc"
+    }
+  }
+}
