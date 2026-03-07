@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6283179594084",
+  "ownerName": "abs store",
+  "ownerNumbers": [
+    "6283185849608"
+  ],
+  "instanceId": "6283179594084_ef5c1170-98be-4c65-b1b1-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-03-07T03:52:05.078Z",
+  "startedAtMs": 1772855525078,
+  "lastSeenAt": "2026-03-07T03:52:53.740Z",
+  "lastSeenAtMs": 1772855573740,
+  "host": {
+    "hostname": "ef5c1170-98be-4c65-b1b1-72b60e0da1b7",
+    "platform": "linux",
+    "node": "20.20.0",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "ef5c1170-98be-4c65-b1b1-72b60e0da1b7"
+    }
+  }
+}
