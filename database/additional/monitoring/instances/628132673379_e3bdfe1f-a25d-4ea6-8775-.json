@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "628132673379",
+  "ownerName": "nopal gnteng",
+  "ownerNumbers": [
+    "6281931482935"
+  ],
+  "instanceId": "628132673379_e3bdfe1f-a25d-4ea6-8775-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-03-12T08:47:18.425Z",
+  "startedAtMs": 1773305238425,
+  "lastSeenAt": "2026-03-12T08:48:54.659Z",
+  "lastSeenAtMs": 1773305334659,
+  "host": {
+    "hostname": "e3bdfe1f-a25d-4ea6-8775-888a98064481",
+    "platform": "linux",
+    "node": "20.20.1",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "e3bdfe1f-a25d-4ea6-8775-888a98064481"
+    }
+  }
+}
