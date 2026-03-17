@@ -1,17 +1,17 @@
 {
   "app": "WORLD SCRIPT MD",
   "botNumber": "6285119143574",
-  "ownerName": "Bot Shiro",
+  "ownerName": "World Market",
   "ownerNumbers": [
     "6283171480761"
   ],
   "instanceId": "6285119143574_27e6dcfe-c2f6-468c-b57b-",
   "folder": "session",
   "sessionType": "main",
-  "startedAt": "2026-03-17T09:04:54.500Z",
-  "startedAtMs": 1773738294500,
-  "lastSeenAt": "2026-03-17T09:05:10.772Z",
-  "lastSeenAtMs": 1773738310772,
+  "startedAt": "2026-03-17T09:11:19.334Z",
+  "startedAtMs": 1773738679334,
+  "lastSeenAt": "2026-03-17T09:12:07.376Z",
+  "lastSeenAtMs": 1773738727376,
   "host": {
     "hostname": "27e6dcfe-c2f6-468c-b57b-0f88acd4896e",
     "platform": "linux",
