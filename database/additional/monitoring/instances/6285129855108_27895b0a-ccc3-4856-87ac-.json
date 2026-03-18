@@ -3,15 +3,15 @@
   "botNumber": "6285129855108",
   "ownerName": "World Market",
   "ownerNumbers": [
-    "623124668222"
+    "6283124668222"
   ],
   "instanceId": "6285129855108_27895b0a-ccc3-4856-87ac-",
   "folder": "session",
   "sessionType": "main",
-  "startedAt": "2026-03-18T09:27:14.994Z",
-  "startedAtMs": 1773826034994,
-  "lastSeenAt": "2026-03-18T10:43:41.955Z",
-  "lastSeenAtMs": 1773830621955,
+  "startedAt": "2026-03-18T11:03:04.953Z",
+  "startedAtMs": 1773831784953,
+  "lastSeenAt": "2026-03-18T11:03:19.920Z",
+  "lastSeenAtMs": 1773831799920,
   "host": {
     "hostname": "27895b0a-ccc3-4856-87ac-bd0cf48ce2dd",
     "platform": "linux",
