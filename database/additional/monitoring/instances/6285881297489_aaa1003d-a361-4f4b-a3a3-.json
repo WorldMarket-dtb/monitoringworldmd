@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6285881297489",
+  "ownerName": "mitsuki rifki",
+  "ownerNumbers": [
+    "6285707667860"
+  ],
+  "instanceId": "6285881297489_aaa1003d-a361-4f4b-a3a3-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-03-19T00:21:37.952Z",
+  "startedAtMs": 1773879697952,
+  "lastSeenAt": "2026-03-19T00:22:49.623Z",
+  "lastSeenAtMs": 1773879769623,
+  "host": {
+    "hostname": "aaa1003d-a361-4f4b-a3a3-b16067017b33",
+    "platform": "linux",
+    "node": "20.20.1",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "aaa1003d-a361-4f4b-a3a3-b16067017b33"
+    }
+  }
+}
