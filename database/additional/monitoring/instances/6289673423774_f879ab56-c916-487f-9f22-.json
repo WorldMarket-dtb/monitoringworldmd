@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6289673423774",
+  "ownerName": "KennMarket",
+  "ownerNumbers": [
+    "6283836797826"
+  ],
+  "instanceId": "6289673423774_f879ab56-c916-487f-9f22-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-03-19T08:21:45.201Z",
+  "startedAtMs": 1773908505201,
+  "lastSeenAt": "2026-03-19T08:22:36.025Z",
+  "lastSeenAtMs": 1773908556025,
+  "host": {
+    "hostname": "f879ab56-c916-487f-9f22-41d43103f8f3",
+    "platform": "linux",
+    "node": "20.20.1",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "f879ab56-c916-487f-9f22-41d43103f8f3"
+    }
+  }
+}
