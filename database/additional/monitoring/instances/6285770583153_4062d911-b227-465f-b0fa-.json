@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6285770583153",
+  "ownerName": "Binzz Market",
+  "ownerNumbers": [
+    "6285168685855"
+  ],
+  "instanceId": "6285770583153_4062d911-b227-465f-b0fa-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-03-20T08:35:38.395Z",
+  "startedAtMs": 1773995738395,
+  "lastSeenAt": "2026-03-20T08:36:45.364Z",
+  "lastSeenAtMs": 1773995805364,
+  "host": {
+    "hostname": "4062d911-b227-465f-b0fa-afae7a1af911",
+    "platform": "linux",
+    "node": "20.20.1",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "4062d911-b227-465f-b0fa-afae7a1af911"
+    }
+  }
+}
