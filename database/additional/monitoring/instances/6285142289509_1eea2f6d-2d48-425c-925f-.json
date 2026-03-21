@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6285142289509",
+  "ownerName": "RENZZ OPEN SEWA",
+  "ownerNumbers": [
+    "6285696698364"
+  ],
+  "instanceId": "6285142289509_1eea2f6d-2d48-425c-925f-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-03-21T14:54:58.306Z",
+  "startedAtMs": 1774104898306,
+  "lastSeenAt": "2026-03-21T14:55:59.108Z",
+  "lastSeenAtMs": 1774104959108,
+  "host": {
+    "hostname": "1eea2f6d-2d48-425c-925f-380c61c48fda",
+    "platform": "linux",
+    "node": "20.20.1",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "1eea2f6d-2d48-425c-925f-380c61c48fda"
+    }
+  }
+}
