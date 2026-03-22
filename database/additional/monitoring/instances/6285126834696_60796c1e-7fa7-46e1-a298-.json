@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6285126834696",
+  "ownerName": " Ryu Merchant",
+  "ownerNumbers": [
+    "6282123914432"
+  ],
+  "instanceId": "6285126834696_60796c1e-7fa7-46e1-a298-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-03-22T02:41:56.300Z",
+  "startedAtMs": 1774147316300,
+  "lastSeenAt": "2026-03-22T02:42:49.254Z",
+  "lastSeenAtMs": 1774147369254,
+  "host": {
+    "hostname": "60796c1e-7fa7-46e1-a298-9850d39f442a",
+    "platform": "linux",
+    "node": "20.20.1",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "60796c1e-7fa7-46e1-a298-9850d39f442a"
+    }
+  }
+}
