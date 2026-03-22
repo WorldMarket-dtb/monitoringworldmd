@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6285800579875",
+  "ownerName": "Razor",
+  "ownerNumbers": [
+    "628388458306"
+  ],
+  "instanceId": "6285800579875_e6dc2c6c-0ca1-4858-b9e8-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-03-22T11:25:24.519Z",
+  "startedAtMs": 1774178724519,
+  "lastSeenAt": "2026-03-22T11:26:10.046Z",
+  "lastSeenAtMs": 1774178770046,
+  "host": {
+    "hostname": "e6dc2c6c-0ca1-4858-b9e8-50bde0915313",
+    "platform": "linux",
+    "node": "20.20.1",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "e6dc2c6c-0ca1-4858-b9e8-50bde0915313"
+    }
+  }
+}
