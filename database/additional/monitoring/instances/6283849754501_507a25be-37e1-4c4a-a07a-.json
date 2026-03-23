@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6283849754501",
+  "ownerName": "Zaxcx Market",
+  "ownerNumbers": [
+    "6283119848671"
+  ],
+  "instanceId": "6283849754501_507a25be-37e1-4c4a-a07a-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-03-23T13:37:55.212Z",
+  "startedAtMs": 1774273075212,
+  "lastSeenAt": "2026-03-23T13:38:09.195Z",
+  "lastSeenAtMs": 1774273089195,
+  "host": {
+    "hostname": "507a25be-37e1-4c4a-a07a-aecdcf554db4",
+    "platform": "linux",
+    "node": "20.20.1",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "507a25be-37e1-4c4a-a07a-aecdcf554db4"
+    }
+  }
+}
