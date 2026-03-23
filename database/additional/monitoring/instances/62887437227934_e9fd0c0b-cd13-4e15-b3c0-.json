@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "62887437227934",
+  "ownerName": "BINZ Market",
+  "ownerNumbers": [
+    "6289509472693"
+  ],
+  "instanceId": "62887437227934_e9fd0c0b-cd13-4e15-b3c0-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-03-23T18:13:11.665Z",
+  "startedAtMs": 1774289591665,
+  "lastSeenAt": "2026-03-23T18:15:28.103Z",
+  "lastSeenAtMs": 1774289728103,
+  "host": {
+    "hostname": "e9fd0c0b-cd13-4e15-b3c0-44ea3738c71a",
+    "platform": "linux",
+    "node": "20.20.1",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "e9fd0c0b-cd13-4e15-b3c0-44ea3738c71a"
+    }
+  }
+}
