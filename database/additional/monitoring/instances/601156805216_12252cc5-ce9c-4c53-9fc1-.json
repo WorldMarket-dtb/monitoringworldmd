@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "601156805216",
+  "ownerName": "Valen Store",
+  "ownerNumbers": [
+    "6283173832828"
+  ],
+  "instanceId": "601156805216_12252cc5-ce9c-4c53-9fc1-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-03-26T16:58:21.907Z",
+  "startedAtMs": 1774544301907,
+  "lastSeenAt": "2026-03-26T16:59:36.876Z",
+  "lastSeenAtMs": 1774544376876,
+  "host": {
+    "hostname": "12252cc5-ce9c-4c53-9fc1-a1a4472d733d",
+    "platform": "linux",
+    "node": "20.20.1",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "12252cc5-ce9c-4c53-9fc1-a1a4472d733d"
+    }
+  }
+}
