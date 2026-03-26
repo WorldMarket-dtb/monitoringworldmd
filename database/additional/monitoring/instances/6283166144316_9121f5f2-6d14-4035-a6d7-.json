@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6283166144316",
+  "ownerName": "Kitara",
+  "ownerNumbers": [
+    "6285187232846"
+  ],
+  "instanceId": "6283166144316_9121f5f2-6d14-4035-a6d7-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-03-26T05:49:35.987Z",
+  "startedAtMs": 1774504175987,
+  "lastSeenAt": "2026-03-26T05:50:21.308Z",
+  "lastSeenAtMs": 1774504221308,
+  "host": {
+    "hostname": "9121f5f2-6d14-4035-a6d7-0a4376ba6cab",
+    "platform": "linux",
+    "node": "20.20.1",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "9121f5f2-6d14-4035-a6d7-0a4376ba6cab"
+    }
+  }
+}
