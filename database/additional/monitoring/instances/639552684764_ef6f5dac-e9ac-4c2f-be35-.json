@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "639552684764",
+  "ownerName": "palzz Market",
+  "ownerNumbers": [
+    "6285817904518"
+  ],
+  "instanceId": "639552684764_ef6f5dac-e9ac-4c2f-be35-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-03-27T08:19:29.714Z",
+  "startedAtMs": 1774599569714,
+  "lastSeenAt": "2026-03-27T08:20:19.479Z",
+  "lastSeenAtMs": 1774599619479,
+  "host": {
+    "hostname": "ef6f5dac-e9ac-4c2f-be35-563208bf26f3",
+    "platform": "linux",
+    "node": "20.20.1",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "ef6f5dac-e9ac-4c2f-be35-563208bf26f3"
+    }
+  }
+}
