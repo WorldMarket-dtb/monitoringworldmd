@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6283879074325",
+  "ownerName": "Indryys Official Store",
+  "ownerNumbers": [
+    "6283879074325"
+  ],
+  "instanceId": "6283879074325_f2d02d07-ccc5-429a-81d3-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-03-27T02:39:51.909Z",
+  "startedAtMs": 1774579191909,
+  "lastSeenAt": "2026-03-27T02:40:42.789Z",
+  "lastSeenAtMs": 1774579242789,
+  "host": {
+    "hostname": "f2d02d07-ccc5-429a-81d3-f1b29bca630c",
+    "platform": "linux",
+    "node": "20.20.1",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "f2d02d07-ccc5-429a-81d3-f1b29bca630c"
+    }
+  }
+}
