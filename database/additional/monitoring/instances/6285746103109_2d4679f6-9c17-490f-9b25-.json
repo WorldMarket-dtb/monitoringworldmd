@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6285746103109",
+  "ownerName": "LUTHFI STORE",
+  "ownerNumbers": [
+    "6287747983665"
+  ],
+  "instanceId": "6285746103109_2d4679f6-9c17-490f-9b25-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-03-27T08:40:02.883Z",
+  "startedAtMs": 1774600802883,
+  "lastSeenAt": "2026-03-27T08:41:33.811Z",
+  "lastSeenAtMs": 1774600893811,
+  "host": {
+    "hostname": "2d4679f6-9c17-490f-9b25-bdeea72081a7",
+    "platform": "linux",
+    "node": "20.20.1",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "2d4679f6-9c17-490f-9b25-bdeea72081a7"
+    }
+  }
+}
