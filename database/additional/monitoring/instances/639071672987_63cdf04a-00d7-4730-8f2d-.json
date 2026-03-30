@@ -8,14 +8,14 @@
   "instanceId": "639071672987_63cdf04a-00d7-4730-8f2d-",
   "folder": "session",
   "sessionType": "main",
-  "startedAt": "2026-03-29T08:18:03.555Z",
-  "startedAtMs": 1774772283555,
-  "lastSeenAt": "2026-03-30T11:19:14.869Z",
-  "lastSeenAtMs": 1774869554869,
+  "startedAt": "2026-03-30T11:29:13.276Z",
+  "startedAtMs": 1774870153276,
+  "lastSeenAt": "2026-03-30T11:29:28.225Z",
+  "lastSeenAtMs": 1774870168225,
   "host": {
     "hostname": "63cdf04a-00d7-4730-8f2d-d7134a009e63",
     "platform": "linux",
-    "node": "20.20.1",
+    "node": "20.20.2",
     "panel": {
       "pterodactyl": true,
       "serverIdentifier": "63cdf04a-00d7-4730-8f2d-d7134a009e63"
