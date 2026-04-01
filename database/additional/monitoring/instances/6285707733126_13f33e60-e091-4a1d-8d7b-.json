@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6285707733126",
+  "ownerName": "Noya Lucu",
+  "ownerNumbers": [
+    "6287785172515"
+  ],
+  "instanceId": "6285707733126_13f33e60-e091-4a1d-8d7b-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-04-01T07:28:36.874Z",
+  "startedAtMs": 1775028516874,
+  "lastSeenAt": "2026-04-01T07:29:20.297Z",
+  "lastSeenAtMs": 1775028560297,
+  "host": {
+    "hostname": "13f33e60-e091-4a1d-8d7b-6e8086754ea0",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "13f33e60-e091-4a1d-8d7b-6e8086754ea0"
+    }
+  }
+}
