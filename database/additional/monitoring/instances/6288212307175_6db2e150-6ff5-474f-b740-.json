@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6288212307175",
+  "ownerName": "adhitstore real",
+  "ownerNumbers": [
+    "6282110998379"
+  ],
+  "instanceId": "6288212307175_6db2e150-6ff5-474f-b740-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-04-02T15:41:31.278Z",
+  "startedAtMs": 1775144491278,
+  "lastSeenAt": "2026-04-02T15:43:09.413Z",
+  "lastSeenAtMs": 1775144589413,
+  "host": {
+    "hostname": "6db2e150-6ff5-474f-b740-eab6112014f1",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "6db2e150-6ff5-474f-b740-eab6112014f1"
+    }
+  }
+}
