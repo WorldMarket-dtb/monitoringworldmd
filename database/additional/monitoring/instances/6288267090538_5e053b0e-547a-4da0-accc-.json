@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6288267090538",
+  "ownerName": "Indryy",
+  "ownerNumbers": [
+    "6288267090538"
+  ],
+  "instanceId": "6288267090538_5e053b0e-547a-4da0-accc-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-04-02T09:54:10.143Z",
+  "startedAtMs": 1775123650143,
+  "lastSeenAt": "2026-04-02T09:56:29.456Z",
+  "lastSeenAtMs": 1775123789456,
+  "host": {
+    "hostname": "5e053b0e-547a-4da0-accc-43d5406f6e38",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "5e053b0e-547a-4da0-accc-43d5406f6e38"
+    }
+  }
+}
