@@ -3,15 +3,15 @@
   "botNumber": "6285189084721",
   "ownerName": "kyanzz Market",
   "ownerNumbers": [
-    "6285189084721"
+    "6283892736961"
   ],
   "instanceId": "6285189084721_b998d07b-cb7e-43c1-99e2-",
   "folder": "session",
   "sessionType": "main",
-  "startedAt": "2026-04-02T04:49:59.671Z",
-  "startedAtMs": 1775105399671,
-  "lastSeenAt": "2026-04-02T04:50:14.683Z",
-  "lastSeenAtMs": 1775105414683,
+  "startedAt": "2026-04-02T04:52:11.890Z",
+  "startedAtMs": 1775105531890,
+  "lastSeenAt": "2026-04-02T04:52:25.898Z",
+  "lastSeenAtMs": 1775105545898,
   "host": {
     "hostname": "b998d07b-cb7e-43c1-99e2-2ec9aab11f85",
     "platform": "linux",
