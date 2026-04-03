@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "639552684764",
+  "ownerName": "PALZ OFFCIAL",
+  "ownerNumbers": [
+    "6285817904518"
+  ],
+  "instanceId": "639552684764_c471fbfd-721a-4cb9-8a96-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-04-03T01:24:22.469Z",
+  "startedAtMs": 1775179462469,
+  "lastSeenAt": "2026-04-03T01:25:23.425Z",
+  "lastSeenAtMs": 1775179523425,
+  "host": {
+    "hostname": "c471fbfd-721a-4cb9-8a96-b769b797936d",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "c471fbfd-721a-4cb9-8a96-b769b797936d"
+    }
+  }
+}
