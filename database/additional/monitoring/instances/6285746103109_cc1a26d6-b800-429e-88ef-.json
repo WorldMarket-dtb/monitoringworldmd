@@ -1,17 +1,17 @@
 {
   "app": "WORLD SCRIPT MD",
   "botNumber": "6285746103109",
-  "ownerName": "World Market",
+  "ownerName": "Luthf Market",
   "ownerNumbers": [
     "6287747983665"
   ],
   "instanceId": "6285746103109_cc1a26d6-b800-429e-88ef-",
   "folder": "session",
   "sessionType": "main",
-  "startedAt": "2026-04-03T06:58:35.035Z",
-  "startedAtMs": 1775199515035,
-  "lastSeenAt": "2026-04-03T17:43:51.632Z",
-  "lastSeenAtMs": 1775238231632,
+  "startedAt": "2026-04-03T17:51:57.282Z",
+  "startedAtMs": 1775238717282,
+  "lastSeenAt": "2026-04-03T17:53:08.941Z",
+  "lastSeenAtMs": 1775238788941,
   "host": {
     "hostname": "cc1a26d6-b800-429e-88ef-faaee6122e89",
     "platform": "linux",
