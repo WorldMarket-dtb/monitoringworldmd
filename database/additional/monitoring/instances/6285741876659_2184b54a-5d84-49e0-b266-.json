@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6285741876659",
+  "ownerName": "Market Chii",
+  "ownerNumbers": [
+    "6285741876659"
+  ],
+  "instanceId": "6285741876659_2184b54a-5d84-49e0-b266-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-04-03T15:19:00.013Z",
+  "startedAtMs": 1775229540013,
+  "lastSeenAt": "2026-04-03T15:19:41.297Z",
+  "lastSeenAtMs": 1775229581297,
+  "host": {
+    "hostname": "2184b54a-5d84-49e0-b266-32092f94c6b8",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "2184b54a-5d84-49e0-b266-32092f94c6b8"
+    }
+  }
+}
