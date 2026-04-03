@@ -3,15 +3,15 @@
   "botNumber": "62895428990169",
   "ownerName": "Owner rapi",
   "ownerNumbers": [
-    "6282318575005"
+    "6285956658169"
   ],
   "instanceId": "62895428990169_ee89cd98-881a-400f-981f-",
   "folder": "session",
   "sessionType": "main",
-  "startedAt": "2026-04-03T10:46:51.887Z",
-  "startedAtMs": 1775213211887,
-  "lastSeenAt": "2026-04-03T14:32:36.224Z",
-  "lastSeenAtMs": 1775226756224,
+  "startedAt": "2026-04-03T14:33:01.768Z",
+  "startedAtMs": 1775226781768,
+  "lastSeenAt": "2026-04-03T14:33:15.458Z",
+  "lastSeenAtMs": 1775226795458,
   "host": {
     "hostname": "ee89cd98-881a-400f-981f-29caa0fc910c",
     "platform": "linux",
