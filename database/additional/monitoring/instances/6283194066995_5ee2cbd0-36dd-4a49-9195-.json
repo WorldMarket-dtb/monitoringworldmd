@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6283194066995",
+  "ownerName": "Nando",
+  "ownerNumbers": [
+    "6287837900360"
+  ],
+  "instanceId": "6283194066995_5ee2cbd0-36dd-4a49-9195-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-04-04T03:41:47.542Z",
+  "startedAtMs": 1775274107542,
+  "lastSeenAt": "2026-04-04T03:43:13.631Z",
+  "lastSeenAtMs": 1775274193631,
+  "host": {
+    "hostname": "5ee2cbd0-36dd-4a49-9195-090a85fb3e17",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "5ee2cbd0-36dd-4a49-9195-090a85fb3e17"
+    }
+  }
+}
