@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "62895626961121",
+  "ownerName": "Sahzz Market",
+  "ownerNumbers": [
+    "6288994538851"
+  ],
+  "instanceId": "62895626961121_a8d48db8-d625-4400-9067-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-04-05T14:30:49.267Z",
+  "startedAtMs": 1775399449267,
+  "lastSeenAt": "2026-04-05T14:31:46.964Z",
+  "lastSeenAtMs": 1775399506964,
+  "host": {
+    "hostname": "a8d48db8-d625-4400-9067-ba585e75683f",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "a8d48db8-d625-4400-9067-ba585e75683f"
+    }
+  }
+}
