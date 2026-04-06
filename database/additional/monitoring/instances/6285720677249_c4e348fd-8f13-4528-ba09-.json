@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6285720677249",
+  "ownerName": "Denz bot",
+  "ownerNumbers": [
+    "6288809912289"
+  ],
+  "instanceId": "6285720677249_c4e348fd-8f13-4528-ba09-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-04-06T12:38:39.045Z",
+  "startedAtMs": 1775479119045,
+  "lastSeenAt": "2026-04-06T12:40:17.367Z",
+  "lastSeenAtMs": 1775479217367,
+  "host": {
+    "hostname": "c4e348fd-8f13-4528-ba09-5c63afca5f21",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "c4e348fd-8f13-4528-ba09-5c63afca5f21"
+    }
+  }
+}
