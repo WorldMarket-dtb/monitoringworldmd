@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6283173403111",
+  "ownerName": "Wann Tore",
+  "ownerNumbers": [
+    "6288225731448"
+  ],
+  "instanceId": "6283173403111_1263d301-5afe-4a02-a67a-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-04-09T09:27:07.015Z",
+  "startedAtMs": 1775726827015,
+  "lastSeenAt": "2026-04-09T09:28:05.690Z",
+  "lastSeenAtMs": 1775726885690,
+  "host": {
+    "hostname": "1263d301-5afe-4a02-a67a-9ecc59ff3d49",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "1263d301-5afe-4a02-a67a-9ecc59ff3d49"
+    }
+  }
+}
