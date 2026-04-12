@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6285184684123",
+  "ownerName": "Toji Market",
+  "ownerNumbers": [
+    "6283152413283"
+  ],
+  "instanceId": "6285184684123_9a426aa2-d281-44cc-8dee-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-04-12T16:18:47.499Z",
+  "startedAtMs": 1776010727499,
+  "lastSeenAt": "2026-04-12T16:21:04.815Z",
+  "lastSeenAtMs": 1776010864815,
+  "host": {
+    "hostname": "9a426aa2-d281-44cc-8dee-85798debfca5",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "9a426aa2-d281-44cc-8dee-85798debfca5"
+    }
+  }
+}
