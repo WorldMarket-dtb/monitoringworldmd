@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6285753631423",
+  "ownerName": "mibombo",
+  "ownerNumbers": [
+    "6283821001229"
+  ],
+  "instanceId": "6285753631423_1602fb42-923b-4cca-89ef-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-04-14T10:32:52.441Z",
+  "startedAtMs": 1776162772441,
+  "lastSeenAt": "2026-04-14T10:35:00.025Z",
+  "lastSeenAtMs": 1776162900025,
+  "host": {
+    "hostname": "1602fb42-923b-4cca-89ef-8b57206581d6",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "1602fb42-923b-4cca-89ef-8b57206581d6"
+    }
+  }
+}
