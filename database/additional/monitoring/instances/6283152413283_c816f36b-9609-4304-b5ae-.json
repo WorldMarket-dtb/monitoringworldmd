@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6283152413283",
+  "ownerName": "Fushiguro",
+  "ownerNumbers": [
+    "6283152413283"
+  ],
+  "instanceId": "6283152413283_c816f36b-9609-4304-b5ae-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-04-15T23:22:25.570Z",
+  "startedAtMs": 1776295345570,
+  "lastSeenAt": "2026-04-15T23:23:34.433Z",
+  "lastSeenAtMs": 1776295414433,
+  "host": {
+    "hostname": "c816f36b-9609-4304-b5ae-d41f2ba9c099",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "c816f36b-9609-4304-b5ae-d41f2ba9c099"
+    }
+  }
+}
