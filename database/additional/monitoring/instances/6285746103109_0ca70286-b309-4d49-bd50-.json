@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6285746103109",
+  "ownerName": "Luthfi Market",
+  "ownerNumbers": [
+    "6287747983665"
+  ],
+  "instanceId": "6285746103109_0ca70286-b309-4d49-bd50-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-04-15T11:26:47.763Z",
+  "startedAtMs": 1776252407763,
+  "lastSeenAt": "2026-04-15T11:28:01.452Z",
+  "lastSeenAtMs": 1776252481452,
+  "host": {
+    "hostname": "0ca70286-b309-4d49-bd50-2474d91830cf",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "0ca70286-b309-4d49-bd50-2474d91830cf"
+    }
+  }
+}
