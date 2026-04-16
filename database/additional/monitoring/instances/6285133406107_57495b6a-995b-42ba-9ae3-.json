@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6285133406107",
+  "ownerName": "Tanz Store",
+  "ownerNumbers": [
+    "6285771219432"
+  ],
+  "instanceId": "6285133406107_57495b6a-995b-42ba-9ae3-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-04-16T05:07:27.666Z",
+  "startedAtMs": 1776316047666,
+  "lastSeenAt": "2026-04-16T05:08:42.019Z",
+  "lastSeenAtMs": 1776316122019,
+  "host": {
+    "hostname": "57495b6a-995b-42ba-9ae3-c217b2a6175c",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "57495b6a-995b-42ba-9ae3-c217b2a6175c"
+    }
+  }
+}
