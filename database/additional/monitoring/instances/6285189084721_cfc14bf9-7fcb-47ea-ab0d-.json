@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6285189084721",
+  "ownerName": "kyanzz official",
+  "ownerNumbers": [
+    "6283892736961"
+  ],
+  "instanceId": "6285189084721_cfc14bf9-7fcb-47ea-ab0d-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-04-16T10:47:28.650Z",
+  "startedAtMs": 1776336448650,
+  "lastSeenAt": "2026-04-16T10:48:23.526Z",
+  "lastSeenAtMs": 1776336503526,
+  "host": {
+    "hostname": "cfc14bf9-7fcb-47ea-ab0d-7dd84a71df99",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "cfc14bf9-7fcb-47ea-ab0d-7dd84a71df99"
+    }
+  }
+}
