@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "584161347728",
+  "ownerName": "Valen Official",
+  "ownerNumbers": [
+    "6283173832828"
+  ],
+  "instanceId": "584161347728_0802ebb1-22ff-44f7-b1c3-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-04-17T05:39:35.902Z",
+  "startedAtMs": 1776404375902,
+  "lastSeenAt": "2026-04-17T05:40:48.461Z",
+  "lastSeenAtMs": 1776404448461,
+  "host": {
+    "hostname": "0802ebb1-22ff-44f7-b1c3-74b587d6f125",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "0802ebb1-22ff-44f7-b1c3-74b587d6f125"
+    }
+  }
+}
