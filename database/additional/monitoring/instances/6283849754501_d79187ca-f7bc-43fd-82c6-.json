@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6283849754501",
+  "ownerName": "Hamz Market",
+  "ownerNumbers": [
+    "6283119848671"
+  ],
+  "instanceId": "6283849754501_d79187ca-f7bc-43fd-82c6-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-04-19T11:02:11.113Z",
+  "startedAtMs": 1776596531113,
+  "lastSeenAt": "2026-04-19T11:02:56.040Z",
+  "lastSeenAtMs": 1776596576040,
+  "host": {
+    "hostname": "d79187ca-f7bc-43fd-82c6-5fcc66628fd1",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "d79187ca-f7bc-43fd-82c6-5fcc66628fd1"
+    }
+  }
+}
