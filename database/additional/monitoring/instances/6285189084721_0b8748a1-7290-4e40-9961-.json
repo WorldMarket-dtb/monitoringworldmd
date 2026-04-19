@@ -3,15 +3,15 @@
   "botNumber": "6285189084721",
   "ownerName": "kyanzz official",
   "ownerNumbers": [
-    "6283892736961"
+    "6282396895256"
   ],
   "instanceId": "6285189084721_0b8748a1-7290-4e40-9961-",
   "folder": "session",
   "sessionType": "main",
-  "startedAt": "2026-04-19T12:50:35.352Z",
-  "startedAtMs": 1776603035352,
-  "lastSeenAt": "2026-04-19T12:51:29.645Z",
-  "lastSeenAtMs": 1776603089645,
+  "startedAt": "2026-04-19T13:00:37.606Z",
+  "startedAtMs": 1776603637606,
+  "lastSeenAt": "2026-04-19T13:00:53.440Z",
+  "lastSeenAtMs": 1776603653440,
   "host": {
     "hostname": "0b8748a1-7290-4e40-9961-a411bfeadb73",
     "platform": "linux",
