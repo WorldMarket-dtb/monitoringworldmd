@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6289527767112",
+  "ownerName": "Denzy Ganteng",
+  "ownerNumbers": [
+    "6287899216268"
+  ],
+  "instanceId": "6289527767112_5a877d0b-bf4b-458e-ba6f-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-04-19T15:07:35.011Z",
+  "startedAtMs": 1776611255011,
+  "lastSeenAt": "2026-04-19T15:09:13.960Z",
+  "lastSeenAtMs": 1776611353960,
+  "host": {
+    "hostname": "5a877d0b-bf4b-458e-ba6f-bdca73dbf3f9",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "5a877d0b-bf4b-458e-ba6f-bdca73dbf3f9"
+    }
+  }
+}
