@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6285973948425",
+  "ownerName": "MAHARAJA ",
+  "ownerNumbers": [
+    "6283160886407"
+  ],
+  "instanceId": "6285973948425_e1cbbda6-719e-42fe-b2dd-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-04-20T15:08:32.502Z",
+  "startedAtMs": 1776697712502,
+  "lastSeenAt": "2026-04-20T15:09:22.516Z",
+  "lastSeenAtMs": 1776697762516,
+  "host": {
+    "hostname": "e1cbbda6-719e-42fe-b2dd-a34317fee916",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "e1cbbda6-719e-42fe-b2dd-a34317fee916"
+    }
+  }
+}
