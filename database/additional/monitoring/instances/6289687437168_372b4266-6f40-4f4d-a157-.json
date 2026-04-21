@@ -1,17 +1,17 @@
 {
   "app": "WORLD SCRIPT MD",
   "botNumber": "6289687437168",
-  "ownerName": "World Market",
+  "ownerName": "xentra",
   "ownerNumbers": [
     "6285713161792"
   ],
   "instanceId": "6289687437168_372b4266-6f40-4f4d-a157-",
   "folder": "session",
   "sessionType": "main",
-  "startedAt": "2026-04-21T08:47:57.178Z",
-  "startedAtMs": 1776761277178,
-  "lastSeenAt": "2026-04-21T11:18:53.770Z",
-  "lastSeenAtMs": 1776770333770,
+  "startedAt": "2026-04-21T11:30:30.542Z",
+  "startedAtMs": 1776771030542,
+  "lastSeenAt": "2026-04-21T11:32:11.682Z",
+  "lastSeenAtMs": 1776771131682,
   "host": {
     "hostname": "372b4266-6f40-4f4d-a157-2d0550f23b13",
     "platform": "linux",
