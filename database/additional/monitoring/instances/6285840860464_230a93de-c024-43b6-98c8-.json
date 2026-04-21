@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6285840860464",
+  "ownerName": "Juragan Ren",
+  "ownerNumbers": [
+    "6285836674003"
+  ],
+  "instanceId": "6285840860464_230a93de-c024-43b6-98c8-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-04-21T12:26:06.903Z",
+  "startedAtMs": 1776774366903,
+  "lastSeenAt": "2026-04-21T12:27:11.757Z",
+  "lastSeenAtMs": 1776774431757,
+  "host": {
+    "hostname": "230a93de-c024-43b6-98c8-eeaea2f168ab",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "230a93de-c024-43b6-98c8-eeaea2f168ab"
+    }
+  }
+}
