@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "628215994893",
+  "ownerName": "Princè Ryu ",
+  "ownerNumbers": [
+    "6282353683432"
+  ],
+  "instanceId": "628215994893_6a831068-4071-47aa-93c7-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-04-22T11:49:06.586Z",
+  "startedAtMs": 1776858546586,
+  "lastSeenAt": "2026-04-22T11:49:58.442Z",
+  "lastSeenAtMs": 1776858598442,
+  "host": {
+    "hostname": "6a831068-4071-47aa-93c7-46c9a2ea0648",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "6a831068-4071-47aa-93c7-46c9a2ea0648"
+    }
+  }
+}
