@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6285119749541",
+  "ownerName": "kEYRO",
+  "ownerNumbers": [
+    "6287710485176"
+  ],
+  "instanceId": "6285119749541_5ca4fdc4-f664-41aa-b9e5-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-04-23T15:31:37.192Z",
+  "startedAtMs": 1776958297192,
+  "lastSeenAt": "2026-04-23T15:32:46.534Z",
+  "lastSeenAtMs": 1776958366534,
+  "host": {
+    "hostname": "5ca4fdc4-f664-41aa-b9e5-0954b5e2c195",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "5ca4fdc4-f664-41aa-b9e5-0954b5e2c195"
+    }
+  }
+}
