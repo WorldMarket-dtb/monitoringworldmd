@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6285830617702",
+  "ownerName": "Fidzz",
+  "ownerNumbers": [
+    "628976614553"
+  ],
+  "instanceId": "6285830617702_70bd001c-b7bc-419b-a840-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-04-26T16:32:53.022Z",
+  "startedAtMs": 1777221173022,
+  "lastSeenAt": "2026-04-26T16:34:31.741Z",
+  "lastSeenAtMs": 1777221271741,
+  "host": {
+    "hostname": "70bd001c-b7bc-419b-a840-821dcd3d386f",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "70bd001c-b7bc-419b-a840-821dcd3d386f"
+    }
+  }
+}
