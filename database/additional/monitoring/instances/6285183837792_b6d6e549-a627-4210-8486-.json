@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6285183837792",
+  "ownerName": "Kenkai Store",
+  "ownerNumbers": [
+    "6285198544295"
+  ],
+  "instanceId": "6285183837792_b6d6e549-a627-4210-8486-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-04-26T03:32:11.438Z",
+  "startedAtMs": 1777174331438,
+  "lastSeenAt": "2026-04-26T03:33:38.574Z",
+  "lastSeenAtMs": 1777174418574,
+  "host": {
+    "hostname": "b6d6e549-a627-4210-8486-e810ad290337",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "b6d6e549-a627-4210-8486-e810ad290337"
+    }
+  }
+}
