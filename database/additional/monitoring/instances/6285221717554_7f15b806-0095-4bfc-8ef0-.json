@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6285221717554",
+  "ownerName": "X.BORG STORE",
+  "ownerNumbers": [
+    "6285956432802"
+  ],
+  "instanceId": "6285221717554_7f15b806-0095-4bfc-8ef0-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-04-30T18:13:34.126Z",
+  "startedAtMs": 1777572814126,
+  "lastSeenAt": "2026-04-30T18:15:25.698Z",
+  "lastSeenAtMs": 1777572925698,
+  "host": {
+    "hostname": "7f15b806-0095-4bfc-8ef0-cbcb88bc751a",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "7f15b806-0095-4bfc-8ef0-cbcb88bc751a"
+    }
+  }
+}
