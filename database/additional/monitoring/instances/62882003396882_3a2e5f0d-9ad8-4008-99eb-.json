@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "62882003396882",
+  "ownerName": "𝓩𝓮𝓪𝓷𝓲𝓬𝓪 𝓬𝓱𝔂𝓼𝓪𝓻𝓪",
+  "ownerNumbers": [
+    "62882003396904"
+  ],
+  "instanceId": "62882003396882_3a2e5f0d-9ad8-4008-99eb-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-05-03T07:06:33.246Z",
+  "startedAtMs": 1777791993246,
+  "lastSeenAt": "2026-05-03T07:07:28.104Z",
+  "lastSeenAtMs": 1777792048104,
+  "host": {
+    "hostname": "3a2e5f0d-9ad8-4008-99eb-a1080a8c99cf",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "3a2e5f0d-9ad8-4008-99eb-a1080a8c99cf"
+    }
+  }
+}
