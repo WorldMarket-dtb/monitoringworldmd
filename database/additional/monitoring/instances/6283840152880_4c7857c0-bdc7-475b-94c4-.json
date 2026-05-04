@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6283840152880",
+  "ownerName": "fushiguro Market",
+  "ownerNumbers": [
+    "628976614553"
+  ],
+  "instanceId": "6283840152880_4c7857c0-bdc7-475b-94c4-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-05-04T10:36:59.647Z",
+  "startedAtMs": 1777891019647,
+  "lastSeenAt": "2026-05-04T10:38:00.019Z",
+  "lastSeenAtMs": 1777891080019,
+  "host": {
+    "hostname": "4c7857c0-bdc7-475b-94c4-6004d4d15be5",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "4c7857c0-bdc7-475b-94c4-6004d4d15be5"
+    }
+  }
+}
