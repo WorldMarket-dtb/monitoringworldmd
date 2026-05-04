@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6283840152880",
+  "ownerName": "Fushiguro gntenk",
+  "ownerNumbers": [
+    "628976614553"
+  ],
+  "instanceId": "6283840152880_96b1357e-f6d1-4894-a1b2-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-05-04T02:14:36.006Z",
+  "startedAtMs": 1777860876006,
+  "lastSeenAt": "2026-05-04T02:15:15.041Z",
+  "lastSeenAtMs": 1777860915041,
+  "host": {
+    "hostname": "96b1357e-f6d1-4894-a1b2-8b04542ee6f7",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "96b1357e-f6d1-4894-a1b2-8b04542ee6f7"
+    }
+  }
+}
