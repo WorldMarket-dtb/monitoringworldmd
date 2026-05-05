@@ -1,17 +1,17 @@
 {
   "app": "WORLD SCRIPT MD",
   "botNumber": "6283196161969",
-  "ownerName": "HannStore",
+  "ownerName": "World Market",
   "ownerNumbers": [
     "6281318764276"
   ],
   "instanceId": "6283196161969_59119cc0-ba70-49b2-8760-",
   "folder": "session",
   "sessionType": "main",
-  "startedAt": "2026-05-04T17:01:43.428Z",
-  "startedAtMs": 1777914103428,
-  "lastSeenAt": "2026-05-05T11:31:56.603Z",
-  "lastSeenAtMs": 1777980716603,
+  "startedAt": "2026-05-05T13:36:12.553Z",
+  "startedAtMs": 1777988172553,
+  "lastSeenAt": "2026-05-05T13:37:05.072Z",
+  "lastSeenAtMs": 1777988225072,
   "host": {
     "hostname": "59119cc0-ba70-49b2-8760-25233eb25a0f",
     "platform": "linux",
