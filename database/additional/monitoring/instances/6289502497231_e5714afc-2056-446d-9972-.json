@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6289502497231",
+  "ownerName": "Asisten Bot AZ",
+  "ownerNumbers": [
+    "6287836043504"
+  ],
+  "instanceId": "6289502497231_e5714afc-2056-446d-9972-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-05-05T10:09:30.087Z",
+  "startedAtMs": 1777975770087,
+  "lastSeenAt": "2026-05-05T10:10:31.724Z",
+  "lastSeenAtMs": 1777975831724,
+  "host": {
+    "hostname": "e5714afc-2056-446d-9972-0d810aad0eac",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "e5714afc-2056-446d-9972-0d810aad0eac"
+    }
+  }
+}
