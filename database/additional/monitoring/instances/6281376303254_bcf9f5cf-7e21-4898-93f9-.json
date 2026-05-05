@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6281376303254",
+  "ownerName": "Zenn bot",
+  "ownerNumbers": [
+    "6282267618997"
+  ],
+  "instanceId": "6281376303254_bcf9f5cf-7e21-4898-93f9-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-05-05T15:40:01.035Z",
+  "startedAtMs": 1777995601035,
+  "lastSeenAt": "2026-05-05T15:41:14.080Z",
+  "lastSeenAtMs": 1777995674080,
+  "host": {
+    "hostname": "bcf9f5cf-7e21-4898-93f9-27055d4f231f",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "bcf9f5cf-7e21-4898-93f9-27055d4f231f"
+    }
+  }
+}
