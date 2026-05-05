@@ -1,17 +1,17 @@
 {
   "app": "WORLD SCRIPT MD",
   "botNumber": "6289514526198",
-  "ownerName": "Alwi",
+  "ownerName": "Marvel",
   "ownerNumbers": [
-    "6289514526198"
+    "639272900704"
   ],
   "instanceId": "6289514526198_9bf9de52-d385-428b-922b-",
   "folder": "session",
   "sessionType": "main",
-  "startedAt": "2026-05-04T23:04:02.187Z",
-  "startedAtMs": 1777935842187,
-  "lastSeenAt": "2026-05-05T05:04:46.023Z",
-  "lastSeenAtMs": 1777957486023,
+  "startedAt": "2026-05-05T05:13:14.289Z",
+  "startedAtMs": 1777957994289,
+  "lastSeenAt": "2026-05-05T05:13:28.930Z",
+  "lastSeenAtMs": 1777958008930,
   "host": {
     "hostname": "9bf9de52-d385-428b-922b-f43bcd0e6614",
     "platform": "linux",
