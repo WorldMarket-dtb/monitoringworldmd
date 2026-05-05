@@ -3,15 +3,15 @@
   "botNumber": "6289514526198",
   "ownerName": "Marvel",
   "ownerNumbers": [
-    "639272900704"
+    "6289514526198"
   ],
   "instanceId": "6289514526198_9bf9de52-d385-428b-922b-",
   "folder": "session",
   "sessionType": "main",
-  "startedAt": "2026-05-05T05:13:14.289Z",
-  "startedAtMs": 1777957994289,
-  "lastSeenAt": "2026-05-05T05:28:29.884Z",
-  "lastSeenAtMs": 1777958909884,
+  "startedAt": "2026-05-05T05:42:30.560Z",
+  "startedAtMs": 1777959750560,
+  "lastSeenAt": "2026-05-05T05:42:45.402Z",
+  "lastSeenAtMs": 1777959765402,
   "host": {
     "hostname": "9bf9de52-d385-428b-922b-f43bcd0e6614",
     "platform": "linux",
