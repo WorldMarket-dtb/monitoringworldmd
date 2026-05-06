@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6285647362485",
+  "ownerName": "Lann Market",
+  "ownerNumbers": [
+    "6289530237246"
+  ],
+  "instanceId": "6285647362485_72c0a70d-bceb-44e1-b01a-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-05-06T12:18:06.925Z",
+  "startedAtMs": 1778069886925,
+  "lastSeenAt": "2026-05-06T12:18:23.377Z",
+  "lastSeenAtMs": 1778069903377,
+  "host": {
+    "hostname": "72c0a70d-bceb-44e1-b01a-ee96543c4286",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "72c0a70d-bceb-44e1-b01a-ee96543c4286"
+    }
+  }
+}
