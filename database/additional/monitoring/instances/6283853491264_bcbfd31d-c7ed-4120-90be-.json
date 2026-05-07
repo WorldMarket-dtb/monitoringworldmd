@@ -1,17 +1,17 @@
 {
   "app": "WORLD SCRIPT MD",
   "botNumber": "6283853491264",
-  "ownerName": "World Market",
+  "ownerName": "Onyxx Market",
   "ownerNumbers": [
     "6285188344236"
   ],
   "instanceId": "6283853491264_bcbfd31d-c7ed-4120-90be-",
   "folder": "session",
   "sessionType": "main",
-  "startedAt": "2026-05-07T16:28:08.438Z",
-  "startedAtMs": 1778171288438,
-  "lastSeenAt": "2026-05-07T16:28:24.477Z",
-  "lastSeenAtMs": 1778171304477,
+  "startedAt": "2026-05-07T16:31:01.374Z",
+  "startedAtMs": 1778171461374,
+  "lastSeenAt": "2026-05-07T16:31:17.123Z",
+  "lastSeenAtMs": 1778171477123,
   "host": {
     "hostname": "bcbfd31d-c7ed-4120-90be-fe67d5236523",
     "platform": "linux",
