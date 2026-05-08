@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6285715573659",
+  "ownerName": "@shopgame_dika28.id",
+  "ownerNumbers": [
+    "628138329799"
+  ],
+  "instanceId": "6285715573659_37cbdc1c-85bc-4054-911d-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-05-08T11:20:00.144Z",
+  "startedAtMs": 1778239200144,
+  "lastSeenAt": "2026-05-08T11:20:56.520Z",
+  "lastSeenAtMs": 1778239256520,
+  "host": {
+    "hostname": "37cbdc1c-85bc-4054-911d-a7014b4336dd",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "37cbdc1c-85bc-4054-911d-a7014b4336dd"
+    }
+  }
+}
