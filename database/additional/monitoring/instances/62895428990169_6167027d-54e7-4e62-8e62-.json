@@ -3,15 +3,15 @@
   "botNumber": "62895428990169",
   "ownerName": "Owner bot",
   "ownerNumbers": [
-    "6282318575005"
+    "6285956658169"
   ],
   "instanceId": "62895428990169_6167027d-54e7-4e62-8e62-",
   "folder": "session",
   "sessionType": "main",
-  "startedAt": "2026-05-07T15:54:17.586Z",
-  "startedAtMs": 1778169257586,
-  "lastSeenAt": "2026-05-09T15:25:29.685Z",
-  "lastSeenAtMs": 1778340329685,
+  "startedAt": "2026-05-09T15:36:54.593Z",
+  "startedAtMs": 1778341014593,
+  "lastSeenAt": "2026-05-09T15:37:08.556Z",
+  "lastSeenAtMs": 1778341028556,
   "host": {
     "hostname": "6167027d-54e7-4e62-8e62-97b57dc5b83b",
     "platform": "linux",
