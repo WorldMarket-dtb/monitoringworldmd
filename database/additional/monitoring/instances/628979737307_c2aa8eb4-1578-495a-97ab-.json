@@ -1,17 +1,17 @@
 {
   "app": "WORLD SCRIPT MD",
   "botNumber": "628979737307",
-  "ownerName": "Luxx Market",
+  "ownerName": "World Market",
   "ownerNumbers": [
     "628979737307"
   ],
   "instanceId": "628979737307_c2aa8eb4-1578-495a-97ab-",
   "folder": "session",
   "sessionType": "main",
-  "startedAt": "2026-05-10T12:23:24.561Z",
-  "startedAtMs": 1778415804561,
-  "lastSeenAt": "2026-05-10T12:23:41.865Z",
-  "lastSeenAtMs": 1778415821865,
+  "startedAt": "2026-05-10T12:27:01.195Z",
+  "startedAtMs": 1778416021195,
+  "lastSeenAt": "2026-05-10T12:27:48.731Z",
+  "lastSeenAtMs": 1778416068731,
   "host": {
     "hostname": "c2aa8eb4-1578-495a-97ab-80e74a7fac33",
     "platform": "linux",
