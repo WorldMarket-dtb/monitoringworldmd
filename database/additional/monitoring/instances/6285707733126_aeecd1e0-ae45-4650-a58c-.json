@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6285707733126",
+  "ownerName": "Noyaa",
+  "ownerNumbers": [
+    "6287785172515"
+  ],
+  "instanceId": "6285707733126_aeecd1e0-ae45-4650-a58c-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-05-11T00:37:37.746Z",
+  "startedAtMs": 1778459857746,
+  "lastSeenAt": "2026-05-11T00:38:41.673Z",
+  "lastSeenAtMs": 1778459921673,
+  "host": {
+    "hostname": "aeecd1e0-ae45-4650-a58c-bd785a2d20cf",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "aeecd1e0-ae45-4650-a58c-bd785a2d20cf"
+    }
+  }
+}
