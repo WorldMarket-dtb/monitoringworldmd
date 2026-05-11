@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6289527857264",
+  "ownerName": "Kzuuuustore",
+  "ownerNumbers": [
+    "62895385457051"
+  ],
+  "instanceId": "6289527857264_22ecc369-6a72-4c74-92b6-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-05-11T13:13:58.918Z",
+  "startedAtMs": 1778505238918,
+  "lastSeenAt": "2026-05-11T13:30:25.464Z",
+  "lastSeenAtMs": 1778506225464,
+  "host": {
+    "hostname": "22ecc369-6a72-4c74-92b6-a7609b0c10b8",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "22ecc369-6a72-4c74-92b6-a7609b0c10b8"
+    }
+  }
+}
