@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "62895627077220",
+  "ownerName": "ENZA BOT",
+  "ownerNumbers": [
+    "6282239525781"
+  ],
+  "instanceId": "62895627077220_22025d16-0c10-4fa6-92d0-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-05-11T06:51:34.363Z",
+  "startedAtMs": 1778482294363,
+  "lastSeenAt": "2026-05-11T06:57:58.386Z",
+  "lastSeenAtMs": 1778482678386,
+  "host": {
+    "hostname": "22025d16-0c10-4fa6-92d0-8fe0812b2036",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "22025d16-0c10-4fa6-92d0-8fe0812b2036"
+    }
+  }
+}
