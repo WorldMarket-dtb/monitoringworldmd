@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6285847904180",
+  "ownerName": "Ryzee",
+  "ownerNumbers": [
+    "6287836043504"
+  ],
+  "instanceId": "6285847904180_e7b488e3-b1de-4b9d-b1a4-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-05-12T11:17:02.429Z",
+  "startedAtMs": 1778584622429,
+  "lastSeenAt": "2026-05-12T11:17:45.993Z",
+  "lastSeenAtMs": 1778584665993,
+  "host": {
+    "hostname": "e7b488e3-b1de-4b9d-b1a4-b4c5a4d16fe7",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "e7b488e3-b1de-4b9d-b1a4-b4c5a4d16fe7"
+    }
+  }
+}
