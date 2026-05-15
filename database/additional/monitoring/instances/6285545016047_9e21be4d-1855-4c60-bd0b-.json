@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6285545016047",
+  "ownerName": "KYY Market",
+  "ownerNumbers": [
+    "6283854342616"
+  ],
+  "instanceId": "6285545016047_9e21be4d-1855-4c60-bd0b-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-05-15T07:59:21.457Z",
+  "startedAtMs": 1778831961457,
+  "lastSeenAt": "2026-05-15T08:00:48.671Z",
+  "lastSeenAtMs": 1778832048671,
+  "host": {
+    "hostname": "9e21be4d-1855-4c60-bd0b-44d7dd0cd993",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "9e21be4d-1855-4c60-bd0b-44d7dd0cd993"
+    }
+  }
+}
