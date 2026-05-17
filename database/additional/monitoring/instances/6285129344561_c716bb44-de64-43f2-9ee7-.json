@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6285129344561",
+  "ownerName": "Xyzshin Kagenou",
+  "ownerNumbers": [
+    "62881024945567"
+  ],
+  "instanceId": "6285129344561_c716bb44-de64-43f2-9ee7-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-05-17T06:44:01.064Z",
+  "startedAtMs": 1779000241064,
+  "lastSeenAt": "2026-05-17T06:44:44.695Z",
+  "lastSeenAtMs": 1779000284695,
+  "host": {
+    "hostname": "c716bb44-de64-43f2-9ee7-95fc5f0f1dec",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "c716bb44-de64-43f2-9ee7-95fc5f0f1dec"
+    }
+  }
+}
