@@ -1,17 +1,17 @@
 {
   "app": "WORLD SCRIPT MD",
   "botNumber": "6289682352763",
-  "ownerName": "akbar bot",
+  "ownerName": "AKBAR JPM",
   "ownerNumbers": [
     "628135018056"
   ],
   "instanceId": "6289682352763_821cbc8b-8ac5-4f68-bfab-",
   "folder": "session",
   "sessionType": "main",
-  "startedAt": "2026-05-17T09:40:32.309Z",
-  "startedAtMs": 1779010832309,
-  "lastSeenAt": "2026-05-18T05:44:18.684Z",
-  "lastSeenAtMs": 1779083058684,
+  "startedAt": "2026-05-18T10:15:23.130Z",
+  "startedAtMs": 1779099323130,
+  "lastSeenAt": "2026-05-18T10:16:32.696Z",
+  "lastSeenAtMs": 1779099392696,
   "host": {
     "hostname": "821cbc8b-8ac5-4f68-bfab-28b1165ac7a7",
     "platform": "linux",
