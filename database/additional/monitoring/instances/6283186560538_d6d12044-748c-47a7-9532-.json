@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6283186560538",
+  "ownerName": "Reret Store",
+  "ownerNumbers": [
+    "6285656743067"
+  ],
+  "instanceId": "6283186560538_d6d12044-748c-47a7-9532-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-05-18T13:59:38.933Z",
+  "startedAtMs": 1779112778933,
+  "lastSeenAt": "2026-05-18T14:02:18.815Z",
+  "lastSeenAtMs": 1779112938815,
+  "host": {
+    "hostname": "d6d12044-748c-47a7-9532-a1be750cc0ad",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "d6d12044-748c-47a7-9532-a1be750cc0ad"
+    }
+  }
+}
