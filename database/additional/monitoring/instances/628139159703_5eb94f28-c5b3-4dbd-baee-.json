@@ -1,17 +1,17 @@
 {
   "app": "WORLD SCRIPT MD",
   "botNumber": "628139159703",
-  "ownerName": "BOT ZAQ",
+  "ownerName": "zaq",
   "ownerNumbers": [
     "6283131335698"
   ],
   "instanceId": "628139159703_5eb94f28-c5b3-4dbd-baee-",
   "folder": "session",
   "sessionType": "main",
-  "startedAt": "2026-05-15T08:33:55.911Z",
-  "startedAtMs": 1778834035911,
-  "lastSeenAt": "2026-05-18T04:34:12.238Z",
-  "lastSeenAtMs": 1779078852238,
+  "startedAt": "2026-05-19T11:44:03.913Z",
+  "startedAtMs": 1779191043913,
+  "lastSeenAt": "2026-05-19T11:44:58.183Z",
+  "lastSeenAtMs": 1779191098183,
   "host": {
     "hostname": "5eb94f28-c5b3-4dbd-baee-afc2ff99119e",
     "platform": "linux",
