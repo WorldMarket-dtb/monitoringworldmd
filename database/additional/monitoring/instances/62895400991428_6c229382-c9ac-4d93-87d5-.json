@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "62895400991428",
+  "ownerName": "YanzOtax",
+  "ownerNumbers": [
+    "6282110998379"
+  ],
+  "instanceId": "62895400991428_6c229382-c9ac-4d93-87d5-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-05-20T13:57:07.191Z",
+  "startedAtMs": 1779285427191,
+  "lastSeenAt": "2026-05-20T13:57:49.256Z",
+  "lastSeenAtMs": 1779285469256,
+  "host": {
+    "hostname": "6c229382-c9ac-4d93-87d5-7b7ce67d67c1",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "6c229382-c9ac-4d93-87d5-7b7ce67d67c1"
+    }
+  }
+}
