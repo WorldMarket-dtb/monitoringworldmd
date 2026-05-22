@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "628985474908",
+  "ownerName": "VEN STORE",
+  "ownerNumbers": [
+    "628985474908"
+  ],
+  "instanceId": "628985474908_c7ae720b-683a-4cf0-93d1-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-05-22T10:58:37.912Z",
+  "startedAtMs": 1779447517912,
+  "lastSeenAt": "2026-05-22T11:16:14.904Z",
+  "lastSeenAtMs": 1779448574904,
+  "host": {
+    "hostname": "c7ae720b-683a-4cf0-93d1-ecd76231e290",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "c7ae720b-683a-4cf0-93d1-ecd76231e290"
+    }
+  }
+}
