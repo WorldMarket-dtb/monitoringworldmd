@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6283861563749",
+  "ownerName": "rapi",
+  "ownerNumbers": [
+    "6282318575005"
+  ],
+  "instanceId": "6283861563749_0b47ad0b-8d24-4f8c-a56e-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-05-22T08:02:19.398Z",
+  "startedAtMs": 1779436939398,
+  "lastSeenAt": "2026-05-22T08:04:51.665Z",
+  "lastSeenAtMs": 1779437091665,
+  "host": {
+    "hostname": "0b47ad0b-8d24-4f8c-a56e-5d170ae4a42c",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "0b47ad0b-8d24-4f8c-a56e-5d170ae4a42c"
+    }
+  }
+}
