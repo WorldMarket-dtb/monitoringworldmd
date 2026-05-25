@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6285133406107",
+  "ownerName": " “ngomong boleh tegas, tapi inget bang… ortu lu juga pasti ngajarin batas 😹”",
+  "ownerNumbers": [
+    "6285716626027"
+  ],
+  "instanceId": "6285133406107_f465da72-0e4b-4226-ac44-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-05-25T05:05:06.783Z",
+  "startedAtMs": 1779685506783,
+  "lastSeenAt": "2026-05-25T05:05:43.231Z",
+  "lastSeenAtMs": 1779685543231,
+  "host": {
+    "hostname": "f465da72-0e4b-4226-ac44-49d4aaf60ad8",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "f465da72-0e4b-4226-ac44-49d4aaf60ad8"
+    }
+  }
+}
