@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6281994518406",
+  "ownerName": "xborg",
+  "ownerNumbers": [
+    "6285956432802"
+  ],
+  "instanceId": "6281994518406_0fcf7d62-9f4b-4c9e-b88f-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-05-25T07:27:25.561Z",
+  "startedAtMs": 1779694045561,
+  "lastSeenAt": "2026-05-25T07:28:09.142Z",
+  "lastSeenAtMs": 1779694089142,
+  "host": {
+    "hostname": "0fcf7d62-9f4b-4c9e-b88f-6752f1b842ac",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "0fcf7d62-9f4b-4c9e-b88f-6752f1b842ac"
+    }
+  }
+}
