@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6283849125938",
+  "ownerName": "GianzOfficial",
+  "ownerNumbers": [
+    "628137052433"
+  ],
+  "instanceId": "6283849125938_395abb70-6877-45ee-9e04-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-05-26T08:16:49.294Z",
+  "startedAtMs": 1779783409294,
+  "lastSeenAt": "2026-05-26T08:17:37.431Z",
+  "lastSeenAtMs": 1779783457431,
+  "host": {
+    "hostname": "395abb70-6877-45ee-9e04-815d6e314501",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "395abb70-6877-45ee-9e04-815d6e314501"
+    }
+  }
+}
