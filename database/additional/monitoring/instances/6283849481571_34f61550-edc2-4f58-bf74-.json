@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6283849481571",
+  "ownerName": "Kazenomi Bot",
+  "ownerNumbers": [
+    "6288809909357"
+  ],
+  "instanceId": "6283849481571_34f61550-edc2-4f58-bf74-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-05-27T12:42:25.745Z",
+  "startedAtMs": 1779885745745,
+  "lastSeenAt": "2026-05-27T12:43:18.653Z",
+  "lastSeenAtMs": 1779885798653,
+  "host": {
+    "hostname": "34f61550-edc2-4f58-bf74-cf9642d44dc1",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "34f61550-edc2-4f58-bf74-cf9642d44dc1"
+    }
+  }
+}
