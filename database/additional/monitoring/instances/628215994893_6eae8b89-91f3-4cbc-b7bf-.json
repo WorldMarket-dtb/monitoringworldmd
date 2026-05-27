@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "628215994893",
+  "ownerName": "Ryu Design",
+  "ownerNumbers": [
+    "6282353683432"
+  ],
+  "instanceId": "628215994893_6eae8b89-91f3-4cbc-b7bf-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-05-27T05:51:14.744Z",
+  "startedAtMs": 1779861074744,
+  "lastSeenAt": "2026-05-27T05:51:57.609Z",
+  "lastSeenAtMs": 1779861117609,
+  "host": {
+    "hostname": "6eae8b89-91f3-4cbc-b7bf-63756b1b1c7f",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "6eae8b89-91f3-4cbc-b7bf-63756b1b1c7f"
+    }
+  }
+}
