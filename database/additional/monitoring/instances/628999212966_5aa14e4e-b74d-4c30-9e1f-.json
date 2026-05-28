@@ -1,17 +1,17 @@
 {
   "app": "WORLD SCRIPT MD",
   "botNumber": "628999212966",
-  "ownerName": "World Market",
+  "ownerName": "Hanzz Market",
   "ownerNumbers": [
     "628987454828"
   ],
   "instanceId": "628999212966_5aa14e4e-b74d-4c30-9e1f-",
   "folder": "session",
   "sessionType": "main",
-  "startedAt": "2026-05-28T05:32:53.023Z",
-  "startedAtMs": 1779946373023,
-  "lastSeenAt": "2026-05-28T10:33:08.806Z",
-  "lastSeenAtMs": 1779964388806,
+  "startedAt": "2026-05-28T10:39:44.471Z",
+  "startedAtMs": 1779964784471,
+  "lastSeenAt": "2026-05-28T10:40:52.132Z",
+  "lastSeenAtMs": 1779964852132,
   "host": {
     "hostname": "5aa14e4e-b74d-4c30-9e1f-3732760bee9c",
     "platform": "linux",
