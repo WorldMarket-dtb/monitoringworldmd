@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6283862122268",
+  "ownerName": "𝙁𝘼𝙏𝙕𝘽𝙊𝙏𝙈𝘿",
+  "ownerNumbers": [
+    "6283862122268"
+  ],
+  "instanceId": "6283862122268_70d599b1-8545-4465-b037-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-05-29T09:13:16.875Z",
+  "startedAtMs": 1780045996875,
+  "lastSeenAt": "2026-05-29T09:14:04.769Z",
+  "lastSeenAtMs": 1780046044769,
+  "host": {
+    "hostname": "70d599b1-8545-4465-b037-adf7b62f13bf",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "70d599b1-8545-4465-b037-adf7b62f13bf"
+    }
+  }
+}
