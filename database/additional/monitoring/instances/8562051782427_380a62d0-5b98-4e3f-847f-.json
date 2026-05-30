@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "8562051782427",
+  "ownerName": "Zyro Shirogane",
+  "ownerNumbers": [
+    "62895416521297"
+  ],
+  "instanceId": "8562051782427_380a62d0-5b98-4e3f-847f-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-05-30T10:01:02.569Z",
+  "startedAtMs": 1780135262569,
+  "lastSeenAt": "2026-05-30T10:01:55.498Z",
+  "lastSeenAtMs": 1780135315498,
+  "host": {
+    "hostname": "380a62d0-5b98-4e3f-847f-500c224c8b24",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "380a62d0-5b98-4e3f-847f-500c224c8b24"
+    }
+  }
+}
