@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "628388765952",
+  "ownerName": "dlzzcc Market",
+  "ownerNumbers": [
+    "6285271784792"
+  ],
+  "instanceId": "628388765952_a41584a1-8bda-46c6-95b6-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-05-31T01:34:31.768Z",
+  "startedAtMs": 1780191271768,
+  "lastSeenAt": "2026-05-31T01:35:19.521Z",
+  "lastSeenAtMs": 1780191319521,
+  "host": {
+    "hostname": "a41584a1-8bda-46c6-95b6-d6a3f60532bf",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "a41584a1-8bda-46c6-95b6-d6a3f60532bf"
+    }
+  }
+}
