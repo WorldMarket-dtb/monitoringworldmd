@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "628131487123",
+  "ownerName": "Iqbal Bot",
+  "ownerNumbers": [
+    "6285156801405"
+  ],
+  "instanceId": "628131487123_33ef50bb-6c37-431c-874c-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-05-31T02:47:44.673Z",
+  "startedAtMs": 1780195664673,
+  "lastSeenAt": "2026-05-31T02:48:17.060Z",
+  "lastSeenAtMs": 1780195697060,
+  "host": {
+    "hostname": "33ef50bb-6c37-431c-874c-43b7a565d7bb",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "33ef50bb-6c37-431c-874c-43b7a565d7bb"
+    }
+  }
+}
