@@ -1,17 +1,17 @@
 {
   "app": "WORLD SCRIPT MD",
   "botNumber": "6285124947156",
-  "ownerName": "World Market",
+  "ownerName": "arka",
   "ownerNumbers": [
-    "6287868672530"
+    "6283877445766"
   ],
   "instanceId": "6285124947156_18431fd1-7e09-4ea3-bbe8-",
   "folder": "session",
   "sessionType": "main",
-  "startedAt": "2026-06-01T11:42:43.812Z",
-  "startedAtMs": 1780314163812,
-  "lastSeenAt": "2026-06-01T14:42:58.847Z",
-  "lastSeenAtMs": 1780324978847,
+  "startedAt": "2026-06-01T15:07:39.079Z",
+  "startedAtMs": 1780326459079,
+  "lastSeenAt": "2026-06-01T15:08:17.288Z",
+  "lastSeenAtMs": 1780326497288,
   "host": {
     "hostname": "18431fd1-7e09-4ea3-bbe8-5a238d4ff898",
     "platform": "linux",
