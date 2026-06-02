@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6285891077418",
+  "ownerName": "Razor gay",
+  "ownerNumbers": [
+    "628388458306"
+  ],
+  "instanceId": "6285891077418_e1165a56-9ceb-493f-8453-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-06-02T13:00:23.239Z",
+  "startedAtMs": 1780405223239,
+  "lastSeenAt": "2026-06-02T13:01:03.161Z",
+  "lastSeenAtMs": 1780405263161,
+  "host": {
+    "hostname": "e1165a56-9ceb-493f-8453-6f295faac1a0",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "e1165a56-9ceb-493f-8453-6f295faac1a0"
+    }
+  }
+}
