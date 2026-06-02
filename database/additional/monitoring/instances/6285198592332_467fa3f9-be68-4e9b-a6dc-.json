@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6285198592332",
+  "ownerName": "Tyo Botz",
+  "ownerNumbers": [
+    "6283846449158"
+  ],
+  "instanceId": "6285198592332_467fa3f9-be68-4e9b-a6dc-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-06-02T11:01:16.781Z",
+  "startedAtMs": 1780398076781,
+  "lastSeenAt": "2026-06-02T11:02:47.087Z",
+  "lastSeenAtMs": 1780398167087,
+  "host": {
+    "hostname": "467fa3f9-be68-4e9b-a6dc-08c2399422dd",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "467fa3f9-be68-4e9b-a6dc-08c2399422dd"
+    }
+  }
+}
