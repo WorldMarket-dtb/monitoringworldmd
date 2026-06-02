@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6285727462791",
+  "ownerName": "XyrooZynzz Market",
+  "ownerNumbers": [
+    "6285731167820"
+  ],
+  "instanceId": "6285727462791_91e81960-f541-4bcc-a7c9-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-06-02T13:48:07.062Z",
+  "startedAtMs": 1780408087062,
+  "lastSeenAt": "2026-06-02T13:48:41.587Z",
+  "lastSeenAtMs": 1780408121587,
+  "host": {
+    "hostname": "91e81960-f541-4bcc-a7c9-26807a3b5179",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "91e81960-f541-4bcc-a7c9-26807a3b5179"
+    }
+  }
+}
