@@ -3,15 +3,15 @@
   "botNumber": "6285887023969",
   "ownerName": "furkontol",
   "ownerNumbers": [
-    "6285887023969"
+    "6285782313604"
   ],
   "instanceId": "6285887023969_86998b53-f0f0-414e-af32-",
   "folder": "session",
   "sessionType": "main",
-  "startedAt": "2026-06-02T08:10:16.182Z",
-  "startedAtMs": 1780387816182,
-  "lastSeenAt": "2026-06-02T08:11:39.619Z",
-  "lastSeenAtMs": 1780387899619,
+  "startedAt": "2026-06-02T08:22:30.834Z",
+  "startedAtMs": 1780388550834,
+  "lastSeenAt": "2026-06-02T08:22:50.434Z",
+  "lastSeenAtMs": 1780388570434,
   "host": {
     "hostname": "86998b53-f0f0-414e-af32-46f1d5b72a2c",
     "platform": "linux",
