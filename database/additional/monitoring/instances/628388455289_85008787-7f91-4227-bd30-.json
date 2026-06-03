@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "628388455289",
+  "ownerName": "Umbra bot",
+  "ownerNumbers": [
+    "6283873716079"
+  ],
+  "instanceId": "628388455289_85008787-7f91-4227-bd30-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-06-03T01:48:15.689Z",
+  "startedAtMs": 1780451295689,
+  "lastSeenAt": "2026-06-03T01:49:02.750Z",
+  "lastSeenAtMs": 1780451342750,
+  "host": {
+    "hostname": "85008787-7f91-4227-bd30-5b31b52729e1",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "85008787-7f91-4227-bd30-5b31b52729e1"
+    }
+  }
+}
