@@ -1,17 +1,17 @@
 {
   "app": "WORLD SCRIPT MD",
   "botNumber": "221767755626",
-  "ownerName": "Zyro Shirogane",
+  "ownerName": "World Market",
   "ownerNumbers": [
     "62895416521297"
   ],
   "instanceId": "221767755626_380a62d0-5b98-4e3f-847f-",
   "folder": "session",
   "sessionType": "main",
-  "startedAt": "2026-06-02T11:57:09.226Z",
-  "startedAtMs": 1780401429226,
-  "lastSeenAt": "2026-06-02T23:42:26.932Z",
-  "lastSeenAtMs": 1780443746932,
+  "startedAt": "2026-06-02T23:59:11.557Z",
+  "startedAtMs": 1780444751557,
+  "lastSeenAt": "2026-06-03T00:04:50.931Z",
+  "lastSeenAtMs": 1780445090931,
   "host": {
     "hostname": "380a62d0-5b98-4e3f-847f-500c224c8b24",
     "platform": "linux",
