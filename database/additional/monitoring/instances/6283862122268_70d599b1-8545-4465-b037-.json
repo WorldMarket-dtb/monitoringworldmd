@@ -1,17 +1,17 @@
 {
   "app": "WORLD SCRIPT MD",
   "botNumber": "6283862122268",
-  "ownerName": "fatz md",
+  "ownerName": "World Market",
   "ownerNumbers": [
     "6283862122268"
   ],
   "instanceId": "6283862122268_70d599b1-8545-4465-b037-",
   "folder": "session",
   "sessionType": "main",
-  "startedAt": "2026-05-31T12:45:16.476Z",
-  "startedAtMs": 1780231516476,
-  "lastSeenAt": "2026-06-03T11:45:50.985Z",
-  "lastSeenAtMs": 1780487150985,
+  "startedAt": "2026-06-03T14:11:42.991Z",
+  "startedAtMs": 1780495902991,
+  "lastSeenAt": "2026-06-03T14:12:15.203Z",
+  "lastSeenAtMs": 1780495935203,
   "host": {
     "hostname": "70d599b1-8545-4465-b037-adf7b62f13bf",
     "platform": "linux",
