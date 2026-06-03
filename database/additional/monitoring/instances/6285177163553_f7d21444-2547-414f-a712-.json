@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6285177163553",
+  "ownerName": "Nero Yagami",
+  "ownerNumbers": [
+    "6285177439411"
+  ],
+  "instanceId": "6285177163553_f7d21444-2547-414f-a712-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-06-03T10:12:06.337Z",
+  "startedAtMs": 1780481526337,
+  "lastSeenAt": "2026-06-03T10:12:41.826Z",
+  "lastSeenAtMs": 1780481561826,
+  "host": {
+    "hostname": "f7d21444-2547-414f-a712-95dfbc4f37e3",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "f7d21444-2547-414f-a712-95dfbc4f37e3"
+    }
+  }
+}
