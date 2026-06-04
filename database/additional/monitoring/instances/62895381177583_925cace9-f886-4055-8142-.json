@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "62895381177583",
+  "ownerName": "Lanzy Market",
+  "ownerNumbers": [
+    "6289530237246"
+  ],
+  "instanceId": "62895381177583_925cace9-f886-4055-8142-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-06-04T13:40:50.697Z",
+  "startedAtMs": 1780580450697,
+  "lastSeenAt": "2026-06-04T13:41:41.372Z",
+  "lastSeenAtMs": 1780580501372,
+  "host": {
+    "hostname": "925cace9-f886-4055-8142-f617535a53ef",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "925cace9-f886-4055-8142-f617535a53ef"
+    }
+  }
+}
