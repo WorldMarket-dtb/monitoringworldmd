@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6288286028642",
+  "ownerName": "albinn",
+  "ownerNumbers": [
+    "6288286028642"
+  ],
+  "instanceId": "6288286028642_9bd9ea1a-6425-497f-b656-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-06-05T07:56:33.972Z",
+  "startedAtMs": 1780646193972,
+  "lastSeenAt": "2026-06-05T07:57:57.454Z",
+  "lastSeenAtMs": 1780646277454,
+  "host": {
+    "hostname": "9bd9ea1a-6425-497f-b656-1e7386a08a5e",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "9bd9ea1a-6425-497f-b656-1e7386a08a5e"
+    }
+  }
+}
