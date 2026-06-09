@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6285779134248",
+  "ownerName": "Bagas",
+  "ownerNumbers": [
+    "6282267618997"
+  ],
+  "instanceId": "6285779134248_0d762fc5-5a57-498a-86d8-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-06-09T14:14:02.683Z",
+  "startedAtMs": 1781014442683,
+  "lastSeenAt": "2026-06-09T14:16:19.546Z",
+  "lastSeenAtMs": 1781014579546,
+  "host": {
+    "hostname": "0d762fc5-5a57-498a-86d8-9274861e1aab",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "0d762fc5-5a57-498a-86d8-9274861e1aab"
+    }
+  }
+}
