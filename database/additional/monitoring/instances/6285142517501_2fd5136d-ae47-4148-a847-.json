@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6285142517501",
+  "ownerName": "Ataa",
+  "ownerNumbers": [
+    "6285338691337"
+  ],
+  "instanceId": "6285142517501_2fd5136d-ae47-4148-a847-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-06-10T10:37:56.209Z",
+  "startedAtMs": 1781087876209,
+  "lastSeenAt": "2026-06-10T10:38:32.143Z",
+  "lastSeenAtMs": 1781087912143,
+  "host": {
+    "hostname": "2fd5136d-ae47-4148-a847-459b1199dd93",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "2fd5136d-ae47-4148-a847-459b1199dd93"
+    }
+  }
+}
