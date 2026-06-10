@@ -1,17 +1,17 @@
 {
   "app": "WORLD SCRIPT MD",
   "botNumber": "6285185762407",
-  "ownerName": "SnoweGanteng",
+  "ownerName": "Snowe Ganteng",
   "ownerNumbers": [
     "60182035439"
   ],
   "instanceId": "6285185762407_e8fa86b0-b35d-48b3-81b1-",
   "folder": "session",
   "sessionType": "main",
-  "startedAt": "2026-06-10T14:48:13.503Z",
-  "startedAtMs": 1781102893503,
-  "lastSeenAt": "2026-06-10T14:48:27.004Z",
-  "lastSeenAtMs": 1781102907004,
+  "startedAt": "2026-06-10T14:57:21.991Z",
+  "startedAtMs": 1781103441991,
+  "lastSeenAt": "2026-06-10T14:58:05.204Z",
+  "lastSeenAtMs": 1781103485204,
   "host": {
     "hostname": "e8fa86b0-b35d-48b3-81b1-c82b54e197d1",
     "platform": "linux",
