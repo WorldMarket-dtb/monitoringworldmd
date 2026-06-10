@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6285782313604",
+  "ownerName": "zobiak",
+  "ownerNumbers": [
+    "6285887023969"
+  ],
+  "instanceId": "6285782313604_fa7c8641-0f0f-495d-b606-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-06-10T06:26:34.419Z",
+  "startedAtMs": 1781072794419,
+  "lastSeenAt": "2026-06-10T06:27:41.523Z",
+  "lastSeenAtMs": 1781072861523,
+  "host": {
+    "hostname": "fa7c8641-0f0f-495d-b606-87ed398b29a6",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "fa7c8641-0f0f-495d-b606-87ed398b29a6"
+    }
+  }
+}
