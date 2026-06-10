@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "22793510064",
+  "ownerName": "Zyro Store",
+  "ownerNumbers": [
+    "62895416521297"
+  ],
+  "instanceId": "22793510064_d9134a5d-f8c1-421b-8515-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-06-10T14:56:37.180Z",
+  "startedAtMs": 1781103397180,
+  "lastSeenAt": "2026-06-10T14:57:30.462Z",
+  "lastSeenAtMs": 1781103450462,
+  "host": {
+    "hostname": "d9134a5d-f8c1-421b-8515-0bb7c476c960",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "d9134a5d-f8c1-421b-8515-0bb7c476c960"
+    }
+  }
+}
