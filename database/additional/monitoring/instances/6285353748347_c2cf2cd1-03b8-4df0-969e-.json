@@ -10,8 +10,8 @@
   "sessionType": "main",
   "startedAt": "2026-05-30T06:59:07.890Z",
   "startedAtMs": 1780124347890,
-  "lastSeenAt": "2026-06-10T23:45:58.358Z",
-  "lastSeenAtMs": 1781135158358,
+  "lastSeenAt": "2026-06-11T00:00:58.358Z",
+  "lastSeenAtMs": 1781136058358,
   "host": {
     "hostname": "c2cf2cd1-03b8-4df0-969e-7b63c351a4a9",
     "platform": "linux",
