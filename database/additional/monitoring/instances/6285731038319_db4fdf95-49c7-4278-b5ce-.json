@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6285731038319",
+  "ownerName": "ripky Kimi ni tòdokeリプキー",
+  "ownerNumbers": [
+    "6288983763643"
+  ],
+  "instanceId": "6285731038319_db4fdf95-49c7-4278-b5ce-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-06-12T10:07:54.522Z",
+  "startedAtMs": 1781258874522,
+  "lastSeenAt": "2026-06-12T10:08:27.920Z",
+  "lastSeenAtMs": 1781258907920,
+  "host": {
+    "hostname": "db4fdf95-49c7-4278-b5ce-ec824bbeddea",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "db4fdf95-49c7-4278-b5ce-ec824bbeddea"
+    }
+  }
+}
