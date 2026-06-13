@@ -1,17 +1,17 @@
 {
   "app": "WORLD SCRIPT MD",
   "botNumber": "6283183394883",
-  "ownerName": "World Market",
+  "ownerName": "DREAMS",
   "ownerNumbers": [
     "6283895498305"
   ],
   "instanceId": "6283183394883_a2dad9b6-fb7b-447c-81e6-",
   "folder": "session",
   "sessionType": "main",
-  "startedAt": "2026-06-13T18:52:50.260Z",
-  "startedAtMs": 1781376770260,
-  "lastSeenAt": "2026-06-13T18:53:07.633Z",
-  "lastSeenAtMs": 1781376787633,
+  "startedAt": "2026-06-13T19:02:24.133Z",
+  "startedAtMs": 1781377344133,
+  "lastSeenAt": "2026-06-13T19:02:48.233Z",
+  "lastSeenAtMs": 1781377368233,
   "host": {
     "hostname": "a2dad9b6-fb7b-447c-81e6-562501dba5e2",
     "platform": "linux",
