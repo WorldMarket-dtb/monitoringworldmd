@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6283869663852",
+  "ownerName": "Zee Boy",
+  "ownerNumbers": [
+    "6288705372195"
+  ],
+  "instanceId": "6283869663852_258b8fba-ae68-459a-9954-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-06-16T04:42:49.332Z",
+  "startedAtMs": 1781584969332,
+  "lastSeenAt": "2026-06-16T04:43:26.258Z",
+  "lastSeenAtMs": 1781585006258,
+  "host": {
+    "hostname": "258b8fba-ae68-459a-9954-1c7898d1e4bb",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "258b8fba-ae68-459a-9954-1c7898d1e4bb"
+    }
+  }
+}
