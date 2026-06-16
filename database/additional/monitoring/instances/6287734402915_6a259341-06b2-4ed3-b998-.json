@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6287734402915",
+  "ownerName": "TuanRaps",
+  "ownerNumbers": [
+    "628211428755"
+  ],
+  "instanceId": "6287734402915_6a259341-06b2-4ed3-b998-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-06-16T08:16:26.638Z",
+  "startedAtMs": 1781597786638,
+  "lastSeenAt": "2026-06-16T08:17:29.830Z",
+  "lastSeenAtMs": 1781597849830,
+  "host": {
+    "hostname": "6a259341-06b2-4ed3-b998-3df72fb9cb93",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "6a259341-06b2-4ed3-b998-3df72fb9cb93"
+    }
+  }
+}
