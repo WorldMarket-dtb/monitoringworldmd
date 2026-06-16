@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6285198129760",
+  "ownerName": "Law",
+  "ownerNumbers": [
+    "6282373013792"
+  ],
+  "instanceId": "6285198129760_910d1cf8-566e-49bd-a3df-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-06-16T03:40:47.831Z",
+  "startedAtMs": 1781581247831,
+  "lastSeenAt": "2026-06-16T03:41:50.587Z",
+  "lastSeenAtMs": 1781581310587,
+  "host": {
+    "hostname": "910d1cf8-566e-49bd-a3df-106fb62ad5e6",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "910d1cf8-566e-49bd-a3df-106fb62ad5e6"
+    }
+  }
+}
