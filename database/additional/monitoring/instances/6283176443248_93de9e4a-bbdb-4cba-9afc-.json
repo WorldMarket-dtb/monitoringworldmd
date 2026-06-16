@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6283176443248",
+  "ownerName": "rifqi hensem",
+  "ownerNumbers": [
+    "6283180773136"
+  ],
+  "instanceId": "6283176443248_93de9e4a-bbdb-4cba-9afc-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-06-16T07:39:40.082Z",
+  "startedAtMs": 1781595580082,
+  "lastSeenAt": "2026-06-16T07:40:46.518Z",
+  "lastSeenAtMs": 1781595646518,
+  "host": {
+    "hostname": "93de9e4a-bbdb-4cba-9afc-63dac69f1e1c",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "93de9e4a-bbdb-4cba-9afc-63dac69f1e1c"
+    }
+  }
+}
