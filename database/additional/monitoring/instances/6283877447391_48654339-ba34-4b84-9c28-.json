@@ -1,17 +1,17 @@
 {
   "app": "WORLD SCRIPT MD",
   "botNumber": "6283877447391",
-  "ownerName": "ZEKK Market",
+  "ownerName": "zekk Market",
   "ownerNumbers": [
     "6282185028675"
   ],
   "instanceId": "6283877447391_48654339-ba34-4b84-9c28-",
   "folder": "session",
   "sessionType": "main",
-  "startedAt": "2026-06-16T12:11:57.740Z",
-  "startedAtMs": 1781611917740,
-  "lastSeenAt": "2026-06-16T12:12:39.280Z",
-  "lastSeenAtMs": 1781611959280,
+  "startedAt": "2026-06-16T12:18:53.850Z",
+  "startedAtMs": 1781612333850,
+  "lastSeenAt": "2026-06-16T12:19:54.632Z",
+  "lastSeenAtMs": 1781612394632,
   "host": {
     "hostname": "48654339-ba34-4b84-9c28-e9fccecaba01",
     "platform": "linux",
