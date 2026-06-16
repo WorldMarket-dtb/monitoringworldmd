@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6285141787062",
+  "ownerName": "FaizerBystore",
+  "ownerNumbers": [
+    "6285198222334"
+  ],
+  "instanceId": "6285141787062_878cccb8-8a90-47f9-a06f-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-06-16T02:22:45.094Z",
+  "startedAtMs": 1781576565094,
+  "lastSeenAt": "2026-06-16T02:23:45.392Z",
+  "lastSeenAtMs": 1781576625392,
+  "host": {
+    "hostname": "878cccb8-8a90-47f9-a06f-54da8b0e205a",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "878cccb8-8a90-47f9-a06f-54da8b0e205a"
+    }
+  }
+}
