@@ -1,17 +1,17 @@
 {
   "app": "WORLD SCRIPT MD",
   "botNumber": "6287863672421",
-  "ownerName": "qiqi Market",
+  "ownerName": "qiqiMarket",
   "ownerNumbers": [
     "6285143836697"
   ],
   "instanceId": "6287863672421_de408815-873c-4c60-9965-",
   "folder": "session",
   "sessionType": "main",
-  "startedAt": "2026-06-18T04:56:16.863Z",
-  "startedAtMs": 1781758576863,
-  "lastSeenAt": "2026-06-18T08:26:32.623Z",
-  "lastSeenAtMs": 1781771192623,
+  "startedAt": "2026-06-18T08:49:28.920Z",
+  "startedAtMs": 1781772568920,
+  "lastSeenAt": "2026-06-18T08:50:03.201Z",
+  "lastSeenAtMs": 1781772603201,
   "host": {
     "hostname": "de408815-873c-4c60-9965-8d22e638dfdd",
     "platform": "linux",
