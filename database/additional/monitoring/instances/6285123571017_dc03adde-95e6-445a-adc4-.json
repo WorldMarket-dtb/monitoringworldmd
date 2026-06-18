@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6285123571017",
+  "ownerName": "Uchiha Kenkai",
+  "ownerNumbers": [
+    "6285177438515"
+  ],
+  "instanceId": "6285123571017_dc03adde-95e6-445a-adc4-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-06-18T03:25:39.046Z",
+  "startedAtMs": 1781753139046,
+  "lastSeenAt": "2026-06-18T03:26:23.198Z",
+  "lastSeenAtMs": 1781753183198,
+  "host": {
+    "hostname": "dc03adde-95e6-445a-adc4-ba51f82ae99f",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "dc03adde-95e6-445a-adc4-ba51f82ae99f"
+    }
+  }
+}
