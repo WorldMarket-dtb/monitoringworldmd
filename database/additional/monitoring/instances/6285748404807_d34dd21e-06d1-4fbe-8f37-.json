@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6285748404807",
+  "ownerName": "Ata-Kum",
+  "ownerNumbers": [
+    "6285177439411"
+  ],
+  "instanceId": "6285748404807_d34dd21e-06d1-4fbe-8f37-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-06-18T06:04:06.936Z",
+  "startedAtMs": 1781762646936,
+  "lastSeenAt": "2026-06-18T06:04:41.147Z",
+  "lastSeenAtMs": 1781762681147,
+  "host": {
+    "hostname": "d34dd21e-06d1-4fbe-8f37-5e4447a1149d",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "d34dd21e-06d1-4fbe-8f37-5e4447a1149d"
+    }
+  }
+}
