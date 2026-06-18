@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6285122509686",
+  "ownerName": "Dianz Market",
+  "ownerNumbers": [
+    "6283117941671"
+  ],
+  "instanceId": "6285122509686_fefdae11-e9e6-422e-8edb-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-06-18T11:19:41.757Z",
+  "startedAtMs": 1781781581757,
+  "lastSeenAt": "2026-06-18T11:20:51.139Z",
+  "lastSeenAtMs": 1781781651139,
+  "host": {
+    "hostname": "fefdae11-e9e6-422e-8edb-f68f0fce0bdb",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "fefdae11-e9e6-422e-8edb-f68f0fce0bdb"
+    }
+  }
+}
