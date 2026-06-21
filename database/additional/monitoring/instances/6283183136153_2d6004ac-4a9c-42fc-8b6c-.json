@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6283183136153",
+  "ownerName": "King babyo",
+  "ownerNumbers": [
+    "6285882493289"
+  ],
+  "instanceId": "6283183136153_2d6004ac-4a9c-42fc-8b6c-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-06-21T15:43:44.191Z",
+  "startedAtMs": 1782056624191,
+  "lastSeenAt": "2026-06-21T15:44:30.864Z",
+  "lastSeenAtMs": 1782056670864,
+  "host": {
+    "hostname": "2d6004ac-4a9c-42fc-8b6c-e1d050e26019",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "2d6004ac-4a9c-42fc-8b6c-e1d050e26019"
+    }
+  }
+}
