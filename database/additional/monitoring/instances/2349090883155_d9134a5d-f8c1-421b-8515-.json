@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "2349090883155",
+  "ownerName": "Zyro Bot",
+  "ownerNumbers": [
+    "62895416521297"
+  ],
+  "instanceId": "2349090883155_d9134a5d-f8c1-421b-8515-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-06-21T03:34:33.158Z",
+  "startedAtMs": 1782012873158,
+  "lastSeenAt": "2026-06-21T03:35:26.690Z",
+  "lastSeenAtMs": 1782012926690,
+  "host": {
+    "hostname": "d9134a5d-f8c1-421b-8515-0bb7c476c960",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "d9134a5d-f8c1-421b-8515-0bb7c476c960"
+    }
+  }
+}
