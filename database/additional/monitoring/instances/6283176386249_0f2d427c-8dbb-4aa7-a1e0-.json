@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6283176386249",
+  "ownerName": "WAFF",
+  "ownerNumbers": [
+    "628211004544"
+  ],
+  "instanceId": "6283176386249_0f2d427c-8dbb-4aa7-a1e0-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-06-22T01:33:30.148Z",
+  "startedAtMs": 1782092010148,
+  "lastSeenAt": "2026-06-22T01:33:45.505Z",
+  "lastSeenAtMs": 1782092025505,
+  "host": {
+    "hostname": "0f2d427c-8dbb-4aa7-a1e0-ea2216f8e5c4",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "0f2d427c-8dbb-4aa7-a1e0-ea2216f8e5c4"
+    }
+  }
+}
