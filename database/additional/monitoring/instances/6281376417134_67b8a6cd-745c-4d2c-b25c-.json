@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6281376417134",
+  "ownerName": "Nanzz Bot",
+  "ownerNumbers": [
+    "6285726297061"
+  ],
+  "instanceId": "6281376417134_67b8a6cd-745c-4d2c-b25c-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-06-23T15:47:36.739Z",
+  "startedAtMs": 1782229656739,
+  "lastSeenAt": "2026-06-23T15:48:33.951Z",
+  "lastSeenAtMs": 1782229713951,
+  "host": {
+    "hostname": "67b8a6cd-745c-4d2c-b25c-7db81424e0cc",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "67b8a6cd-745c-4d2c-b25c-7db81424e0cc"
+    }
+  }
+}
