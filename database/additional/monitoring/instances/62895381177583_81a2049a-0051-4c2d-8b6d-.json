@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "62895381177583",
+  "ownerName": "kontol ",
+  "ownerNumbers": [
+    "6289530237246"
+  ],
+  "instanceId": "62895381177583_81a2049a-0051-4c2d-8b6d-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-06-23T15:11:27.359Z",
+  "startedAtMs": 1782227487359,
+  "lastSeenAt": "2026-06-23T15:12:18.006Z",
+  "lastSeenAtMs": 1782227538006,
+  "host": {
+    "hostname": "81a2049a-0051-4c2d-8b6d-8cd5961c38f1",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "81a2049a-0051-4c2d-8b6d-8cd5961c38f1"
+    }
+  }
+}
