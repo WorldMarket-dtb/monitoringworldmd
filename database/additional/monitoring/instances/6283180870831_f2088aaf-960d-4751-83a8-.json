@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6283180870831",
+  "ownerName": "Ranvierr Luvv",
+  "ownerNumbers": [
+    "6285168685855"
+  ],
+  "instanceId": "6283180870831_f2088aaf-960d-4751-83a8-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-06-23T11:48:00.535Z",
+  "startedAtMs": 1782215280535,
+  "lastSeenAt": "2026-06-23T11:48:50.444Z",
+  "lastSeenAtMs": 1782215330444,
+  "host": {
+    "hostname": "f2088aaf-960d-4751-83a8-380677edf627",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "f2088aaf-960d-4751-83a8-380677edf627"
+    }
+  }
+}
