@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6283183136153",
+  "ownerName": "babyoo WORLD",
+  "ownerNumbers": [
+    "6285882493289"
+  ],
+  "instanceId": "6283183136153_1cb1b7ab-bb8d-478e-9a85-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-06-23T06:32:22.655Z",
+  "startedAtMs": 1782196342655,
+  "lastSeenAt": "2026-06-23T06:34:48.075Z",
+  "lastSeenAtMs": 1782196488075,
+  "host": {
+    "hostname": "1cb1b7ab-bb8d-478e-9a85-b2337997f1d4",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "1cb1b7ab-bb8d-478e-9a85-b2337997f1d4"
+    }
+  }
+}
