@@ -3,16 +3,15 @@
   "botNumber": "6283878021338",
   "ownerName": "Sahzz Market",
   "ownerNumbers": [
-    "6288994538851",
-    "62881025883163"
+    "6288994538851"
   ],
   "instanceId": "6283878021338_c6effa2b-99fa-4928-81f8-",
   "folder": "session",
   "sessionType": "main",
-  "startedAt": "2026-06-23T22:48:13.952Z",
-  "startedAtMs": 1782254893952,
-  "lastSeenAt": "2026-06-23T22:48:27.357Z",
-  "lastSeenAtMs": 1782254907357,
+  "startedAt": "2026-06-24T00:20:16.954Z",
+  "startedAtMs": 1782260416954,
+  "lastSeenAt": "2026-06-24T00:20:57.638Z",
+  "lastSeenAtMs": 1782260457638,
   "host": {
     "hostname": "c6effa2b-99fa-4928-81f8-1f797b07ea98",
     "platform": "linux",
