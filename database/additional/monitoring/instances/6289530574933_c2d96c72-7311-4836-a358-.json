@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6289530574933",
+  "ownerName": "moon x kahami",
+  "ownerNumbers": [
+    "6287894504759"
+  ],
+  "instanceId": "6289530574933_c2d96c72-7311-4836-a358-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-06-25T04:43:11.070Z",
+  "startedAtMs": 1782362591070,
+  "lastSeenAt": "2026-06-25T04:50:33.013Z",
+  "lastSeenAtMs": 1782363033013,
+  "host": {
+    "hostname": "c2d96c72-7311-4836-a358-981a963040d0",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "c2d96c72-7311-4836-a358-981a963040d0"
+    }
+  }
+}
