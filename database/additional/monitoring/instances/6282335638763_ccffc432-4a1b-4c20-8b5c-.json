@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6282335638763",
+  "ownerName": "Ata-kun",
+  "ownerNumbers": [
+    "6285177439411"
+  ],
+  "instanceId": "6282335638763_ccffc432-4a1b-4c20-8b5c-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-06-25T04:06:53.361Z",
+  "startedAtMs": 1782360413361,
+  "lastSeenAt": "2026-06-25T04:07:34.467Z",
+  "lastSeenAtMs": 1782360454467,
+  "host": {
+    "hostname": "ccffc432-4a1b-4c20-8b5c-c4fa0126b9a0",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "ccffc432-4a1b-4c20-8b5c-c4fa0126b9a0"
+    }
+  }
+}
