@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6283114090912",
+  "ownerName": "azka skydinata",
+  "ownerNumbers": [
+    "6283159479726"
+  ],
+  "instanceId": "6283114090912_e01fdb1e-1f56-488e-9c7c-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-06-25T02:50:26.513Z",
+  "startedAtMs": 1782355826513,
+  "lastSeenAt": "2026-06-25T02:51:13.468Z",
+  "lastSeenAtMs": 1782355873468,
+  "host": {
+    "hostname": "e01fdb1e-1f56-488e-9c7c-08c6349cd856",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "e01fdb1e-1f56-488e-9c7c-08c6349cd856"
+    }
+  }
+}
