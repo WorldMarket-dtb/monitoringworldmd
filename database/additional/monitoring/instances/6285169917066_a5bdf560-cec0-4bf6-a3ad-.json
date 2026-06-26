@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6285169917066",
+  "ownerName": "zai Market",
+  "ownerNumbers": [
+    "62895623077521"
+  ],
+  "instanceId": "6285169917066_a5bdf560-cec0-4bf6-a3ad-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-06-26T20:17:43.948Z",
+  "startedAtMs": 1782505063948,
+  "lastSeenAt": "2026-06-26T20:18:18.560Z",
+  "lastSeenAtMs": 1782505098560,
+  "host": {
+    "hostname": "a5bdf560-cec0-4bf6-a3ad-05c13205ec7a",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "a5bdf560-cec0-4bf6-a3ad-05c13205ec7a"
+    }
+  }
+}
