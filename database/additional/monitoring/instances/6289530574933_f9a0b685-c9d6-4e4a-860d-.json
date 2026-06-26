@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6289530574933",
+  "ownerName": "kahami ganteng",
+  "ownerNumbers": [
+    "6287894504759"
+  ],
+  "instanceId": "6289530574933_f9a0b685-c9d6-4e4a-860d-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-06-26T05:54:35.236Z",
+  "startedAtMs": 1782453275236,
+  "lastSeenAt": "2026-06-26T05:55:44.853Z",
+  "lastSeenAtMs": 1782453344853,
+  "host": {
+    "hostname": "f9a0b685-c9d6-4e4a-860d-312e403ad1ec",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "f9a0b685-c9d6-4e4a-860d-312e403ad1ec"
+    }
+  }
+}
