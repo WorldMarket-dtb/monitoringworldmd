@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6285188401247",
+  "ownerName": "KAIZEN",
+  "ownerNumbers": [
+    "6287836043504"
+  ],
+  "instanceId": "6285188401247_ea3352f0-ff0d-48ba-86d1-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-06-27T10:56:18.460Z",
+  "startedAtMs": 1782557778460,
+  "lastSeenAt": "2026-06-27T10:57:07.212Z",
+  "lastSeenAtMs": 1782557827212,
+  "host": {
+    "hostname": "ea3352f0-ff0d-48ba-86d1-6e50c1919993",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "ea3352f0-ff0d-48ba-86d1-6e50c1919993"
+    }
+  }
+}
