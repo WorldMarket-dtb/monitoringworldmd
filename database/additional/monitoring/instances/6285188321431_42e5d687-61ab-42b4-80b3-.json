@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6285188321431",
+  "ownerName": "ANTAREZ DEVARRO",
+  "ownerNumbers": [
+    "6285188655959"
+  ],
+  "instanceId": "6285188321431_42e5d687-61ab-42b4-80b3-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-06-27T12:08:27.776Z",
+  "startedAtMs": 1782562107776,
+  "lastSeenAt": "2026-06-27T12:09:34.366Z",
+  "lastSeenAtMs": 1782562174366,
+  "host": {
+    "hostname": "42e5d687-61ab-42b4-80b3-8ba6f88c6907",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "42e5d687-61ab-42b4-80b3-8ba6f88c6907"
+    }
+  }
+}
