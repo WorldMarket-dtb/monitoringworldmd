@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "628215994893",
+  "ownerName": "tt : @penjuallayam",
+  "ownerNumbers": [
+    "6282353683432"
+  ],
+  "instanceId": "628215994893_b774fcf8-9565-4c3f-b5f3-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-06-28T05:34:10.313Z",
+  "startedAtMs": 1782624850313,
+  "lastSeenAt": "2026-06-28T05:34:48.190Z",
+  "lastSeenAtMs": 1782624888190,
+  "host": {
+    "hostname": "b774fcf8-9565-4c3f-b5f3-59ab533351db",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "b774fcf8-9565-4c3f-b5f3-59ab533351db"
+    }
+  }
+}
