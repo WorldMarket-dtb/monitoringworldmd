@@ -3,15 +3,15 @@
   "botNumber": "6283848857688",
   "ownerName": "Kamisato ell",
   "ownerNumbers": [
-    "6283139523467"
+    "6281586065735"
   ],
   "instanceId": "6283848857688_2c672a88-d4f6-47d1-a654-",
   "folder": "session",
   "sessionType": "main",
-  "startedAt": "2026-06-27T18:42:07.125Z",
-  "startedAtMs": 1782585727125,
-  "lastSeenAt": "2026-06-28T15:27:24.413Z",
-  "lastSeenAtMs": 1782660444413,
+  "startedAt": "2026-06-28T15:37:53.436Z",
+  "startedAtMs": 1782661073436,
+  "lastSeenAt": "2026-06-28T15:38:10.091Z",
+  "lastSeenAtMs": 1782661090091,
   "host": {
     "hostname": "2c672a88-d4f6-47d1-a654-db4b650aec78",
     "platform": "linux",
