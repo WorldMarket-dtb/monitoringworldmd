@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6288245327127",
+  "ownerName": "babang kahami",
+  "ownerNumbers": [
+    "6287894504759"
+  ],
+  "instanceId": "6288245327127_ad0cf1d0-77e6-43bb-bd0e-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-06-29T04:10:14.783Z",
+  "startedAtMs": 1782706214783,
+  "lastSeenAt": "2026-06-29T04:11:00.192Z",
+  "lastSeenAtMs": 1782706260192,
+  "host": {
+    "hostname": "ad0cf1d0-77e6-43bb-bd0e-861678c55b11",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "ad0cf1d0-77e6-43bb-bd0e-861678c55b11"
+    }
+  }
+}
