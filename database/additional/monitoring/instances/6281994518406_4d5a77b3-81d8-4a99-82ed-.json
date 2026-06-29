@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6281994518406",
+  "ownerName": "X.BORG STR",
+  "ownerNumbers": [
+    "6285956432802"
+  ],
+  "instanceId": "6281994518406_4d5a77b3-81d8-4a99-82ed-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-06-29T00:57:09.623Z",
+  "startedAtMs": 1782694629623,
+  "lastSeenAt": "2026-06-29T00:58:08.233Z",
+  "lastSeenAtMs": 1782694688233,
+  "host": {
+    "hostname": "4d5a77b3-81d8-4a99-82ed-2ee3af126931",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "4d5a77b3-81d8-4a99-82ed-2ee3af126931"
+    }
+  }
+}
