@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6287769449552",
+  "ownerName": "Kamisato ell",
+  "ownerNumbers": [
+    "6281586065735"
+  ],
+  "instanceId": "6287769449552_072ec66e-a264-41c4-925f-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-06-29T11:44:51.469Z",
+  "startedAtMs": 1782733491469,
+  "lastSeenAt": "2026-06-29T11:45:47.369Z",
+  "lastSeenAtMs": 1782733547369,
+  "host": {
+    "hostname": "072ec66e-a264-41c4-925f-f0a776c7f204",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "072ec66e-a264-41c4-925f-f0a776c7f204"
+    }
+  }
+}
