@@ -1,17 +1,17 @@
 {
   "app": "WORLD SCRIPT MD",
   "botNumber": "6285188321431",
-  "ownerName": "ANTAREZ DEVARRO",
+  "ownerName": "World Market",
   "ownerNumbers": [
     "6285188655959"
   ],
   "instanceId": "6285188321431_42e5d687-61ab-42b4-80b3-",
   "folder": "session",
   "sessionType": "main",
-  "startedAt": "2026-06-27T14:29:39.010Z",
-  "startedAtMs": 1782570579010,
-  "lastSeenAt": "2026-06-29T13:00:53.446Z",
-  "lastSeenAtMs": 1782738053446,
+  "startedAt": "2026-06-29T13:56:15.716Z",
+  "startedAtMs": 1782741375716,
+  "lastSeenAt": "2026-06-29T13:57:08.707Z",
+  "lastSeenAtMs": 1782741428707,
   "host": {
     "hostname": "42e5d687-61ab-42b4-80b3-8ba6f88c6907",
     "platform": "linux",
