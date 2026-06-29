@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6281539296137",
+  "ownerName": "Kaisar Kall",
+  "ownerNumbers": [
+    "6289660780101"
+  ],
+  "instanceId": "6281539296137_49239368-f326-4d0b-bb36-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-06-29T11:43:10.469Z",
+  "startedAtMs": 1782733390469,
+  "lastSeenAt": "2026-06-29T11:43:55.872Z",
+  "lastSeenAtMs": 1782733435872,
+  "host": {
+    "hostname": "49239368-f326-4d0b-bb36-3ce809a5f66d",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "49239368-f326-4d0b-bb36-3ce809a5f66d"
+    }
+  }
+}
