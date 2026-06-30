@@ -1,17 +1,17 @@
 {
   "app": "WORLD SCRIPT MD",
   "botNumber": "6281376417134",
-  "ownerName": "NANZZ",
+  "ownerName": "World Market",
   "ownerNumbers": [
     "6285726297061"
   ],
   "instanceId": "6281376417134_b30fc74e-3756-4c8f-a893-",
   "folder": "session",
   "sessionType": "main",
-  "startedAt": "2026-06-30T12:51:28.007Z",
-  "startedAtMs": 1782823888007,
-  "lastSeenAt": "2026-06-30T12:51:42.195Z",
-  "lastSeenAtMs": 1782823902195,
+  "startedAt": "2026-06-30T12:58:05.375Z",
+  "startedAtMs": 1782824285375,
+  "lastSeenAt": "2026-06-30T12:58:47.513Z",
+  "lastSeenAtMs": 1782824327513,
   "host": {
     "hostname": "b30fc74e-3756-4c8f-a893-6d41660bb293",
     "platform": "linux",
