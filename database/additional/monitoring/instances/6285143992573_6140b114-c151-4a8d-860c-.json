@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6285143992573",
+  "ownerName": "LINK TRA Market",
+  "ownerNumbers": [
+    "6283191431788"
+  ],
+  "instanceId": "6285143992573_6140b114-c151-4a8d-860c-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-07-01T13:16:09.227Z",
+  "startedAtMs": 1782911769227,
+  "lastSeenAt": "2026-07-01T13:17:19.571Z",
+  "lastSeenAtMs": 1782911839571,
+  "host": {
+    "hostname": "6140b114-c151-4a8d-860c-7d317e289178",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "6140b114-c151-4a8d-860c-7d317e289178"
+    }
+  }
+}
