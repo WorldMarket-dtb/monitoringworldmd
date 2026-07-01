@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6285366153965",
+  "ownerName": "Law Ngarit",
+  "ownerNumbers": [
+    "6282373013792"
+  ],
+  "instanceId": "6285366153965_2d6a999b-f6d6-47ca-8871-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-07-01T15:09:46.455Z",
+  "startedAtMs": 1782918586455,
+  "lastSeenAt": "2026-07-01T15:10:57.138Z",
+  "lastSeenAtMs": 1782918657138,
+  "host": {
+    "hostname": "2d6a999b-f6d6-47ca-8871-435b5b6a139b",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "2d6a999b-f6d6-47ca-8871-435b5b6a139b"
+    }
+  }
+}
