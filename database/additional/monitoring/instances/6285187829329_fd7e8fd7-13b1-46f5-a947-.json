@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6285187829329",
+  "ownerName": "Ciio Market",
+  "ownerNumbers": [
+    "6285373270368"
+  ],
+  "instanceId": "6285187829329_fd7e8fd7-13b1-46f5-a947-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-07-01T15:52:59.042Z",
+  "startedAtMs": 1782921179042,
+  "lastSeenAt": "2026-07-01T15:54:42.147Z",
+  "lastSeenAtMs": 1782921282147,
+  "host": {
+    "hostname": "fd7e8fd7-13b1-46f5-a947-933811480364",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "fd7e8fd7-13b1-46f5-a947-933811480364"
+    }
+  }
+}
