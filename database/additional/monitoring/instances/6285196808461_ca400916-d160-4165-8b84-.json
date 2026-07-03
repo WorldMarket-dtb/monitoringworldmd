@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6285196808461",
+  "ownerName": "Iroha Market",
+  "ownerNumbers": [
+    "6285129882148"
+  ],
+  "instanceId": "6285196808461_ca400916-d160-4165-8b84-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-07-03T15:12:42.865Z",
+  "startedAtMs": 1783091562865,
+  "lastSeenAt": "2026-07-03T15:13:25.207Z",
+  "lastSeenAtMs": 1783091605207,
+  "host": {
+    "hostname": "ca400916-d160-4165-8b84-7885e37e07c3",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "ca400916-d160-4165-8b84-7885e37e07c3"
+    }
+  }
+}
