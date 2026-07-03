@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6282154712935",
+  "ownerName": "OKOTSU MD",
+  "ownerNumbers": [
+    "62881024945509"
+  ],
+  "instanceId": "6282154712935_e74811c1-ca25-4c79-b2af-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-07-03T14:09:14.589Z",
+  "startedAtMs": 1783087754589,
+  "lastSeenAt": "2026-07-03T14:10:23.817Z",
+  "lastSeenAtMs": 1783087823817,
+  "host": {
+    "hostname": "e74811c1-ca25-4c79-b2af-b5f582fd1ae6",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "e74811c1-ca25-4c79-b2af-b5f582fd1ae6"
+    }
+  }
+}
