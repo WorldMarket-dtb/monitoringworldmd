@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6283193397924",
+  "ownerName": "JEREM GACOR",
+  "ownerNumbers": [
+    "6283869663852"
+  ],
+  "instanceId": "6283193397924_8d2e2652-60f1-47b6-a4d9-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-07-03T03:06:24.797Z",
+  "startedAtMs": 1783047984797,
+  "lastSeenAt": "2026-07-03T03:07:11.681Z",
+  "lastSeenAtMs": 1783048031681,
+  "host": {
+    "hostname": "8d2e2652-60f1-47b6-a4d9-1da1cc501a81",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "8d2e2652-60f1-47b6-a4d9-1da1cc501a81"
+    }
+  }
+}
