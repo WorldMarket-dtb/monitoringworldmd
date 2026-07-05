@@ -3,15 +3,15 @@
   "botNumber": "6285137223946",
   "ownerName": "VERBOT",
   "ownerNumbers": [
-    "6287836043504"
+    "6285817491765"
   ],
   "instanceId": "6285137223946_e79cba43-ae7a-4a73-881b-",
   "folder": "session",
   "sessionType": "main",
-  "startedAt": "2026-07-05T03:57:22.331Z",
-  "startedAtMs": 1783223842331,
-  "lastSeenAt": "2026-07-05T11:27:40.013Z",
-  "lastSeenAtMs": 1783250860013,
+  "startedAt": "2026-07-05T11:36:21.123Z",
+  "startedAtMs": 1783251381123,
+  "lastSeenAt": "2026-07-05T11:36:37.856Z",
+  "lastSeenAtMs": 1783251397856,
   "host": {
     "hostname": "e79cba43-ae7a-4a73-881b-aec5d165f27d",
     "platform": "linux",
