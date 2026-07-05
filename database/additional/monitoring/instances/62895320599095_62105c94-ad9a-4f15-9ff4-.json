@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "62895320599095",
+  "ownerName": "DAPI TAKASHI",
+  "ownerNumbers": [
+    "6285719260734"
+  ],
+  "instanceId": "62895320599095_62105c94-ad9a-4f15-9ff4-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-07-05T05:19:26.205Z",
+  "startedAtMs": 1783228766205,
+  "lastSeenAt": "2026-07-05T05:21:18.581Z",
+  "lastSeenAtMs": 1783228878581,
+  "host": {
+    "hostname": "62105c94-ad9a-4f15-9ff4-706ed83184e1",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "62105c94-ad9a-4f15-9ff4-706ed83184e1"
+    }
+  }
+}
