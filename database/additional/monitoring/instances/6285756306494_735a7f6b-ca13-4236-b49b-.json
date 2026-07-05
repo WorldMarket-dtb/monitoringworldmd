@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6285756306494",
+  "ownerName": "Royy Market",
+  "ownerNumbers": [
+    "6285756355148"
+  ],
+  "instanceId": "6285756306494_735a7f6b-ca13-4236-b49b-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-07-05T12:46:57.477Z",
+  "startedAtMs": 1783255617477,
+  "lastSeenAt": "2026-07-05T12:47:34.579Z",
+  "lastSeenAtMs": 1783255654579,
+  "host": {
+    "hostname": "735a7f6b-ca13-4236-b49b-d35595a9caae",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "735a7f6b-ca13-4236-b49b-d35595a9caae"
+    }
+  }
+}
