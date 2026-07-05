@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6283167748707",
+  "ownerName": "wahyu Market",
+  "ownerNumbers": [
+    "628987454828"
+  ],
+  "instanceId": "6283167748707_468b33f6-7b84-41f1-9d20-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-07-05T13:03:12.549Z",
+  "startedAtMs": 1783256592549,
+  "lastSeenAt": "2026-07-05T13:04:15.717Z",
+  "lastSeenAtMs": 1783256655717,
+  "host": {
+    "hostname": "468b33f6-7b84-41f1-9d20-835223c45df2",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "468b33f6-7b84-41f1-9d20-835223c45df2"
+    }
+  }
+}
