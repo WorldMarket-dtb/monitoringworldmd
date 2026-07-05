@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6285122318152",
+  "ownerName": "FALL GNTNG",
+  "ownerNumbers": [
+    "6285122318152"
+  ],
+  "instanceId": "6285122318152_b7ddd489-3b29-4105-acda-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-07-05T11:23:58.446Z",
+  "startedAtMs": 1783250638446,
+  "lastSeenAt": "2026-07-05T11:25:31.655Z",
+  "lastSeenAtMs": 1783250731655,
+  "host": {
+    "hostname": "b7ddd489-3b29-4105-acda-632881a96a49",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "b7ddd489-3b29-4105-acda-632881a96a49"
+    }
+  }
+}
