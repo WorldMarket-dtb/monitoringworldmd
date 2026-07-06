@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6285133558978",
+  "ownerName": "andra king",
+  "ownerNumbers": [
+    "6289501953167"
+  ],
+  "instanceId": "6285133558978_c7bee1f5-9a0a-4344-9a70-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-07-06T10:35:08.181Z",
+  "startedAtMs": 1783334108181,
+  "lastSeenAt": "2026-07-06T10:35:56.639Z",
+  "lastSeenAtMs": 1783334156639,
+  "host": {
+    "hostname": "c7bee1f5-9a0a-4344-9a70-fcd53da9abe6",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "c7bee1f5-9a0a-4344-9a70-fcd53da9abe6"
+    }
+  }
+}
