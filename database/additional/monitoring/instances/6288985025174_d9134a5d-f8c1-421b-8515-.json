@@ -1,17 +1,17 @@
 {
   "app": "WORLD SCRIPT MD",
   "botNumber": "6288985025174",
-  "ownerName": "World Market",
+  "ownerName": "Bini Zyroo",
   "ownerNumbers": [
     "62895416521297"
   ],
   "instanceId": "6288985025174_d9134a5d-f8c1-421b-8515-",
   "folder": "session",
   "sessionType": "main",
-  "startedAt": "2026-07-04T10:39:03.244Z",
-  "startedAtMs": 1783161543244,
-  "lastSeenAt": "2026-07-07T10:39:21.503Z",
-  "lastSeenAtMs": 1783420761503,
+  "startedAt": "2026-07-07T10:42:43.706Z",
+  "startedAtMs": 1783420963706,
+  "lastSeenAt": "2026-07-07T10:42:59.960Z",
+  "lastSeenAtMs": 1783420979960,
   "host": {
     "hostname": "d9134a5d-f8c1-421b-8515-0bb7c476c960",
     "platform": "linux",
