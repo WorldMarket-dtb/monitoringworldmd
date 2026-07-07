@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6285133558978",
+  "ownerName": "Sanzz Gantengg",
+  "ownerNumbers": [
+    "6289501953167"
+  ],
+  "instanceId": "6285133558978_f951c54a-fe61-4fdb-ac38-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-07-07T15:59:31.165Z",
+  "startedAtMs": 1783439971165,
+  "lastSeenAt": "2026-07-07T16:01:25.769Z",
+  "lastSeenAtMs": 1783440085769,
+  "host": {
+    "hostname": "f951c54a-fe61-4fdb-ac38-7b2e4c470b20",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "f951c54a-fe61-4fdb-ac38-7b2e4c470b20"
+    }
+  }
+}
