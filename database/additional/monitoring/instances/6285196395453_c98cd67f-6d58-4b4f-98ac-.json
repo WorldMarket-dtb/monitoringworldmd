@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6285196395453",
+  "ownerName": "Balmoon Market",
+  "ownerNumbers": [
+    "6289661741971"
+  ],
+  "instanceId": "6285196395453_c98cd67f-6d58-4b4f-98ac-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-07-08T17:30:42.891Z",
+  "startedAtMs": 1783531842891,
+  "lastSeenAt": "2026-07-08T17:31:33.135Z",
+  "lastSeenAtMs": 1783531893135,
+  "host": {
+    "hostname": "c98cd67f-6d58-4b4f-98ac-7ad05f8c2479",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "c98cd67f-6d58-4b4f-98ac-7ad05f8c2479"
+    }
+  }
+}
