@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6282128215972",
+  "ownerName": "Neokira",
+  "ownerNumbers": [
+    "6285168821271"
+  ],
+  "instanceId": "6282128215972_33fd0af9-c6cb-40e3-b658-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-07-08T11:05:29.688Z",
+  "startedAtMs": 1783508729688,
+  "lastSeenAt": "2026-07-08T11:06:11.746Z",
+  "lastSeenAtMs": 1783508771746,
+  "host": {
+    "hostname": "33fd0af9-c6cb-40e3-b658-e2786e826a5c",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "33fd0af9-c6cb-40e3-b658-e2786e826a5c"
+    }
+  }
+}
