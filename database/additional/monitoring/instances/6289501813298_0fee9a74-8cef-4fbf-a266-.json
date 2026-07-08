@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6289501813298",
+  "ownerName": "Kunyuk Bot",
+  "ownerNumbers": [
+    "628977057464"
+  ],
+  "instanceId": "6289501813298_0fee9a74-8cef-4fbf-a266-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-07-08T11:59:12.822Z",
+  "startedAtMs": 1783511952822,
+  "lastSeenAt": "2026-07-08T12:00:13.372Z",
+  "lastSeenAtMs": 1783512013372,
+  "host": {
+    "hostname": "0fee9a74-8cef-4fbf-a266-53352fbacbf2",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "0fee9a74-8cef-4fbf-a266-53352fbacbf2"
+    }
+  }
+}
