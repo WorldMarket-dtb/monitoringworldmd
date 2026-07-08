@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "628980273215",
+  "ownerName": "super bre",
+  "ownerNumbers": [
+    "62895339455062"
+  ],
+  "instanceId": "628980273215_135e5d8f-497d-4995-8ff0-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-07-08T19:15:21.398Z",
+  "startedAtMs": 1783538121398,
+  "lastSeenAt": "2026-07-08T19:16:13.734Z",
+  "lastSeenAtMs": 1783538173734,
+  "host": {
+    "hostname": "135e5d8f-497d-4995-8ff0-55d47c2c2f56",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "135e5d8f-497d-4995-8ff0-55d47c2c2f56"
+    }
+  }
+}
