@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6282183878892",
+  "ownerName": "BOT RIAN MD",
+  "ownerNumbers": [
+    "6281273477676"
+  ],
+  "instanceId": "6282183878892_4a3ef99f-f473-4148-b66c-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-07-09T08:50:08.493Z",
+  "startedAtMs": 1783587008493,
+  "lastSeenAt": "2026-07-09T08:51:49.818Z",
+  "lastSeenAtMs": 1783587109818,
+  "host": {
+    "hostname": "4a3ef99f-f473-4148-b66c-2646ca82b040",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "4a3ef99f-f473-4148-b66c-2646ca82b040"
+    }
+  }
+}
