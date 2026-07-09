@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6283136126188",
+  "ownerName": "VENUS MARKET",
+  "ownerNumbers": [
+    "6282186939805"
+  ],
+  "instanceId": "6283136126188_58d370fe-b836-41e0-b8ee-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-07-09T11:36:55.176Z",
+  "startedAtMs": 1783597015176,
+  "lastSeenAt": "2026-07-09T11:38:21.093Z",
+  "lastSeenAtMs": 1783597101093,
+  "host": {
+    "hostname": "58d370fe-b836-41e0-b8ee-2df7fab47ed4",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "58d370fe-b836-41e0-b8ee-2df7fab47ed4"
+    }
+  }
+}
