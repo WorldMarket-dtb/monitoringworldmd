@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6285111833635",
+  "ownerName": "Ciio NassMarket",
+  "ownerNumbers": [
+    "6285373270368"
+  ],
+  "instanceId": "6285111833635_1b2d99ac-ca5e-403b-bb4f-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-07-10T04:25:56.981Z",
+  "startedAtMs": 1783657556981,
+  "lastSeenAt": "2026-07-10T04:28:02.677Z",
+  "lastSeenAtMs": 1783657682677,
+  "host": {
+    "hostname": "1b2d99ac-ca5e-403b-bb4f-285064d15511",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "1b2d99ac-ca5e-403b-bb4f-285064d15511"
+    }
+  }
+}
