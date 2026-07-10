@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6282315862100",
+  "ownerName": "BOT RANZ AI",
+  "ownerNumbers": [
+    "6282364436376"
+  ],
+  "instanceId": "6282315862100_a5bc81f5-25ad-4c36-8f33-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-07-10T22:40:28.915Z",
+  "startedAtMs": 1783723228915,
+  "lastSeenAt": "2026-07-10T22:41:25.767Z",
+  "lastSeenAtMs": 1783723285767,
+  "host": {
+    "hostname": "a5bc81f5-25ad-4c36-8f33-2c8dc1f1f163",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "a5bc81f5-25ad-4c36-8f33-2c8dc1f1f163"
+    }
+  }
+}
