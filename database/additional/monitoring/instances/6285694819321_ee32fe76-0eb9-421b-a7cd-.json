@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6285694819321",
+  "ownerName": "Audric Market",
+  "ownerNumbers": [
+    "6288267183371"
+  ],
+  "instanceId": "6285694819321_ee32fe76-0eb9-421b-a7cd-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-07-10T06:57:10.154Z",
+  "startedAtMs": 1783666630154,
+  "lastSeenAt": "2026-07-10T06:58:56.946Z",
+  "lastSeenAtMs": 1783666736946,
+  "host": {
+    "hostname": "ee32fe76-0eb9-421b-a7cd-c2f860ea0268",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "ee32fe76-0eb9-421b-a7cd-c2f860ea0268"
+    }
+  }
+}
