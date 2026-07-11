@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6285715573659",
+  "ownerName": "DIKAZEOU.ID",
+  "ownerNumbers": [
+    "628138329799"
+  ],
+  "instanceId": "6285715573659_fa185905-943d-4fe4-bc15-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-07-11T00:51:28.672Z",
+  "startedAtMs": 1783731088672,
+  "lastSeenAt": "2026-07-11T00:52:23.004Z",
+  "lastSeenAtMs": 1783731143004,
+  "host": {
+    "hostname": "fa185905-943d-4fe4-bc15-c115906e7ee1",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "fa185905-943d-4fe4-bc15-c115906e7ee1"
+    }
+  }
+}
