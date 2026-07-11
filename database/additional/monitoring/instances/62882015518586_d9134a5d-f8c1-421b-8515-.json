@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "62882015518586",
+  "ownerName": "Bini Zyroo",
+  "ownerNumbers": [
+    "62895416521297"
+  ],
+  "instanceId": "62882015518586_d9134a5d-f8c1-421b-8515-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-07-11T11:24:03.232Z",
+  "startedAtMs": 1783769043232,
+  "lastSeenAt": "2026-07-11T11:24:46.699Z",
+  "lastSeenAtMs": 1783769086699,
+  "host": {
+    "hostname": "d9134a5d-f8c1-421b-8515-0bb7c476c960",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "d9134a5d-f8c1-421b-8515-0bb7c476c960"
+    }
+  }
+}
