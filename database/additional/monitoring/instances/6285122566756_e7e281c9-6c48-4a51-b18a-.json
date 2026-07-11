@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6285122566756",
+  "ownerName": "JUST FRIEND",
+  "ownerNumbers": [
+    "6283131335698"
+  ],
+  "instanceId": "6285122566756_e7e281c9-6c48-4a51-b18a-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-07-11T08:14:12.077Z",
+  "startedAtMs": 1783757652077,
+  "lastSeenAt": "2026-07-11T08:15:18.414Z",
+  "lastSeenAtMs": 1783757718414,
+  "host": {
+    "hostname": "e7e281c9-6c48-4a51-b18a-93dd41e0096b",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "e7e281c9-6c48-4a51-b18a-93dd41e0096b"
+    }
+  }
+}
