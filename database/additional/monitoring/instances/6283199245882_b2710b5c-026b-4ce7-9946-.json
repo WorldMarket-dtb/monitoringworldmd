@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6283199245882",
+  "ownerName": "Rezz Market",
+  "ownerNumbers": [
+    "6283199245882"
+  ],
+  "instanceId": "6283199245882_b2710b5c-026b-4ce7-9946-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-07-12T03:17:32.291Z",
+  "startedAtMs": 1783826252291,
+  "lastSeenAt": "2026-07-12T03:18:17.467Z",
+  "lastSeenAtMs": 1783826297467,
+  "host": {
+    "hostname": "b2710b5c-026b-4ce7-9946-56369e5e449d",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "b2710b5c-026b-4ce7-9946-56369e5e449d"
+    }
+  }
+}
