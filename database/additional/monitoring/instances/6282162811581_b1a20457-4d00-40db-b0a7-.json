@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6282162811581",
+  "ownerName": "Zek Market",
+  "ownerNumbers": [
+    "6282185028675"
+  ],
+  "instanceId": "6282162811581_b1a20457-4d00-40db-b0a7-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-07-13T12:33:02.409Z",
+  "startedAtMs": 1783945982409,
+  "lastSeenAt": "2026-07-13T12:33:48.249Z",
+  "lastSeenAtMs": 1783946028249,
+  "host": {
+    "hostname": "b1a20457-4d00-40db-b0a7-435ca006626f",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "b1a20457-4d00-40db-b0a7-435ca006626f"
+    }
+  }
+}
