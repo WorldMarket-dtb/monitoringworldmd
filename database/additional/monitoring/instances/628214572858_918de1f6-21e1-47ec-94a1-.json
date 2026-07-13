@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "628214572858",
+  "ownerName": "BOT DEL LUNAY",
+  "ownerNumbers": [
+    "6282327548519"
+  ],
+  "instanceId": "628214572858_918de1f6-21e1-47ec-94a1-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-07-13T14:28:21.930Z",
+  "startedAtMs": 1783952901930,
+  "lastSeenAt": "2026-07-13T14:29:58.235Z",
+  "lastSeenAtMs": 1783952998235,
+  "host": {
+    "hostname": "918de1f6-21e1-47ec-94a1-44b45b2bc811",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "918de1f6-21e1-47ec-94a1-44b45b2bc811"
+    }
+  }
+}
