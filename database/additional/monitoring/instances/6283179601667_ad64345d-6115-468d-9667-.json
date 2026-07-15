@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6283179601667",
+  "ownerName": "PAPA BOSS",
+  "ownerNumbers": [
+    "6282181500255"
+  ],
+  "instanceId": "6283179601667_ad64345d-6115-468d-9667-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-07-15T14:51:25.284Z",
+  "startedAtMs": 1784127085284,
+  "lastSeenAt": "2026-07-15T14:51:39.265Z",
+  "lastSeenAtMs": 1784127099265,
+  "host": {
+    "hostname": "ad64345d-6115-468d-9667-55765dbd8a2d",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "ad64345d-6115-468d-9667-55765dbd8a2d"
+    }
+  }
+}
