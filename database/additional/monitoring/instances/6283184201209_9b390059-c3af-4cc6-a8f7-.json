@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6283184201209",
+  "ownerName": "SHIPANK",
+  "ownerNumbers": [
+    "62895429241798"
+  ],
+  "instanceId": "6283184201209_9b390059-c3af-4cc6-a8f7-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-07-17T18:25:13.507Z",
+  "startedAtMs": 1784312713507,
+  "lastSeenAt": "2026-07-17T18:25:57.074Z",
+  "lastSeenAtMs": 1784312757074,
+  "host": {
+    "hostname": "9b390059-c3af-4cc6-a8f7-ff9c1974a57b",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "9b390059-c3af-4cc6-a8f7-ff9c1974a57b"
+    }
+  }
+}
