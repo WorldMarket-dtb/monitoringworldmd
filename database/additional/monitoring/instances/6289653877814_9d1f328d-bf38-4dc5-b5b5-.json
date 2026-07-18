@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6289653877814",
+  "ownerName": "Ryuu X Oliv",
+  "ownerNumbers": [
+    "6285780153361"
+  ],
+  "instanceId": "6289653877814_9d1f328d-bf38-4dc5-b5b5-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-07-18T11:38:58.367Z",
+  "startedAtMs": 1784374738367,
+  "lastSeenAt": "2026-07-18T11:40:35.147Z",
+  "lastSeenAtMs": 1784374835147,
+  "host": {
+    "hostname": "9d1f328d-bf38-4dc5-b5b5-90bba9682298",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "9d1f328d-bf38-4dc5-b5b5-90bba9682298"
+    }
+  }
+}
