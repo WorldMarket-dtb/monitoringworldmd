@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6283137887645",
+  "ownerName": "yantu",
+  "ownerNumbers": [
+    "6285768178430"
+  ],
+  "instanceId": "6283137887645_c7f42b4b-42ab-4d54-bdb0-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-07-18T23:54:20.702Z",
+  "startedAtMs": 1784418860702,
+  "lastSeenAt": "2026-07-18T23:55:14.336Z",
+  "lastSeenAtMs": 1784418914336,
+  "host": {
+    "hostname": "c7f42b4b-42ab-4d54-bdb0-d29f6bc1cd03",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "c7f42b4b-42ab-4d54-bdb0-d29f6bc1cd03"
+    }
+  }
+}
