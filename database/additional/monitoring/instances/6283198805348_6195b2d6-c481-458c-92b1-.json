@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6283198805348",
+  "ownerName": "Tra Market",
+  "ownerNumbers": [
+    "6289672108966"
+  ],
+  "instanceId": "6283198805348_6195b2d6-c481-458c-92b1-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-07-18T06:59:14.268Z",
+  "startedAtMs": 1784357954268,
+  "lastSeenAt": "2026-07-18T07:01:31.211Z",
+  "lastSeenAtMs": 1784358091211,
+  "host": {
+    "hostname": "6195b2d6-c481-458c-92b1-8d4ebf151812",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "6195b2d6-c481-458c-92b1-8d4ebf151812"
+    }
+  }
+}
