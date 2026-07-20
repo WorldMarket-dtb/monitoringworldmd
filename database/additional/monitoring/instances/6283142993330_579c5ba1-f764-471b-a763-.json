@@ -1,17 +1,17 @@
 {
   "app": "WORLD SCRIPT MD",
   "botNumber": "6283142993330",
-  "ownerName": "Razor Market",
+  "ownerName": "PARK RAZOR",
   "ownerNumbers": [
     "628388458306"
   ],
   "instanceId": "6283142993330_579c5ba1-f764-471b-a763-",
   "folder": "session",
   "sessionType": "main",
-  "startedAt": "2026-07-18T23:51:53.576Z",
-  "startedAtMs": 1784418713576,
-  "lastSeenAt": "2026-07-19T12:52:09.105Z",
-  "lastSeenAtMs": 1784465529105,
+  "startedAt": "2026-07-20T04:11:36.889Z",
+  "startedAtMs": 1784520696889,
+  "lastSeenAt": "2026-07-20T04:12:17.422Z",
+  "lastSeenAtMs": 1784520737422,
   "host": {
     "hostname": "579c5ba1-f764-471b-a763-b291bedba3d3",
     "platform": "linux",
