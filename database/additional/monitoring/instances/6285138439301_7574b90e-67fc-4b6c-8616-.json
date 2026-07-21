@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6285138439301",
+  "ownerName": "Kink Sanzz",
+  "ownerNumbers": [
+    "6289501953167"
+  ],
+  "instanceId": "6285138439301_7574b90e-67fc-4b6c-8616-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-07-21T11:57:25.485Z",
+  "startedAtMs": 1784635045485,
+  "lastSeenAt": "2026-07-21T11:58:06.892Z",
+  "lastSeenAtMs": 1784635086892,
+  "host": {
+    "hostname": "7574b90e-67fc-4b6c-8616-604fab360322",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "7574b90e-67fc-4b6c-8616-604fab360322"
+    }
+  }
+}
