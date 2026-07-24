@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6283131809011",
+  "ownerName": "Verbot",
+  "ownerNumbers": [
+    "6285817491765"
+  ],
+  "instanceId": "6283131809011_fbe635ec-eddb-46be-8572-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-07-24T04:39:21.109Z",
+  "startedAtMs": 1784867961109,
+  "lastSeenAt": "2026-07-24T04:40:09.812Z",
+  "lastSeenAtMs": 1784868009812,
+  "host": {
+    "hostname": "fbe635ec-eddb-46be-8572-7276cd119bb4",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "fbe635ec-eddb-46be-8572-7276cd119bb4"
+    }
+  }
+}
