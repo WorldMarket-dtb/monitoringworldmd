@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6285165519551",
+  "ownerName": "SANDI STORE",
+  "ownerNumbers": [
+    "62881011382847"
+  ],
+  "instanceId": "6285165519551_e4eb068c-07b8-4dcc-8dbf-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-07-24T11:16:42.656Z",
+  "startedAtMs": 1784891802656,
+  "lastSeenAt": "2026-07-24T11:17:40.622Z",
+  "lastSeenAtMs": 1784891860622,
+  "host": {
+    "hostname": "e4eb068c-07b8-4dcc-8dbf-7e5a66809dc5",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "e4eb068c-07b8-4dcc-8dbf-7e5a66809dc5"
+    }
+  }
+}
