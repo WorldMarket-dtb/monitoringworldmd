@@ -3,15 +3,15 @@
   "botNumber": "6282164976620",
   "ownerName": "DREAMS",
   "ownerNumbers": [
-    "6285812319818"
+    "6283159338750"
   ],
   "instanceId": "6282164976620_4c6eadfd-43c6-43fd-b049-",
   "folder": "session",
   "sessionType": "main",
-  "startedAt": "2026-07-24T04:40:12.068Z",
-  "startedAtMs": 1784868012068,
-  "lastSeenAt": "2026-07-24T11:41:24.283Z",
-  "lastSeenAtMs": 1784893284283,
+  "startedAt": "2026-07-24T11:56:32.784Z",
+  "startedAtMs": 1784894192784,
+  "lastSeenAt": "2026-07-24T11:56:47.266Z",
+  "lastSeenAtMs": 1784894207266,
   "host": {
     "hostname": "4c6eadfd-43c6-43fd-b049-86c1c3177b0b",
     "platform": "linux",
