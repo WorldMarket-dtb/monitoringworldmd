@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "62882015518586",
+  "ownerName": "ZMD-Security",
+  "ownerNumbers": [
+    "62895416521297"
+  ],
+  "instanceId": "62882015518586_9a92c001-9630-458b-97d1-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-07-25T10:35:44.774Z",
+  "startedAtMs": 1784975744774,
+  "lastSeenAt": "2026-07-25T10:36:22.827Z",
+  "lastSeenAtMs": 1784975782827,
+  "host": {
+    "hostname": "9a92c001-9630-458b-97d1-2d001e25eb7f",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "9a92c001-9630-458b-97d1-2d001e25eb7f"
+    }
+  }
+}
