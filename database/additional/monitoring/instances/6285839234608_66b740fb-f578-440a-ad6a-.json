@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6285839234608",
+  "ownerName": "Kenkai",
+  "ownerNumbers": [
+    "6285177438515"
+  ],
+  "instanceId": "6285839234608_66b740fb-f578-440a-ad6a-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-07-25T15:41:46.227Z",
+  "startedAtMs": 1784994106227,
+  "lastSeenAt": "2026-07-25T15:42:37.164Z",
+  "lastSeenAtMs": 1784994157164,
+  "host": {
+    "hostname": "66b740fb-f578-440a-ad6a-bd5c7e8026a5",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "66b740fb-f578-440a-ad6a-bd5c7e8026a5"
+    }
+  }
+}
