@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6282267424129",
+  "ownerName": "SEWA BOT BY FALL",
+  "ownerNumbers": [
+    "6285122318150"
+  ],
+  "instanceId": "6282267424129_61bfcbc2-8b78-421f-a88c-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-07-26T17:48:13.663Z",
+  "startedAtMs": 1785088093663,
+  "lastSeenAt": "2026-07-26T17:48:54.588Z",
+  "lastSeenAtMs": 1785088134588,
+  "host": {
+    "hostname": "61bfcbc2-8b78-421f-a88c-b893ba24945f",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "61bfcbc2-8b78-421f-a88c-b893ba24945f"
+    }
+  }
+}
