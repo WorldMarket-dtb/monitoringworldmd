@@ -1,17 +1,17 @@
 {
   "app": "WORLD SCRIPT MD",
   "botNumber": "6285143306648",
-  "ownerName": "World Market",
+  "ownerName": "Anggh Market",
   "ownerNumbers": [
     "6287757222640"
   ],
   "instanceId": "6285143306648_3f4e1274-da2d-4e2d-a6a8-",
   "folder": "session",
   "sessionType": "main",
-  "startedAt": "2026-07-26T08:29:48.695Z",
-  "startedAtMs": 1785054588695,
-  "lastSeenAt": "2026-07-26T09:15:04.399Z",
-  "lastSeenAtMs": 1785057304399,
+  "startedAt": "2026-07-26T09:19:46.511Z",
+  "startedAtMs": 1785057586511,
+  "lastSeenAt": "2026-07-26T09:20:01.343Z",
+  "lastSeenAtMs": 1785057601343,
   "host": {
     "hostname": "3f4e1274-da2d-4e2d-a6a8-e2fa5c93d95b",
     "platform": "linux",
