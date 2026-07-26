@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6283161651176",
+  "ownerName": "FIRDAUS",
+  "ownerNumbers": [
+    "6285113164358"
+  ],
+  "instanceId": "6283161651176_f0e952bb-66a4-4e06-a1da-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-07-26T04:58:02.260Z",
+  "startedAtMs": 1785041882260,
+  "lastSeenAt": "2026-07-26T04:58:47.491Z",
+  "lastSeenAtMs": 1785041927491,
+  "host": {
+    "hostname": "f0e952bb-66a4-4e06-a1da-fe112bf55ece",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "f0e952bb-66a4-4e06-a1da-fe112bf55ece"
+    }
+  }
+}
