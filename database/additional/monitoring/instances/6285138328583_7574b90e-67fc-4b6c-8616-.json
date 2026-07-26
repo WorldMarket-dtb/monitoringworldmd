@@ -1,17 +1,17 @@
 {
   "app": "WORLD SCRIPT MD",
   "botNumber": "6285138328583",
-  "ownerName": "Kink Sanzz",
+  "ownerName": "World Market",
   "ownerNumbers": [
     "6289501953167"
   ],
   "instanceId": "6285138328583_7574b90e-67fc-4b6c-8616-",
   "folder": "session",
   "sessionType": "main",
-  "startedAt": "2026-07-26T11:40:52.101Z",
-  "startedAtMs": 1785066052101,
-  "lastSeenAt": "2026-07-26T11:41:04.835Z",
-  "lastSeenAtMs": 1785066064835,
+  "startedAt": "2026-07-26T12:09:11.186Z",
+  "startedAtMs": 1785067751186,
+  "lastSeenAt": "2026-07-26T12:09:45.419Z",
+  "lastSeenAtMs": 1785067785419,
   "host": {
     "hostname": "7574b90e-67fc-4b6c-8616-604fab360322",
     "platform": "linux",
