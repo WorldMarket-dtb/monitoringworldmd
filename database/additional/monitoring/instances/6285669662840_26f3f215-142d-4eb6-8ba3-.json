@@ -1,17 +1,17 @@
 {
   "app": "WORLD SCRIPT MD",
   "botNumber": "6285669662840",
-  "ownerName": "BOT FAIZER",
+  "ownerName": "World Market",
   "ownerNumbers": [
     "6285768178430"
   ],
   "instanceId": "6285669662840_26f3f215-142d-4eb6-8ba3-",
   "folder": "session",
   "sessionType": "main",
-  "startedAt": "2026-07-27T10:13:59.347Z",
-  "startedAtMs": 1785147239347,
-  "lastSeenAt": "2026-07-28T21:59:13.272Z",
-  "lastSeenAtMs": 1785275953272,
+  "startedAt": "2026-07-29T06:51:35.711Z",
+  "startedAtMs": 1785307895711,
+  "lastSeenAt": "2026-07-29T06:52:16.514Z",
+  "lastSeenAtMs": 1785307936514,
   "host": {
     "hostname": "26f3f215-142d-4eb6-8ba3-370edfb9f8b0",
     "platform": "linux",
