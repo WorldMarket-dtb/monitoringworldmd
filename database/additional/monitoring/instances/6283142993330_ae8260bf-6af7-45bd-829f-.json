@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6283142993330",
+  "ownerName": "Prince Razor",
+  "ownerNumbers": [
+    "628388458306"
+  ],
+  "instanceId": "6283142993330_ae8260bf-6af7-45bd-829f-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-07-29T00:30:44.891Z",
+  "startedAtMs": 1785285044891,
+  "lastSeenAt": "2026-07-29T00:31:22.528Z",
+  "lastSeenAtMs": 1785285082528,
+  "host": {
+    "hostname": "ae8260bf-6af7-45bd-829f-5beaf38ad946",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "ae8260bf-6af7-45bd-829f-5beaf38ad946"
+    }
+  }
+}
