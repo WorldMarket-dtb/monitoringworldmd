@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6282374270350",
+  "ownerName": "Arphille Bot",
+  "ownerNumbers": [
+    "6285156801405"
+  ],
+  "instanceId": "6282374270350_f4b69397-ac54-4407-9d79-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-07-30T12:31:34.866Z",
+  "startedAtMs": 1785414694866,
+  "lastSeenAt": "2026-07-30T12:32:12.393Z",
+  "lastSeenAtMs": 1785414732393,
+  "host": {
+    "hostname": "f4b69397-ac54-4407-9d79-8ce6fed1f8f4",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "f4b69397-ac54-4407-9d79-8ce6fed1f8f4"
+    }
+  }
+}
