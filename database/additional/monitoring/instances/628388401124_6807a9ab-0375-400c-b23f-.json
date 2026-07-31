@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "628388401124",
+  "ownerName": "arka",
+  "ownerNumbers": [
+    "6287868672530"
+  ],
+  "instanceId": "628388401124_6807a9ab-0375-400c-b23f-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-07-31T14:27:38.772Z",
+  "startedAtMs": 1785508058772,
+  "lastSeenAt": "2026-07-31T14:28:18.610Z",
+  "lastSeenAtMs": 1785508098610,
+  "host": {
+    "hostname": "6807a9ab-0375-400c-b23f-386e9ea02539",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "6807a9ab-0375-400c-b23f-386e9ea02539"
+    }
+  }
+}
