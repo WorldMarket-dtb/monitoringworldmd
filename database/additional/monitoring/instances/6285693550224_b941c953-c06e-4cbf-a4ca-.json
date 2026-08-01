@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6285693550224",
+  "ownerName": "KING KALL AND KING NAS",
+  "ownerNumbers": [
+    "6285756706854"
+  ],
+  "instanceId": "6285693550224_b941c953-c06e-4cbf-a4ca-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-08-01T06:59:33.055Z",
+  "startedAtMs": 1785567573055,
+  "lastSeenAt": "2026-08-01T07:00:21.175Z",
+  "lastSeenAtMs": 1785567621175,
+  "host": {
+    "hostname": "b941c953-c06e-4cbf-a4ca-15c3bb418f3f",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "b941c953-c06e-4cbf-a4ca-15c3bb418f3f"
+    }
+  }
+}
