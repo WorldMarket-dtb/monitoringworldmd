@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6285138328583",
+  "ownerName": "YATZZ-MARKET",
+  "ownerNumbers": [
+    "6289501953167"
+  ],
+  "instanceId": "6285138328583_e94fee82-3509-4174-adf5-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-08-01T08:28:18.763Z",
+  "startedAtMs": 1785572898763,
+  "lastSeenAt": "2026-08-01T08:28:58.145Z",
+  "lastSeenAtMs": 1785572938145,
+  "host": {
+    "hostname": "e94fee82-3509-4174-adf5-39e85f83bd00",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "e94fee82-3509-4174-adf5-39e85f83bd00"
+    }
+  }
+}
