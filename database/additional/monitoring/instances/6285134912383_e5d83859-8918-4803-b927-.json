@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6285134912383",
+  "ownerName": "Cell Kurokawa",
+  "ownerNumbers": [
+    "6283800824205"
+  ],
+  "instanceId": "6285134912383_e5d83859-8918-4803-b927-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-08-01T09:53:07.700Z",
+  "startedAtMs": 1785577987700,
+  "lastSeenAt": "2026-08-01T09:54:05.967Z",
+  "lastSeenAtMs": 1785578045967,
+  "host": {
+    "hostname": "e5d83859-8918-4803-b927-67266ec1d9d2",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "e5d83859-8918-4803-b927-67266ec1d9d2"
+    }
+  }
+}
