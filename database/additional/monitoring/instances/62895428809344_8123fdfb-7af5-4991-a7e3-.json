@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "62895428809344",
+  "ownerName": "Chii Baihaqi",
+  "ownerNumbers": [
+    "6289507147725"
+  ],
+  "instanceId": "62895428809344_8123fdfb-7af5-4991-a7e3-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-08-02T13:04:42.701Z",
+  "startedAtMs": 1785675882701,
+  "lastSeenAt": "2026-08-02T13:05:21.228Z",
+  "lastSeenAtMs": 1785675921228,
+  "host": {
+    "hostname": "8123fdfb-7af5-4991-a7e3-b870905c914b",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "8123fdfb-7af5-4991-a7e3-b870905c914b"
+    }
+  }
+}
