@@ -1,17 +1,17 @@
 {
   "app": "WORLD SCRIPT MD",
   "botNumber": "6285727462791",
-  "ownerName": "Jett Fly High",
+  "ownerName": "jett",
   "ownerNumbers": [
     "6285731167820"
   ],
   "instanceId": "6285727462791_f674955e-4cd1-419e-ac7e-",
   "folder": "session",
   "sessionType": "main",
-  "startedAt": "2026-08-02T22:05:31.827Z",
-  "startedAtMs": 1785708331827,
-  "lastSeenAt": "2026-08-02T22:50:48.839Z",
-  "lastSeenAtMs": 1785711048839,
+  "startedAt": "2026-08-03T08:06:42.271Z",
+  "startedAtMs": 1785744402271,
+  "lastSeenAt": "2026-08-03T08:07:24.186Z",
+  "lastSeenAtMs": 1785744444186,
   "host": {
     "hostname": "f674955e-4cd1-419e-ac7e-193322b71003",
     "platform": "linux",
