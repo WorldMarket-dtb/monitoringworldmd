@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6285879264653",
+  "ownerName": "FANXY",
+  "ownerNumbers": [
+    "62881010259779"
+  ],
+  "instanceId": "6285879264653_f0f03571-89cd-4907-895a-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-08-04T13:31:22.813Z",
+  "startedAtMs": 1785850282813,
+  "lastSeenAt": "2026-08-04T13:32:02.591Z",
+  "lastSeenAtMs": 1785850322591,
+  "host": {
+    "hostname": "f0f03571-89cd-4907-895a-fe8d9ccc5cc1",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "f0f03571-89cd-4907-895a-fe8d9ccc5cc1"
+    }
+  }
+}
