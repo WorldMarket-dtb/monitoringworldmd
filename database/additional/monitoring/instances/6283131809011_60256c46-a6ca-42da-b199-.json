@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6283131809011",
+  "ownerName": "VERBOT DULUXE",
+  "ownerNumbers": [
+    "6285817491765"
+  ],
+  "instanceId": "6283131809011_60256c46-a6ca-42da-b199-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-08-04T01:27:23.335Z",
+  "startedAtMs": 1785806843335,
+  "lastSeenAt": "2026-08-04T01:28:54.442Z",
+  "lastSeenAtMs": 1785806934442,
+  "host": {
+    "hostname": "60256c46-a6ca-42da-b199-79192fed648d",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "60256c46-a6ca-42da-b199-79192fed648d"
+    }
+  }
+}
