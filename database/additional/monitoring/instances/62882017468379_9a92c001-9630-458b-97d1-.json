@@ -1,17 +1,17 @@
 {
   "app": "WORLD SCRIPT MD",
   "botNumber": "62882017468379",
-  "ownerName": "ZyrooOfficial",
+  "ownerName": "Zyroo Shirogane",
   "ownerNumbers": [
     "62895416521297"
   ],
   "instanceId": "62882017468379_9a92c001-9630-458b-97d1-",
   "folder": "session",
   "sessionType": "main",
-  "startedAt": "2026-07-28T23:43:20.271Z",
-  "startedAtMs": 1785282200271,
-  "lastSeenAt": "2026-08-03T03:13:41.542Z",
-  "lastSeenAtMs": 1785726821542,
+  "startedAt": "2026-08-05T06:22:04.993Z",
+  "startedAtMs": 1785910924993,
+  "lastSeenAt": "2026-08-05T06:23:15.869Z",
+  "lastSeenAtMs": 1785910995869,
   "host": {
     "hostname": "9a92c001-9630-458b-97d1-2d001e25eb7f",
     "platform": "linux",
