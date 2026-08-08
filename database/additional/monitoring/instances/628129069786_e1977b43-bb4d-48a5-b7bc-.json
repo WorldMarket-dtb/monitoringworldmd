@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "628129069786",
+  "ownerName": "Zetka Market",
+  "ownerNumbers": [
+    "6289505512560"
+  ],
+  "instanceId": "628129069786_e1977b43-bb4d-48a5-b7bc-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-08-08T05:58:01.719Z",
+  "startedAtMs": 1786168681719,
+  "lastSeenAt": "2026-08-08T05:59:08.297Z",
+  "lastSeenAtMs": 1786168748297,
+  "host": {
+    "hostname": "e1977b43-bb4d-48a5-b7bc-e50307418319",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "e1977b43-bb4d-48a5-b7bc-e50307418319"
+    }
+  }
+}
