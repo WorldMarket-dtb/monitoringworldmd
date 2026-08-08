@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6282315862100",
+  "ownerName": "Ranz market",
+  "ownerNumbers": [
+    "6282364436376"
+  ],
+  "instanceId": "6282315862100_4b1970f7-a30a-4d2a-a5aa-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-08-08T06:24:32.937Z",
+  "startedAtMs": 1786170272937,
+  "lastSeenAt": "2026-08-08T06:25:43.149Z",
+  "lastSeenAtMs": 1786170343149,
+  "host": {
+    "hostname": "4b1970f7-a30a-4d2a-a5aa-eef7cb022521",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "4b1970f7-a30a-4d2a-a5aa-eef7cb022521"
+    }
+  }
+}
