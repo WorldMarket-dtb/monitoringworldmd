@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6285143306648",
+  "ownerName": "anggh BOT",
+  "ownerNumbers": [
+    "6287757222640"
+  ],
+  "instanceId": "6285143306648_bc23522f-b838-4e45-98ae-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-08-09T14:36:41.171Z",
+  "startedAtMs": 1786286201171,
+  "lastSeenAt": "2026-08-09T14:37:31.542Z",
+  "lastSeenAtMs": 1786286251542,
+  "host": {
+    "hostname": "bc23522f-b838-4e45-98ae-07ccb9906fe7",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "bc23522f-b838-4e45-98ae-07ccb9906fe7"
+    }
+  }
+}
