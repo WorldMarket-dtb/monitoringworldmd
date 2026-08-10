@@ -1,17 +1,17 @@
 {
   "app": "WORLD SCRIPT MD",
   "botNumber": "6283121984756",
-  "ownerName": "World Market",
+  "ownerName": "Rain Store",
   "ownerNumbers": [
     "6282112175565"
   ],
   "instanceId": "6283121984756_9c0613f5-dc12-4a4b-a626-",
   "folder": "session",
   "sessionType": "main",
-  "startedAt": "2026-08-09T23:51:26.103Z",
-  "startedAtMs": 1786319486103,
-  "lastSeenAt": "2026-08-09T23:51:40.380Z",
-  "lastSeenAtMs": 1786319500380,
+  "startedAt": "2026-08-10T00:06:41.341Z",
+  "startedAtMs": 1786320401341,
+  "lastSeenAt": "2026-08-10T00:07:36.768Z",
+  "lastSeenAtMs": 1786320456768,
   "host": {
     "hostname": "9c0613f5-dc12-4a4b-a626-d3d3391c463d",
     "platform": "linux",
