@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "628129069786",
+  "ownerName": "Zetka Open Sewa Bot",
+  "ownerNumbers": [
+    "6289505512560"
+  ],
+  "instanceId": "628129069786_0ce3680c-7916-424d-b3ca-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-08-10T06:49:07.989Z",
+  "startedAtMs": 1786344547989,
+  "lastSeenAt": "2026-08-10T06:50:03.114Z",
+  "lastSeenAtMs": 1786344603114,
+  "host": {
+    "hostname": "0ce3680c-7916-424d-b3ca-4539a542cb22",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "0ce3680c-7916-424d-b3ca-4539a542cb22"
+    }
+  }
+}
