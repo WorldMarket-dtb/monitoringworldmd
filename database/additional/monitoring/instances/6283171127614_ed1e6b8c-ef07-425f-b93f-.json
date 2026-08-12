@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6283171127614",
+  "ownerName": "Acell",
+  "ownerNumbers": [
+    "6283800824205"
+  ],
+  "instanceId": "6283171127614_ed1e6b8c-ef07-425f-b93f-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-08-12T12:02:34.778Z",
+  "startedAtMs": 1786536154778,
+  "lastSeenAt": "2026-08-12T12:03:57.145Z",
+  "lastSeenAtMs": 1786536237145,
+  "host": {
+    "hostname": "ed1e6b8c-ef07-425f-b93f-b5612862a17b",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "ed1e6b8c-ef07-425f-b93f-b5612862a17b"
+    }
+  }
+}
