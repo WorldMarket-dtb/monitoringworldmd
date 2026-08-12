@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6283890950188",
+  "ownerName": "putra",
+  "ownerNumbers": [
+    "6282191499738"
+  ],
+  "instanceId": "6283890950188_5165ee8e-d83b-481a-b485-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-08-12T12:40:58.267Z",
+  "startedAtMs": 1786538458267,
+  "lastSeenAt": "2026-08-12T12:41:47.728Z",
+  "lastSeenAtMs": 1786538507728,
+  "host": {
+    "hostname": "5165ee8e-d83b-481a-b485-c1f6e954811e",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "5165ee8e-d83b-481a-b485-c1f6e954811e"
+    }
+  }
+}
