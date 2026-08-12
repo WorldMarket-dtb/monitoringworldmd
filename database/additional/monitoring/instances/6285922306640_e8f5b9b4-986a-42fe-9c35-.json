@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6285922306640",
+  "ownerName": "⏤͟͞͞𝗔𝗽𝗶𝘀 𝘿' 𝙇𝙪𝙘𝙖̀ 𓇢𓆸",
+  "ownerNumbers": [
+    "6281649029397"
+  ],
+  "instanceId": "6285922306640_e8f5b9b4-986a-42fe-9c35-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-08-12T22:31:50.446Z",
+  "startedAtMs": 1786573910446,
+  "lastSeenAt": "2026-08-12T22:33:28.095Z",
+  "lastSeenAtMs": 1786574008095,
+  "host": {
+    "hostname": "e8f5b9b4-986a-42fe-9c35-f9e7623e2ff2",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "e8f5b9b4-986a-42fe-9c35-f9e7623e2ff2"
+    }
+  }
+}
