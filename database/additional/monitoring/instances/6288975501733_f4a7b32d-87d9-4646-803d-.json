@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6288975501733",
+  "ownerName": "Rain Store",
+  "ownerNumbers": [
+    "6282112175565"
+  ],
+  "instanceId": "6288975501733_f4a7b32d-87d9-4646-803d-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-08-13T16:11:28.295Z",
+  "startedAtMs": 1786637488295,
+  "lastSeenAt": "2026-08-13T16:12:11.658Z",
+  "lastSeenAtMs": 1786637531658,
+  "host": {
+    "hostname": "f4a7b32d-87d9-4646-803d-148abf13e864",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "f4a7b32d-87d9-4646-803d-148abf13e864"
+    }
+  }
+}
