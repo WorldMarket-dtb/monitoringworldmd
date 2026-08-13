@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6283187403645",
+  "ownerName": "MARKET OZI",
+  "ownerNumbers": [
+    "6285752399310"
+  ],
+  "instanceId": "6283187403645_a9484206-2dca-48e1-a06a-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-08-13T13:32:50.383Z",
+  "startedAtMs": 1786627970383,
+  "lastSeenAt": "2026-08-13T13:33:50.799Z",
+  "lastSeenAtMs": 1786628030799,
+  "host": {
+    "hostname": "a9484206-2dca-48e1-a06a-9e579ae0fc14",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "a9484206-2dca-48e1-a06a-9e579ae0fc14"
+    }
+  }
+}
