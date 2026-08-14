@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6283867090151",
+  "ownerName": "DANZ",
+  "ownerNumbers": [
+    "62881012315150"
+  ],
+  "instanceId": "6283867090151_9d850899-b652-4f74-9d35-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-08-14T04:18:57.548Z",
+  "startedAtMs": 1786681137548,
+  "lastSeenAt": "2026-08-14T04:19:49.874Z",
+  "lastSeenAtMs": 1786681189874,
+  "host": {
+    "hostname": "9d850899-b652-4f74-9d35-da0c63a41d96",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "9d850899-b652-4f74-9d35-da0c63a41d96"
+    }
+  }
+}
