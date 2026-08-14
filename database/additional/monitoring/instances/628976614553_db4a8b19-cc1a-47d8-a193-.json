@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "628976614553",
+  "ownerName": "Chouji Market",
+  "ownerNumbers": [
+    "6285181051503"
+  ],
+  "instanceId": "628976614553_db4a8b19-cc1a-47d8-a193-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-08-14T05:38:57.716Z",
+  "startedAtMs": 1786685937716,
+  "lastSeenAt": "2026-08-14T05:39:58.766Z",
+  "lastSeenAtMs": 1786685998766,
+  "host": {
+    "hostname": "db4a8b19-cc1a-47d8-a193-92846ccf7df2",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "db4a8b19-cc1a-47d8-a193-92846ccf7df2"
+    }
+  }
+}
