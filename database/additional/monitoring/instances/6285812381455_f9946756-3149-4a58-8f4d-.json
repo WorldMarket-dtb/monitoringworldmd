@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6285812381455",
+  "ownerName": "MALZ STORE",
+  "ownerNumbers": [
+    "6281297742539"
+  ],
+  "instanceId": "6285812381455_f9946756-3149-4a58-8f4d-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-08-15T01:11:19.851Z",
+  "startedAtMs": 1786756279851,
+  "lastSeenAt": "2026-08-15T01:12:48.721Z",
+  "lastSeenAtMs": 1786756368721,
+  "host": {
+    "hostname": "f9946756-3149-4a58-8f4d-b99374c56d62",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "f9946756-3149-4a58-8f4d-b99374c56d62"
+    }
+  }
+}
