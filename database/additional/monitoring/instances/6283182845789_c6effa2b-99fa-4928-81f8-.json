@@ -1,0 +1,25 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6283182845789",
+  "ownerName": "Sadric rket",
+  "ownerNumbers": [
+    "6288994538851",
+    "6288267183371"
+  ],
+  "instanceId": "6283182845789_c6effa2b-99fa-4928-81f8-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-08-17T03:43:54.200Z",
+  "startedAtMs": 1786938234200,
+  "lastSeenAt": "2026-08-17T03:44:41.184Z",
+  "lastSeenAtMs": 1786938281184,
+  "host": {
+    "hostname": "c6effa2b-99fa-4928-81f8-1f797b07ea98",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "c6effa2b-99fa-4928-81f8-1f797b07ea98"
+    }
+  }
+}
