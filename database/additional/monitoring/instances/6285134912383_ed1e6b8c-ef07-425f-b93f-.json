@@ -1,17 +1,17 @@
 {
   "app": "WORLD SCRIPT MD",
   "botNumber": "6285134912383",
-  "ownerName": "Cell Kurokawa",
+  "ownerName": "Acell",
   "ownerNumbers": [
     "6283800824205"
   ],
   "instanceId": "6285134912383_ed1e6b8c-ef07-425f-b93f-",
   "folder": "session",
   "sessionType": "main",
-  "startedAt": "2026-08-08T20:32:29.664Z",
-  "startedAtMs": 1786221149664,
-  "lastSeenAt": "2026-08-12T11:47:48.277Z",
-  "lastSeenAtMs": 1786535268277,
+  "startedAt": "2026-08-18T01:23:46.391Z",
+  "startedAtMs": 1787016226391,
+  "lastSeenAt": "2026-08-18T01:25:10.090Z",
+  "lastSeenAtMs": 1787016310090,
   "host": {
     "hostname": "ed1e6b8c-ef07-425f-b93f-b5612862a17b",
     "platform": "linux",
