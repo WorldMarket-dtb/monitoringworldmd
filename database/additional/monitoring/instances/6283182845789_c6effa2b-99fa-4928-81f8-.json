@@ -3,16 +3,15 @@
   "botNumber": "6283182845789",
   "ownerName": "Sadric rket",
   "ownerNumbers": [
-    "6288994538851",
-    "6288267183371"
+    "6288994538851"
   ],
   "instanceId": "6283182845789_c6effa2b-99fa-4928-81f8-",
   "folder": "session",
   "sessionType": "main",
-  "startedAt": "2026-08-17T10:04:48.556Z",
-  "startedAtMs": 1786961088556,
-  "lastSeenAt": "2026-08-17T14:20:03.028Z",
-  "lastSeenAtMs": 1786976403028,
+  "startedAt": "2026-08-18T09:11:59.639Z",
+  "startedAtMs": 1787044319639,
+  "lastSeenAt": "2026-08-18T09:12:21.768Z",
+  "lastSeenAtMs": 1787044341768,
   "host": {
     "hostname": "c6effa2b-99fa-4928-81f8-1f797b07ea98",
     "platform": "linux",
