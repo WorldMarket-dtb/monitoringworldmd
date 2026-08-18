@@ -1,17 +1,17 @@
 {
   "app": "WORLD SCRIPT MD",
   "botNumber": "6283171127614",
-  "ownerName": "Acell",
+  "ownerName": "Acell imut",
   "ownerNumbers": [
     "6283800824205"
   ],
   "instanceId": "6283171127614_ed1e6b8c-ef07-425f-b93f-",
   "folder": "session",
   "sessionType": "main",
-  "startedAt": "2026-08-12T12:05:08.148Z",
-  "startedAtMs": 1786536308148,
-  "lastSeenAt": "2026-08-14T11:50:24.969Z",
-  "lastSeenAtMs": 1786708224969,
+  "startedAt": "2026-08-18T04:34:51.377Z",
+  "startedAtMs": 1787027691377,
+  "lastSeenAt": "2026-08-18T04:36:10.088Z",
+  "lastSeenAtMs": 1787027770088,
   "host": {
     "hostname": "ed1e6b8c-ef07-425f-b93f-b5612862a17b",
     "platform": "linux",
