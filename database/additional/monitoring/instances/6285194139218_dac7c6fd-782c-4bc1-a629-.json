@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6285194139218",
+  "ownerName": "PABLOW HaA",
+  "ownerNumbers": [
+    "6285135933972"
+  ],
+  "instanceId": "6285194139218_dac7c6fd-782c-4bc1-a629-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-08-18T13:33:02.967Z",
+  "startedAtMs": 1787059982967,
+  "lastSeenAt": "2026-08-18T13:33:42.048Z",
+  "lastSeenAtMs": 1787060022048,
+  "host": {
+    "hostname": "dac7c6fd-782c-4bc1-a629-45eab66f6644",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "dac7c6fd-782c-4bc1-a629-45eab66f6644"
+    }
+  }
+}
