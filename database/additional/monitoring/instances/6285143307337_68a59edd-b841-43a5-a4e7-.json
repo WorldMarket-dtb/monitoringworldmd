@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6285143307337",
+  "ownerName": "zekOfficiall",
+  "ownerNumbers": [
+    "6282185028675"
+  ],
+  "instanceId": "6285143307337_68a59edd-b841-43a5-a4e7-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-08-18T15:05:50.905Z",
+  "startedAtMs": 1787065550905,
+  "lastSeenAt": "2026-08-18T15:06:34.273Z",
+  "lastSeenAtMs": 1787065594273,
+  "host": {
+    "hostname": "68a59edd-b841-43a5-a4e7-b698a37ca621",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "68a59edd-b841-43a5-a4e7-b698a37ca621"
+    }
+  }
+}
