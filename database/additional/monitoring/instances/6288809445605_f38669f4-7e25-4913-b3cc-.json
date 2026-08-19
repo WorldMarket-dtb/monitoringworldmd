@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6288809445605",
+  "ownerName": "EsbyStore",
+  "ownerNumbers": [
+    "6287737616488"
+  ],
+  "instanceId": "6288809445605_f38669f4-7e25-4913-b3cc-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-08-19T08:54:04.325Z",
+  "startedAtMs": 1787129644325,
+  "lastSeenAt": "2026-08-19T08:56:23.281Z",
+  "lastSeenAtMs": 1787129783281,
+  "host": {
+    "hostname": "f38669f4-7e25-4913-b3cc-8bf0cd4a43bd",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "f38669f4-7e25-4913-b3cc-8bf0cd4a43bd"
+    }
+  }
+}
