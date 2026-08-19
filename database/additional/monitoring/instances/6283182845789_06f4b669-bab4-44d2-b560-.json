@@ -1,0 +1,25 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6283182845789",
+  "ownerName": "Sadric Market",
+  "ownerNumbers": [
+    "6288994538851",
+    "6288267183371"
+  ],
+  "instanceId": "6283182845789_06f4b669-bab4-44d2-b560-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-08-19T09:29:37.811Z",
+  "startedAtMs": 1787131777811,
+  "lastSeenAt": "2026-08-19T09:30:32.028Z",
+  "lastSeenAtMs": 1787131832028,
+  "host": {
+    "hostname": "06f4b669-bab4-44d2-b560-6484ec8b2baf",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "06f4b669-bab4-44d2-b560-6484ec8b2baf"
+    }
+  }
+}
