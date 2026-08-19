@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6283872258731",
+  "ownerName": "Dreams",
+  "ownerNumbers": [
+    "6283895498305"
+  ],
+  "instanceId": "6283872258731_6c46e039-98e0-47e8-b622-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-08-19T08:24:05.492Z",
+  "startedAtMs": 1787127845492,
+  "lastSeenAt": "2026-08-19T08:25:03.528Z",
+  "lastSeenAtMs": 1787127903528,
+  "host": {
+    "hostname": "6c46e039-98e0-47e8-b622-684b5fd61d20",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "6c46e039-98e0-47e8-b622-684b5fd61d20"
+    }
+  }
+}
