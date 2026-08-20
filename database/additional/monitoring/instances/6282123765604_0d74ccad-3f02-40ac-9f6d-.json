@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6282123765604",
+  "ownerName": "KINK YATZZ",
+  "ownerNumbers": [
+    "6289501953167"
+  ],
+  "instanceId": "6282123765604_0d74ccad-3f02-40ac-9f6d-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-08-20T05:29:48.272Z",
+  "startedAtMs": 1787203788272,
+  "lastSeenAt": "2026-08-20T05:31:08.930Z",
+  "lastSeenAtMs": 1787203868930,
+  "host": {
+    "hostname": "0d74ccad-3f02-40ac-9f6d-a45cee0f1d8e",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "0d74ccad-3f02-40ac-9f6d-a45cee0f1d8e"
+    }
+  }
+}
