@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6285169405162",
+  "ownerName": "Kyora Market",
+  "ownerNumbers": [
+    "6283121418564"
+  ],
+  "instanceId": "6285169405162_ae9a848d-1a52-4de1-abc7-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-08-22T03:02:09.086Z",
+  "startedAtMs": 1787367729086,
+  "lastSeenAt": "2026-08-22T03:04:31.984Z",
+  "lastSeenAtMs": 1787367871984,
+  "host": {
+    "hostname": "ae9a848d-1a52-4de1-abc7-8ae676bdb585",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "ae9a848d-1a52-4de1-abc7-8ae676bdb585"
+    }
+  }
+}
