@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6282113446214",
+  "ownerName": "Danz market",
+  "ownerNumbers": [
+    "62881012315150"
+  ],
+  "instanceId": "6282113446214_d05e7d44-fd76-4f8b-8495-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-08-23T05:08:22.695Z",
+  "startedAtMs": 1787461702695,
+  "lastSeenAt": "2026-08-23T05:09:09.141Z",
+  "lastSeenAtMs": 1787461749141,
+  "host": {
+    "hostname": "d05e7d44-fd76-4f8b-8495-4c1b466d476e",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "d05e7d44-fd76-4f8b-8495-4c1b466d476e"
+    }
+  }
+}
