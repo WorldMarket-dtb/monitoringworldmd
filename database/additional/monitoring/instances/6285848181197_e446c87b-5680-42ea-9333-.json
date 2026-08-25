@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6285848181197",
+  "ownerName": "Fatzz Store",
+  "ownerNumbers": [
+    "6281328073035"
+  ],
+  "instanceId": "6285848181197_e446c87b-5680-42ea-9333-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-08-25T03:26:29.315Z",
+  "startedAtMs": 1787628389315,
+  "lastSeenAt": "2026-08-25T03:27:21.501Z",
+  "lastSeenAtMs": 1787628441501,
+  "host": {
+    "hostname": "e446c87b-5680-42ea-9333-a6c43b975992",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "e446c87b-5680-42ea-9333-a6c43b975992"
+    }
+  }
+}
