@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6289530694225",
+  "ownerName": "AINO BOT",
+  "ownerNumbers": [
+    "6285659403037"
+  ],
+  "instanceId": "6289530694225_68c126f5-e934-4564-9c49-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-08-25T13:47:50.240Z",
+  "startedAtMs": 1787665670240,
+  "lastSeenAt": "2026-08-25T13:48:27.360Z",
+  "lastSeenAtMs": 1787665707360,
+  "host": {
+    "hostname": "68c126f5-e934-4564-9c49-afd5d4f2a4e0",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "68c126f5-e934-4564-9c49-afd5d4f2a4e0"
+    }
+  }
+}
