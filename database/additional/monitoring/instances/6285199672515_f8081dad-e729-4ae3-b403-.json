@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6285199672515",
+  "ownerName": "putz",
+  "ownerNumbers": [
+    "6288809912289"
+  ],
+  "instanceId": "6285199672515_f8081dad-e729-4ae3-b403-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-08-25T08:55:34.729Z",
+  "startedAtMs": 1787648134729,
+  "lastSeenAt": "2026-08-25T08:56:32.237Z",
+  "lastSeenAtMs": 1787648192237,
+  "host": {
+    "hostname": "f8081dad-e729-4ae3-b403-9a576dbaaf29",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "f8081dad-e729-4ae3-b403-9a576dbaaf29"
+    }
+  }
+}
