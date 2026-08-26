@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "628811310931",
+  "ownerName": "Ray Market",
+  "ownerNumbers": [
+    "6285883184206"
+  ],
+  "instanceId": "628811310931_a08e0eb0-565e-407b-b964-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-08-26T11:30:27.970Z",
+  "startedAtMs": 1787743827970,
+  "lastSeenAt": "2026-08-26T11:34:44.928Z",
+  "lastSeenAtMs": 1787744084928,
+  "host": {
+    "hostname": "a08e0eb0-565e-407b-b964-984998307785",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "a08e0eb0-565e-407b-b964-984998307785"
+    }
+  }
+}
