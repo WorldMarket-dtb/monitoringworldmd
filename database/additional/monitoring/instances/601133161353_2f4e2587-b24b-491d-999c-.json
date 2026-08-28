@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "601133161353",
+  "ownerName": "Dore Official",
+  "ownerNumbers": [
+    "6285124332821"
+  ],
+  "instanceId": "601133161353_2f4e2587-b24b-491d-999c-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-08-28T14:27:15.161Z",
+  "startedAtMs": 1787927235161,
+  "lastSeenAt": "2026-08-28T14:28:06.914Z",
+  "lastSeenAtMs": 1787927286914,
+  "host": {
+    "hostname": "2f4e2587-b24b-491d-999c-a3baa5c309e6",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "2f4e2587-b24b-491d-999c-a3baa5c309e6"
+    }
+  }
+}
