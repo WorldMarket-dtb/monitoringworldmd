@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6282118507430",
+  "ownerName": "SANDI STORE X MALZ STORE",
+  "ownerNumbers": [
+    "62881011382847"
+  ],
+  "instanceId": "6282118507430_5ef7df40-3771-44c4-afd6-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-08-29T02:43:41.251Z",
+  "startedAtMs": 1787971421251,
+  "lastSeenAt": "2026-08-29T02:46:29.044Z",
+  "lastSeenAtMs": 1787971589044,
+  "host": {
+    "hostname": "5ef7df40-3771-44c4-afd6-67c8fc43968c",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "5ef7df40-3771-44c4-afd6-67c8fc43968c"
+    }
+  }
+}
