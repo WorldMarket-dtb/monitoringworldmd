@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6283167555312",
+  "ownerName": "DEZSTORE",
+  "ownerNumbers": [
+    "6281911522780"
+  ],
+  "instanceId": "6283167555312_2a9e9261-b4e5-4ddb-ac1c-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-08-29T07:12:59.609Z",
+  "startedAtMs": 1787987579609,
+  "lastSeenAt": "2026-08-29T07:13:50.166Z",
+  "lastSeenAtMs": 1787987630166,
+  "host": {
+    "hostname": "2a9e9261-b4e5-4ddb-ac1c-30786d032a2c",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "2a9e9261-b4e5-4ddb-ac1c-30786d032a2c"
+    }
+  }
+}
