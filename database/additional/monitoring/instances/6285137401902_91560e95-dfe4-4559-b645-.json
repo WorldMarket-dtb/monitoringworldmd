@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6285137401902",
+  "ownerName": "Lipek",
+  "ownerNumbers": [
+    "6285752892792"
+  ],
+  "instanceId": "6285137401902_91560e95-dfe4-4559-b645-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-08-30T04:22:59.972Z",
+  "startedAtMs": 1788063779972,
+  "lastSeenAt": "2026-08-30T04:23:32.680Z",
+  "lastSeenAtMs": 1788063812680,
+  "host": {
+    "hostname": "91560e95-dfe4-4559-b645-edc525db2652",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "91560e95-dfe4-4559-b645-edc525db2652"
+    }
+  }
+}
