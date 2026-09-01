@@ -3,15 +3,15 @@
   "botNumber": "628976614553",
   "ownerName": "Chouji Market",
   "ownerNumbers": [
-    "6285181051503"
+    "6283152413283"
   ],
   "instanceId": "628976614553_f2cb6eee-fd61-4a10-b55a-",
   "folder": "session",
   "sessionType": "main",
-  "startedAt": "2026-08-30T23:57:03.275Z",
-  "startedAtMs": 1788134223275,
-  "lastSeenAt": "2026-09-01T13:27:27.774Z",
-  "lastSeenAtMs": 1788269247774,
+  "startedAt": "2026-09-01T13:38:45.656Z",
+  "startedAtMs": 1788269925656,
+  "lastSeenAt": "2026-09-01T13:39:11.857Z",
+  "lastSeenAtMs": 1788269951857,
   "host": {
     "hostname": "f2cb6eee-fd61-4a10-b55a-3dc77a5a5962",
     "platform": "linux",
