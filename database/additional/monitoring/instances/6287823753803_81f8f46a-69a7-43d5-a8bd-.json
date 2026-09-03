@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6287823753803",
+  "ownerName": "Abet Market",
+  "ownerNumbers": [
+    "6282139731990"
+  ],
+  "instanceId": "6287823753803_81f8f46a-69a7-43d5-a8bd-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-09-03T12:39:33.537Z",
+  "startedAtMs": 1788439173537,
+  "lastSeenAt": "2026-09-03T12:42:07.772Z",
+  "lastSeenAtMs": 1788439327772,
+  "host": {
+    "hostname": "81f8f46a-69a7-43d5-a8bd-212292851a58",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "81f8f46a-69a7-43d5-a8bd-212292851a58"
+    }
+  }
+}
