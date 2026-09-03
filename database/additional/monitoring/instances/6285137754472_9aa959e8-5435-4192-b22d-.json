@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6285137754472",
+  "ownerName": "KEIZA BOT",
+  "ownerNumbers": [
+    "6281919520719"
+  ],
+  "instanceId": "6285137754472_9aa959e8-5435-4192-b22d-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-09-03T13:30:02.298Z",
+  "startedAtMs": 1788442202298,
+  "lastSeenAt": "2026-09-03T13:31:30.755Z",
+  "lastSeenAtMs": 1788442290755,
+  "host": {
+    "hostname": "9aa959e8-5435-4192-b22d-62ff46f9ec99",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "9aa959e8-5435-4192-b22d-62ff46f9ec99"
+    }
+  }
+}
