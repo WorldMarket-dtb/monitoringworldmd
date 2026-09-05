@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6289675434349",
+  "ownerName": "Nacth Md",
+  "ownerNumbers": [
+    "62882021582688"
+  ],
+  "instanceId": "6289675434349_56dd8b18-8977-4bdd-af79-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-09-05T14:26:10.648Z",
+  "startedAtMs": 1788618370648,
+  "lastSeenAt": "2026-09-05T14:26:59.403Z",
+  "lastSeenAtMs": 1788618419403,
+  "host": {
+    "hostname": "56dd8b18-8977-4bdd-af79-8451c2ac9d97",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "56dd8b18-8977-4bdd-af79-8451c2ac9d97"
+    }
+  }
+}
