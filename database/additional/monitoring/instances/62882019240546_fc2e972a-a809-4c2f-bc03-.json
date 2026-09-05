@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "62882019240546",
+  "ownerName": "zyy stecu",
+  "ownerNumbers": [
+    "6283187665067"
+  ],
+  "instanceId": "62882019240546_fc2e972a-a809-4c2f-bc03-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-09-05T14:21:09.395Z",
+  "startedAtMs": 1788618069395,
+  "lastSeenAt": "2026-09-05T14:22:34.969Z",
+  "lastSeenAtMs": 1788618154969,
+  "host": {
+    "hostname": "fc2e972a-a809-4c2f-bc03-dc10aadd6299",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "fc2e972a-a809-4c2f-bc03-dc10aadd6299"
+    }
+  }
+}
