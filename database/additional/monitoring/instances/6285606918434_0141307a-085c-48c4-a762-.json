@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6285606918434",
+  "ownerName": "YXR_OFFICIAL",
+  "ownerNumbers": [
+    "6285184442039"
+  ],
+  "instanceId": "6285606918434_0141307a-085c-48c4-a762-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-09-06T11:45:53.518Z",
+  "startedAtMs": 1788695153518,
+  "lastSeenAt": "2026-09-06T11:47:20.468Z",
+  "lastSeenAtMs": 1788695240468,
+  "host": {
+    "hostname": "0141307a-085c-48c4-a762-21b54b243a90",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "0141307a-085c-48c4-a762-21b54b243a90"
+    }
+  }
+}
