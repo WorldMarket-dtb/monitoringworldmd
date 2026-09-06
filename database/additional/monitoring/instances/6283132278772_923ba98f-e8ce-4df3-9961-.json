@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6283132278772",
+  "ownerName": "Cey Market",
+  "ownerNumbers": [
+    "6285719260734"
+  ],
+  "instanceId": "6283132278772_923ba98f-e8ce-4df3-9961-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-09-06T13:07:33.016Z",
+  "startedAtMs": 1788700053016,
+  "lastSeenAt": "2026-09-06T13:08:30.711Z",
+  "lastSeenAtMs": 1788700110711,
+  "host": {
+    "hostname": "923ba98f-e8ce-4df3-9961-bed97cec7a9b",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "923ba98f-e8ce-4df3-9961-bed97cec7a9b"
+    }
+  }
+}
