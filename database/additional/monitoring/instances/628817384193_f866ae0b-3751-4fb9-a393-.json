@@ -4,15 +4,15 @@
   "ownerName": "World Md",
   "ownerNumbers": [
     "6283192500132",
-    "6283174288931"
+    "628817384193"
   ],
   "instanceId": "628817384193_f866ae0b-3751-4fb9-a393-",
   "folder": "session",
   "sessionType": "main",
-  "startedAt": "2026-09-07T11:11:07.851Z",
-  "startedAtMs": 1788779467851,
-  "lastSeenAt": "2026-09-07T11:11:59.893Z",
-  "lastSeenAtMs": 1788779519893,
+  "startedAt": "2026-09-07T11:15:19.385Z",
+  "startedAtMs": 1788779719385,
+  "lastSeenAt": "2026-09-07T11:15:34.319Z",
+  "lastSeenAtMs": 1788779734319,
   "host": {
     "hostname": "f866ae0b-3751-4fb9-a393-fa49acacdb45",
     "platform": "linux",
