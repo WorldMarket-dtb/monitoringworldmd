@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "628129069786",
+  "ownerName": "SEWA BOT PM 089505512560",
+  "ownerNumbers": [
+    "6289505512560"
+  ],
+  "instanceId": "628129069786_7430dff0-6348-481f-aa99-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-09-07T09:54:49.621Z",
+  "startedAtMs": 1788774889621,
+  "lastSeenAt": "2026-09-07T09:55:46.465Z",
+  "lastSeenAtMs": 1788774946465,
+  "host": {
+    "hostname": "7430dff0-6348-481f-aa99-6cd9f98c64b7",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "7430dff0-6348-481f-aa99-6cd9f98c64b7"
+    }
+  }
+}
