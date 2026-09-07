@@ -3,16 +3,15 @@
   "botNumber": "628817384193",
   "ownerName": "World Md",
   "ownerNumbers": [
-    "6283192500132",
-    "6283174288931"
+    "6283192500132"
   ],
   "instanceId": "628817384193_f866ae0b-3751-4fb9-a393-",
   "folder": "session",
   "sessionType": "main",
-  "startedAt": "2026-09-07T09:47:08.027Z",
-  "startedAtMs": 1788774428027,
-  "lastSeenAt": "2026-09-07T10:32:23.987Z",
-  "lastSeenAtMs": 1788777143987,
+  "startedAt": "2026-09-07T10:42:36.257Z",
+  "startedAtMs": 1788777756257,
+  "lastSeenAt": "2026-09-07T10:42:51.485Z",
+  "lastSeenAtMs": 1788777771485,
   "host": {
     "hostname": "f866ae0b-3751-4fb9-a393-fa49acacdb45",
     "platform": "linux",
