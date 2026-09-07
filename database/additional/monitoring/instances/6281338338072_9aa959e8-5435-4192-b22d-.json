@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6281338338072",
+  "ownerName": "Keiza Store",
+  "ownerNumbers": [
+    "6281919520719"
+  ],
+  "instanceId": "6281338338072_9aa959e8-5435-4192-b22d-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-09-07T12:56:00.973Z",
+  "startedAtMs": 1788785760973,
+  "lastSeenAt": "2026-09-07T12:56:55.393Z",
+  "lastSeenAtMs": 1788785815393,
+  "host": {
+    "hostname": "9aa959e8-5435-4192-b22d-62ff46f9ec99",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "9aa959e8-5435-4192-b22d-62ff46f9ec99"
+    }
+  }
+}
