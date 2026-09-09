@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6281994518406",
+  "ownerName": "nopal market",
+  "ownerNumbers": [
+    "6285956432802"
+  ],
+  "instanceId": "6281994518406_cf1adfaa-02e8-4f95-9365-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-09-09T07:25:59.941Z",
+  "startedAtMs": 1788938759941,
+  "lastSeenAt": "2026-09-09T07:26:52.397Z",
+  "lastSeenAtMs": 1788938812397,
+  "host": {
+    "hostname": "cf1adfaa-02e8-4f95-9365-fe96bc13c533",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "cf1adfaa-02e8-4f95-9365-fe96bc13c533"
+    }
+  }
+}
