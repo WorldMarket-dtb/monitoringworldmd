@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "628817384193",
+  "ownerName": "World Md",
+  "ownerNumbers": [
+    "6283192500132"
+  ],
+  "instanceId": "628817384193_fa1c8778-a174-473f-a183-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-09-09T05:55:15.378Z",
+  "startedAtMs": 1788933315378,
+  "lastSeenAt": "2026-09-09T05:56:19.360Z",
+  "lastSeenAtMs": 1788933379360,
+  "host": {
+    "hostname": "fa1c8778-a174-473f-a183-fbbe6a5538cf",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "fa1c8778-a174-473f-a183-fbbe6a5538cf"
+    }
+  }
+}
