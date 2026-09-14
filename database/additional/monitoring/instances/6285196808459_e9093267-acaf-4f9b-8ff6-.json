@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6285196808459",
+  "ownerName": "Kara Iroha",
+  "ownerNumbers": [
+    "6285129882148"
+  ],
+  "instanceId": "6285196808459_e9093267-acaf-4f9b-8ff6-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-09-14T10:15:50.880Z",
+  "startedAtMs": 1789380950880,
+  "lastSeenAt": "2026-09-14T10:31:47.768Z",
+  "lastSeenAtMs": 1789381907768,
+  "host": {
+    "hostname": "e9093267-acaf-4f9b-8ff6-544699232180",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "e9093267-acaf-4f9b-8ff6-544699232180"
+    }
+  }
+}
