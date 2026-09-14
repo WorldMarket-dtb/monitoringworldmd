@@ -3,15 +3,15 @@
   "botNumber": "6285640342007",
   "ownerName": "Mezo",
   "ownerNumbers": [
-    "6283895498305"
+    "6283856837373"
   ],
   "instanceId": "6285640342007_67df00e6-7f3e-43ab-a471-",
   "folder": "session",
   "sessionType": "main",
-  "startedAt": "2026-09-14T10:53:24.799Z",
-  "startedAtMs": 1789383204799,
-  "lastSeenAt": "2026-09-14T10:53:38.081Z",
-  "lastSeenAtMs": 1789383218081,
+  "startedAt": "2026-09-14T11:00:20.187Z",
+  "startedAtMs": 1789383620187,
+  "lastSeenAt": "2026-09-14T11:00:33.442Z",
+  "lastSeenAtMs": 1789383633442,
   "host": {
     "hostname": "67df00e6-7f3e-43ab-a471-a21da05a2337",
     "platform": "linux",
