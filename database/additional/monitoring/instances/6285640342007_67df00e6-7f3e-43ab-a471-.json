@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6285640342007",
+  "ownerName": "Mezo",
+  "ownerNumbers": [
+    "6283895498305"
+  ],
+  "instanceId": "6285640342007_67df00e6-7f3e-43ab-a471-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-09-14T10:38:52.893Z",
+  "startedAtMs": 1789382332893,
+  "lastSeenAt": "2026-09-14T10:39:59.932Z",
+  "lastSeenAtMs": 1789382399932,
+  "host": {
+    "hostname": "67df00e6-7f3e-43ab-a471-a21da05a2337",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "67df00e6-7f3e-43ab-a471-a21da05a2337"
+    }
+  }
+}
