@@ -1,17 +1,17 @@
 {
   "app": "WORLD SCRIPT MD",
   "botNumber": "62882019240546",
-  "ownerName": "zyy stecu",
+  "ownerName": "World Market",
   "ownerNumbers": [
     "6283187665067"
   ],
   "instanceId": "62882019240546_fc2e972a-a809-4c2f-bc03-",
   "folder": "session",
   "sessionType": "main",
-  "startedAt": "2026-09-14T13:35:21.044Z",
-  "startedAtMs": 1789392921044,
-  "lastSeenAt": "2026-09-14T13:35:33.943Z",
-  "lastSeenAtMs": 1789392933943,
+  "startedAt": "2026-09-15T14:39:06.329Z",
+  "startedAtMs": 1789483146329,
+  "lastSeenAt": "2026-09-15T14:39:20.102Z",
+  "lastSeenAtMs": 1789483160102,
   "host": {
     "hostname": "fc2e972a-a809-4c2f-bc03-dc10aadd6299",
     "platform": "linux",
