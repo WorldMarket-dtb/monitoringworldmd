@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6283108890710",
+  "ownerName": "Jean Market",
+  "ownerNumbers": [
+    "6285719260734"
+  ],
+  "instanceId": "6283108890710_01e8326c-4876-4c98-ba7f-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-09-15T10:15:16.927Z",
+  "startedAtMs": 1789467316927,
+  "lastSeenAt": "2026-09-15T10:16:46.019Z",
+  "lastSeenAtMs": 1789467406019,
+  "host": {
+    "hostname": "01e8326c-4876-4c98-ba7f-4d4368d021af",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "01e8326c-4876-4c98-ba7f-4d4368d021af"
+    }
+  }
+}
