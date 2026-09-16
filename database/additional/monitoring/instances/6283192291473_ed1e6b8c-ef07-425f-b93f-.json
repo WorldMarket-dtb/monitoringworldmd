@@ -1,17 +1,17 @@
 {
   "app": "WORLD SCRIPT MD",
   "botNumber": "6283192291473",
-  "ownerName": "Acell",
+  "ownerName": "World Market",
   "ownerNumbers": [
-    "6283800824205"
+    "62881024945481"
   ],
   "instanceId": "6283192291473_ed1e6b8c-ef07-425f-b93f-",
   "folder": "session",
   "sessionType": "main",
-  "startedAt": "2026-08-14T13:17:24.548Z",
-  "startedAtMs": 1786713444548,
-  "lastSeenAt": "2026-08-17T13:47:46.670Z",
-  "lastSeenAtMs": 1786974466670,
+  "startedAt": "2026-09-16T09:32:58.525Z",
+  "startedAtMs": 1789551178525,
+  "lastSeenAt": "2026-09-16T09:33:59.710Z",
+  "lastSeenAtMs": 1789551239710,
   "host": {
     "hostname": "ed1e6b8c-ef07-425f-b93f-b5612862a17b",
     "platform": "linux",
