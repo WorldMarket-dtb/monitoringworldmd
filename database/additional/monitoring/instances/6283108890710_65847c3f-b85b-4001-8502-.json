@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6283108890710",
+  "ownerName": "ddCey Market",
+  "ownerNumbers": [
+    "6285719260734"
+  ],
+  "instanceId": "6283108890710_65847c3f-b85b-4001-8502-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-09-19T10:56:00.711Z",
+  "startedAtMs": 1789815360711,
+  "lastSeenAt": "2026-09-19T10:56:54.846Z",
+  "lastSeenAtMs": 1789815414846,
+  "host": {
+    "hostname": "65847c3f-b85b-4001-8502-aeb56b8bd7ef",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "65847c3f-b85b-4001-8502-aeb56b8bd7ef"
+    }
+  }
+}
