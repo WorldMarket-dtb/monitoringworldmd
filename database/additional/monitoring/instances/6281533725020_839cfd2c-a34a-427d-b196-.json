@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6281533725020",
+  "ownerName": "Indra",
+  "ownerNumbers": [
+    "6289531990592"
+  ],
+  "instanceId": "6281533725020_839cfd2c-a34a-427d-b196-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-09-19T12:55:29.039Z",
+  "startedAtMs": 1789822529039,
+  "lastSeenAt": "2026-09-19T13:12:06.643Z",
+  "lastSeenAtMs": 1789823526643,
+  "host": {
+    "hostname": "839cfd2c-a34a-427d-b196-4453de624f0b",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "839cfd2c-a34a-427d-b196-4453de624f0b"
+    }
+  }
+}
