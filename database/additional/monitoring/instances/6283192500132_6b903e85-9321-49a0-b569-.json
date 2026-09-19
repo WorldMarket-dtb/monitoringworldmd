@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6283192500132",
+  "ownerName": "Pangeran Lynxiee",
+  "ownerNumbers": [
+    "628817114783"
+  ],
+  "instanceId": "6283192500132_6b903e85-9321-49a0-b569-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-09-19T04:35:11.253Z",
+  "startedAtMs": 1789792511253,
+  "lastSeenAt": "2026-09-19T04:37:47.552Z",
+  "lastSeenAtMs": 1789792667552,
+  "host": {
+    "hostname": "6b903e85-9321-49a0-b569-a8193bc80884",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "6b903e85-9321-49a0-b569-a8193bc80884"
+    }
+  }
+}
