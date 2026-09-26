@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6285138437176",
+  "ownerName": "PrinceRyzll",
+  "ownerNumbers": [
+    "6285764615399"
+  ],
+  "instanceId": "6285138437176_57770d18-5e34-4b82-ad52-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-09-26T06:21:35.331Z",
+  "startedAtMs": 1790403695331,
+  "lastSeenAt": "2026-09-26T06:22:18.289Z",
+  "lastSeenAtMs": 1790403738289,
+  "host": {
+    "hostname": "57770d18-5e34-4b82-ad52-12d0c24008fb",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "57770d18-5e34-4b82-ad52-12d0c24008fb"
+    }
+  }
+}
