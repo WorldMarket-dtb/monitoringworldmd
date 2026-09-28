@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6285645286910",
+  "ownerName": "Minji Supp System",
+  "ownerNumbers": [
+    "6285645286910"
+  ],
+  "instanceId": "6285645286910_432ecbb8-4888-489c-a30e-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-09-28T13:48:13.552Z",
+  "startedAtMs": 1790603293552,
+  "lastSeenAt": "2026-09-28T13:49:18.665Z",
+  "lastSeenAtMs": 1790603358665,
+  "host": {
+    "hostname": "432ecbb8-4888-489c-a30e-556257f40a8c",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "432ecbb8-4888-489c-a30e-556257f40a8c"
+    }
+  }
+}
