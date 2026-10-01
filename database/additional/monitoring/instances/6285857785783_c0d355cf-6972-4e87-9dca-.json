@@ -1,0 +1,25 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6285857785783",
+  "ownerName": "Nova Market",
+  "ownerNumbers": [
+    "6285857785783",
+    "628137022652"
+  ],
+  "instanceId": "6285857785783_c0d355cf-6972-4e87-9dca-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-10-01T03:01:13.896Z",
+  "startedAtMs": 1790823673896,
+  "lastSeenAt": "2026-10-01T03:02:02.031Z",
+  "lastSeenAtMs": 1790823722031,
+  "host": {
+    "hostname": "c0d355cf-6972-4e87-9dca-bd8a6958c184",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "c0d355cf-6972-4e87-9dca-bd8a6958c184"
+    }
+  }
+}
