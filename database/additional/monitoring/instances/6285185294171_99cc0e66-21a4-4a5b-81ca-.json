@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6285185294171",
+  "ownerName": "Ryuu Ackerman",
+  "ownerNumbers": [
+    "6281959539922"
+  ],
+  "instanceId": "6285185294171_99cc0e66-21a4-4a5b-81ca-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-10-01T12:07:47.515Z",
+  "startedAtMs": 1790856467515,
+  "lastSeenAt": "2026-10-01T12:08:33.771Z",
+  "lastSeenAtMs": 1790856513771,
+  "host": {
+    "hostname": "99cc0e66-21a4-4a5b-81ca-fc35fc87724f",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "99cc0e66-21a4-4a5b-81ca-fc35fc87724f"
+    }
+  }
+}
