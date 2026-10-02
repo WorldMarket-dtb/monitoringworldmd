@@ -4,15 +4,15 @@
   "ownerName": "kyanzz official",
   "ownerNumbers": [
     "6285189084721",
-    "6285133404881"
+    "6283892736961"
   ],
   "instanceId": "6285189084721_222ac23b-c910-4d96-ab67-",
   "folder": "session",
   "sessionType": "main",
-  "startedAt": "2026-09-29T13:45:37.610Z",
-  "startedAtMs": 1790689537610,
-  "lastSeenAt": "2026-10-02T09:45:57.641Z",
-  "lastSeenAtMs": 1790934357641,
+  "startedAt": "2026-10-02T09:50:47.725Z",
+  "startedAtMs": 1790934647725,
+  "lastSeenAt": "2026-10-02T09:51:06.959Z",
+  "lastSeenAtMs": 1790934666959,
   "host": {
     "hostname": "222ac23b-c910-4d96-ab67-c72972876f58",
     "platform": "linux",
