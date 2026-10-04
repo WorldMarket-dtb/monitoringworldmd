@@ -8,12 +8,12 @@
   "instanceId": "6285124181647",
   "folder": "session",
   "sessionType": "main",
-  "startedAt": "2026-10-01T08:43:21.253Z",
-  "startedAtMs": 1790844201253,
-  "lastSeenAt": "2026-10-03T18:43:36.109Z",
-  "lastSeenAtMs": 1791053016109,
+  "startedAt": "2026-10-04T03:16:20.747Z",
+  "startedAtMs": 1791083780747,
+  "lastSeenAt": "2026-10-04T03:17:05.296Z",
+  "lastSeenAtMs": 1791083825296,
   "host": {
-    "hostname": "474d183c8ed9",
+    "hostname": "268ab327a33e",
     "platform": "linux",
     "node": "20.20.2",
     "panel": {
