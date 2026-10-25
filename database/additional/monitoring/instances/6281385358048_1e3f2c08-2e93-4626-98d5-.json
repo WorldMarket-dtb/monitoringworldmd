@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6281385358048",
+  "ownerName": "Luxx Store",
+  "ownerNumbers": [
+    "6283187665067"
+  ],
+  "instanceId": "6281385358048_1e3f2c08-2e93-4626-98d5-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-10-25T08:47:35.717Z",
+  "startedAtMs": 1792918055717,
+  "lastSeenAt": "2026-10-25T08:48:07.398Z",
+  "lastSeenAtMs": 1792918087398,
+  "host": {
+    "hostname": "1e3f2c08-2e93-4626-98d5-2aa5847317e6",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "1e3f2c08-2e93-4626-98d5-2aa5847317e6"
+    }
+  }
+}
