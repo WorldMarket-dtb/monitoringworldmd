@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "62882019240546",
+  "ownerName": "zyy nonchalant",
+  "ownerNumbers": [
+    "6283187665067"
+  ],
+  "instanceId": "62882019240546_534bfac0-499c-46e3-9365-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-10-30T15:50:03.183Z",
+  "startedAtMs": 1793375403183,
+  "lastSeenAt": "2026-10-30T15:50:55.905Z",
+  "lastSeenAtMs": 1793375455905,
+  "host": {
+    "hostname": "534bfac0-499c-46e3-9365-27f79bb4d035",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "534bfac0-499c-46e3-9365-27f79bb4d035"
+    }
+  }
+}
