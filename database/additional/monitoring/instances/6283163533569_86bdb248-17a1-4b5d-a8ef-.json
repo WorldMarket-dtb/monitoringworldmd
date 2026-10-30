@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6283163533569",
+  "ownerName": "Luxx Gateng Bgt",
+  "ownerNumbers": [
+    "6283187665067"
+  ],
+  "instanceId": "6283163533569_86bdb248-17a1-4b5d-a8ef-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-10-30T05:34:42.842Z",
+  "startedAtMs": 1793338482842,
+  "lastSeenAt": "2026-10-30T05:35:27.425Z",
+  "lastSeenAtMs": 1793338527425,
+  "host": {
+    "hostname": "86bdb248-17a1-4b5d-a8ef-0ab3688074bd",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "86bdb248-17a1-4b5d-a8ef-0ab3688074bd"
+    }
+  }
+}
