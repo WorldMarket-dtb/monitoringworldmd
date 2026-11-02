@@ -1,0 +1,24 @@
+{
+  "app": "WORLD SCRIPT MD",
+  "botNumber": "6283891235021",
+  "ownerName": "Zeyy MD",
+  "ownerNumbers": [
+    "6283187665067"
+  ],
+  "instanceId": "6283891235021_86bdb248-17a1-4b5d-a8ef-",
+  "folder": "session",
+  "sessionType": "main",
+  "startedAt": "2026-11-02T13:23:10.087Z",
+  "startedAtMs": 1793625790087,
+  "lastSeenAt": "2026-11-02T13:24:35.662Z",
+  "lastSeenAtMs": 1793625875662,
+  "host": {
+    "hostname": "86bdb248-17a1-4b5d-a8ef-0ab3688074bd",
+    "platform": "linux",
+    "node": "20.20.2",
+    "panel": {
+      "pterodactyl": true,
+      "serverIdentifier": "86bdb248-17a1-4b5d-a8ef-0ab3688074bd"
+    }
+  }
+}
